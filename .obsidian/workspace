@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "40c87435aee3ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d91ef3104dd37a4",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ES6/Prototype.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1119a6275d2a3dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f07f82055117b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192e99c13a6e6658",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54cb2a839615ea88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57c9ad504eb0a96a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aaf6ccc0d3adfa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffbb25dd6722e698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ES6/Prototype.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ed91429ec53bac8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d91ef3104dd37a4",
+  "lastOpenFiles": [
+    "Callouts.md",
+    "ES6/Prototype.md",
+    "ES6/Date, GMT, UTC, Unix 시간.md",
+    "ES6/strings.md",
+    "README.md",
+    "CSS/TailwindCSS/Setup.md",
+    "ES6/variables.md",
+    "ES6/functions.md",
+    "ES6/CleanCode_for_begginer.md",
+    "Network/http, tcp, ws protocol.md"
+  ]
+}
