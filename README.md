@@ -2,4 +2,10 @@
 
 - 학습 내용을 Wiki 형식으로 정리
 - 출처 등은 해당 페이지 내에서 서술(북마크 관리는 이 vault내에서 하지 않음)
-- 
+
+
+---
+
+## Obsidian git
+- 변경사항 커밋 : `command + shift + s`
+- 푸쉬 : `command + shift + p`
