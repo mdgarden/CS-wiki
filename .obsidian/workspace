@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Frontend/JavaScript/ES6/strings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Frontend/JavaScript/ES6/strings.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "5b73397add86aacb",
   "lastOpenFiles": [
-    "Obsidian Tips.md",
-    "Callouts.md",
-    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
+    "README.md",
     "Frontend/JavaScript/ES6/variables.md",
+    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
+    "Callouts.md",
+    "Obsidian Tips.md",
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
     "Frontend/JavaScript/ES6/strings.md",
     "Frontend/JavaScript/ES6/functions.md",
     "Frontend/JavaScript/ES6/CleanCode_for_begginer.md",
-    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md",
-    "README.md",
-    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md"
+    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md"
   ]
 }
