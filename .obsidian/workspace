@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d91ef3104dd37a4",
+        "id": "5b73397add86aacb",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ES6/Prototype.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ES6/Prototype.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d91ef3104dd37a4",
+  "active": "5b73397add86aacb",
   "lastOpenFiles": [
-    "Callouts.md",
-    "ES6/Prototype.md",
-    "ES6/Date, GMT, UTC, Unix 시간.md",
-    "ES6/strings.md",
+    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
+    "Modern JavaScript Deep Dive.md",
     "README.md",
-    "CSS/TailwindCSS/Setup.md",
-    "ES6/variables.md",
-    "ES6/functions.md",
-    "ES6/CleanCode_for_begginer.md",
-    "Network/http, tcp, ws protocol.md"
+    "Frontend/JavaScript/ES6/strings.md",
+    "Callouts.md",
+    "Frontend/HTML-CSS/TailwindCSS/How to/Setup.md",
+    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md",
+    "Frontend/JavaScript/ES6/variables.md",
+    "Frontend/JavaScript/ES6/functions.md",
+    "Frontend/JavaScript/ES6/CleanCode_for_begginer.md"
   ]
 }
