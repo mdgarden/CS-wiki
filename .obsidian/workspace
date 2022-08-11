@@ -20,8 +20,13 @@
         "id": "5b73397add86aacb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       },
       {
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md"
+              }
             }
           },
           {
@@ -159,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192e99c13a6e6658",
+  "active": "5b73397add86aacb",
   "lastOpenFiles": [
+    "Frontend/JavaScript/ES6/variables.md",
+    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md",
+    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
     "Frontend/JavaScript/ES6/functions.md",
     "Frontend/JavaScript/ES6/strings.md",
-    "2022-08-11.md",
-    "Frontend/JavaScript/ES6/variables.md",
     "Frontend/JavaScript/ES6/CleanCode_for_begginer.md",
-    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
+    "2022-08-11.md",
     "Callouts.md",
     "README.md",
-    "Obsidian Tips.md",
-    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md"
+    "Obsidian Tips.md"
   ]
 }
