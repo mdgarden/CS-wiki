@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d0bcee8d96c37e05",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Frontend/JavaScript/ES6/strings.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5b73397add86aacb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "159c6334ec4a7b99",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frontend/JavaScript/ES6/variables.md",
+            "file": "Programming/함수형 프로그래밍.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "f5b78b2b4db06691",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -96,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
+                "file": "Programming/함수형 프로그래밍.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md"
+                "file": "Programming/함수형 프로그래밍.md"
               }
             }
           },
@@ -167,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b73397add86aacb",
+  "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
+    "Programming.md",
+    "Obsidian Tips.md",
+    "Network/payload.md",
+    "Network/Session, Cookie.md",
+    "Network/http, tcp, ws protocol.md",
+    "Network/JWT, iron-session.md",
     "Frontend/JavaScript/ES6/variables.md",
-    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md",
-    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
-    "Frontend/JavaScript/ES6/functions.md",
     "Frontend/JavaScript/ES6/strings.md",
-    "Frontend/JavaScript/ES6/CleanCode_for_begginer.md",
-    "2022-08-11.md",
-    "Callouts.md",
-    "README.md",
-    "Obsidian Tips.md"
+    "Network/인증의 구조와 방법.md",
+    "yaml, json, xml.md"
   ]
 }
