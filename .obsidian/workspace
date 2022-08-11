@@ -149,8 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192e99c13a6e6658",
+  "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
+    "Frontend/JavaScript/React/Reducer.md",
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
     "Programming/함수형 프로그래밍.md",
     "Programming.md",
     "Obsidian Tips.md",
@@ -158,8 +160,6 @@
     "Network/Session, Cookie.md",
     "Network/http, tcp, ws protocol.md",
     "Network/JWT, iron-session.md",
-    "Frontend/JavaScript/ES6/variables.md",
-    "Frontend/JavaScript/ES6/strings.md",
-    "Network/인증의 구조와 방법.md"
+    "Frontend/JavaScript/ES6/variables.md"
   ]
 }
