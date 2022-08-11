@@ -1,5 +1,8 @@
 {
   "cssTheme": "Discordian",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "D2Coding"
 }
