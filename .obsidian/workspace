@@ -4,13 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5b73397add86aacb",
+        "id": "d0bcee8d96c37e05",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Frontend/JavaScript/ES6/strings.md",
             "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5b73397add86aacb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "159c6334ec4a7b99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Frontend/JavaScript/ES6/variables.md",
+            "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -69,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,6 +124,33 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "d1a22b20c3de795b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d40b8b83a18c246b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "94733f72f9266592",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -111,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b73397add86aacb",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "Frontend/JavaScript/ES6/functions.md",
     "Frontend/JavaScript/ES6/strings.md",
-    "README.md",
+    "2022-08-11.md",
     "Frontend/JavaScript/ES6/variables.md",
+    "Frontend/JavaScript/ES6/CleanCode_for_begginer.md",
     "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
     "Callouts.md",
+    "README.md",
     "Obsidian Tips.md",
-    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
-    "Frontend/JavaScript/ES6/functions.md",
-    "Frontend/JavaScript/ES6/CleanCode_for_begginer.md",
-    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md"
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md"
   ]
 }

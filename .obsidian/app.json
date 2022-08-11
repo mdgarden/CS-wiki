@@ -3,5 +3,7 @@
   "livePreview": true,
   "showFrontmatter": true,
   "tabSize": 2,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

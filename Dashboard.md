@@ -1,4 +1,0 @@
-```tracker
-folder: ./ 
-datasetName: test 
-```

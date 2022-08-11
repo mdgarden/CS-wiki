@@ -16,5 +16,13 @@
       ],
       "key": "P"
     }
+  ],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
