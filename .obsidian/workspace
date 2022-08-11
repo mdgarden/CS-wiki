@@ -87,6 +87,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5248ccd8e790e242",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7c8ec70b7302951",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,15 +113,15 @@
   },
   "active": "5b73397add86aacb",
   "lastOpenFiles": [
-    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
-    "Network/http, tcp, ws protocol.md",
-    "Callouts.md",
     "Obsidian Tips.md",
-    "README.md",
-    "Frontend/JavaScript/ES6/variables.md",
+    "Callouts.md",
     "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
-    "Modern JavaScript Deep Dive.md",
+    "Frontend/JavaScript/ES6/variables.md",
     "Frontend/JavaScript/ES6/strings.md",
-    "Frontend/HTML-CSS/TailwindCSS/How to/Setup.md"
+    "Frontend/JavaScript/ES6/functions.md",
+    "Frontend/JavaScript/ES6/CleanCode_for_begginer.md",
+    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md",
+    "README.md",
+    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md"
   ]
 }
