@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Obsidian Tips.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Tips.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "5b73397add86aacb",
   "lastOpenFiles": [
-    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
-    "Modern JavaScript Deep Dive.md",
-    "README.md",
-    "Frontend/JavaScript/ES6/strings.md",
     "Callouts.md",
-    "Frontend/HTML-CSS/TailwindCSS/How to/Setup.md",
-    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md",
+    "Obsidian Tips.md",
+    "README.md",
+    "Frontend/JavaScript/Modern JavaScript Deep Dive/19. Prototype.md",
     "Frontend/JavaScript/ES6/variables.md",
-    "Frontend/JavaScript/ES6/functions.md",
-    "Frontend/JavaScript/ES6/CleanCode_for_begginer.md"
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
+    "Modern JavaScript Deep Dive.md",
+    "Frontend/JavaScript/ES6/strings.md",
+    "Frontend/HTML-CSS/TailwindCSS/How to/Setup.md",
+    "Frontend/JavaScript/ES6/Date, GMT, UTC, Unix 시간.md"
   ]
 }
