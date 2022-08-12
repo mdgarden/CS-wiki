@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
+            "file": "📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
+                "file": "📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,36 +98,12 @@
             }
           },
           {
-            "id": "5248ccd8e790e242",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7c8ec70b7302951",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "d1a22b20c3de795b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-ducks",
-              "state": {}
-            }
-          },
-          {
             "id": "d40b8b83a18c246b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md"
+                "file": "📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md"
               }
             }
           },
@@ -151,15 +127,15 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
-    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
-    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
-    "Callouts.md",
     "📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "📖함수형 프로그래밍/활용 예.md",
-    "Obsidian Tips.md",
-    "Frontend/JavaScript/React/Reducer.md",
-    "Frontend/JavaScript/React/State, Hooks.md",
-    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
-    "Programming.md"
+    "📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
+    "README.md",
+    "Callouts.md",
+    "📖함수형 프로그래밍/note.md",
+    "Data/yaml, json, xml.md",
+    "Network/payload.md",
+    "Network/http, tcp, ws protocol.md",
+    "Network/JWT, iron-session.md",
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md"
   ]
 }
