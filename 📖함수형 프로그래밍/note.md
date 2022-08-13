@@ -7,3 +7,6 @@
 
 콜백 함수는 함수 내부에서 함수를 호출하는 것
 레퍼 함수는 함수를 호출하기 위한 함수를 만드는 것
+
+참고
+https://saengmotmi.netlify.app/javascript-study/2021-08-23-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98/
