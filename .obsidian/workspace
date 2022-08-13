@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+            "file": "Network/📖Real World HTTP/README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+                "file": "Network/📖Real World HTTP/README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md"
+                "file": "Network/📖Real World HTTP/README.md"
               }
             }
           },
@@ -127,10 +127,10 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
-    "Network/📖Real World HTTP/README.md.md",
+    "Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "Network/📖Real World HTTP/README.md",
     "📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "📖함수형 프로그래밍/note.md",
-    "Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
     "📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "README.md",
     "Callouts.md",
