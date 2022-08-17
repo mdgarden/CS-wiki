@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Network/payload.md",
+            "file": "Data/GMT, UTC, Unix Time.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/payload.md",
+                "file": "Data/GMT, UTC, Unix Time.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/payload.md"
+                "file": "Data/GMT, UTC, Unix Time.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
-    "Obsidian Tips.md",
-    "Callouts.md",
-    "Network/Session, Cookie.md",
-    "Network/payload.md",
-    "Network/JWT, iron-session.md",
-    "Network/http, tcp, ws protocol.md",
-    "Network/인증의 구조와 방법.md",
-    "Frontend/JavaScript/React/State, Hooks.md",
+    "Frontend/JavaScript/ES6/Date.md",
+    "Data/GMT, UTC, Unix Time.md",
+    "Data/yaml, json, xml.md",
+    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/Untitled.md",
+    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
+    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
     "Frontend/JavaScript/React/Reducer.md",
-    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md"
+    "Frontend/JavaScript/React/State, Hooks.md",
+    "Frontend/JavaScript/ES6/strings.md"
   ]
 }
