@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General/GMT, UTC, Unix Time.md",
+            "file": "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/GMT, UTC, Unix Time.md",
+                "file": "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/GMT, UTC, Unix Time.md"
+                "file": "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md"
               }
             }
           },
@@ -125,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192e99c13a6e6658",
+  "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
-    "Frontend/JavaScript/ES6/Date.md",
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "General/GMT, UTC, Unix Time.md",
+    "Frontend/JavaScript/ES6/Date.md",
     "General/yaml, json, xml.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/Untitled.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
     "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
-    "Frontend/JavaScript/React/Reducer.md",
-    "Frontend/JavaScript/React/State, Hooks.md",
-    "Frontend/JavaScript/ES6/strings.md"
+    "Frontend/JavaScript/React/Reducer.md"
   ]
 }
