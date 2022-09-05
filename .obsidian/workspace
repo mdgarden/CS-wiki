@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General/Network/Session, Cookie.md",
+            "file": "Frontend/JavaScript/React/State, Hooks.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Network/Session, Cookie.md",
+                "file": "Frontend/JavaScript/React/State, Hooks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Network/Session, Cookie.md"
+                "file": "Frontend/JavaScript/React/State, Hooks.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
+    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
+    "Frontend/JavaScript/React/Reducer.md",
+    "General/Network/Session, Cookie.md",
     "General/Network/인증의 구조와 방법.md",
     "Frontend/JavaScript/React/State, Hooks.md",
-    "Frontend/JavaScript/React/Reducer.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "General/GMT, UTC, Unix Time.md",
     "Frontend/JavaScript/ES6/Date.md",
     "Frontend/JavaScript/ES6/strings.md",
-    "Frontend/JavaScript/ES6/functions.md",
-    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
-    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md"
+    "Frontend/JavaScript/ES6/functions.md"
   ]
 }
