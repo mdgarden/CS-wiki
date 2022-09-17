@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frontend/JavaScript/React/State, Hooks.md",
+            "file": "General/Network/Autentication/JWT.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/JavaScript/React/State, Hooks.md",
+                "file": "General/Network/Autentication/JWT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/JavaScript/React/State, Hooks.md"
+                "file": "General/Network/Autentication/JWT.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
-    "Frontend/JavaScript/React/JSX tag, Fragment, Component.md",
-    "Frontend/JavaScript/React/Reducer.md",
-    "General/Network/Session, Cookie.md",
-    "General/Network/인증의 구조와 방법.md",
-    "Frontend/JavaScript/React/State, Hooks.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Autentication/iron-session.md",
+    "General/Network/Autentication/JWT.md",
+    "General/Network/Autentication/인증의 구조와 방법.md",
+    "Frontend/JavaScript/React/Document/JSX tag, Fragment, Component.md",
+    "Frontend/JavaScript/React/Library/Redux.md",
+    "Frontend/JavaScript/React/Document/State, Hooks.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "General/GMT, UTC, Unix Time.md",
-    "Frontend/JavaScript/ES6/Date.md",
-    "Frontend/JavaScript/ES6/strings.md",
-    "Frontend/JavaScript/ES6/functions.md"
+    "Frontend/JavaScript/ES6/Date.md"
   ]
 }
