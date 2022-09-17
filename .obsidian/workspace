@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian/Tags and Links.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Tags and Links.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Tags and Links.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
+    "Obsidian/Tags and Links.md",
     "Obsidian/Obsidian Tips.md",
     "General/yaml, json, xml.md",
     "General/GMT, UTC, Unix Time.md",
@@ -135,7 +136,6 @@
     "General/Network/Autentication/인증의 구조와 방법.md",
     "General/Network/Autentication/iron-session.md",
     "General/Network/http, tcp, ws protocol.md",
-    "General/Network/Autentication/Session, Cookie.md",
-    "General/Network/Autentication/OAuth 2.0.md"
+    "General/Network/Autentication/Session, Cookie.md"
   ]
 }
