@@ -7,13 +7,8 @@
         "id": "159c6334ec4a7b99",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "159c6334ec4a7b99",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "Obsidian/Callouts.md",
     "Obsidian/Tags and Links.md",
     "Obsidian/Obsidian Tips.md",
+    "README.md",
     "General/yaml, json, xml.md",
     "General/GMT, UTC, Unix Time.md",
     "General/Network/payload.md",
     "General/Network/Autentication/JWT.md",
     "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/Network/Autentication/iron-session.md",
-    "General/Network/http, tcp, ws protocol.md",
-    "General/Network/Autentication/Session, Cookie.md"
+    "General/Network/Autentication/iron-session.md"
   ]
 }

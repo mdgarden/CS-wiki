@@ -1,10 +1,4 @@
-# Obsidian Tips
-
-## Links
-### Internal Link
-### External Link
-
-## Callouts
+# Callouts
 > [!note]
 
 > [!abstract] Abstract, Summary, Tldr
