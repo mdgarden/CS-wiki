@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Obsidian/Tags and Links.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Tags and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Obsidian/Tags and Links.md"
               }
             }
           },
@@ -128,14 +128,14 @@
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
     "Obsidian/Obsidian Tips.md",
-    "README.md",
     "General/yaml, json, xml.md",
-    "General/Network/📖Real World HTTP/README.md",
+    "General/GMT, UTC, Unix Time.md",
+    "General/Network/payload.md",
     "General/Network/Autentication/JWT.md",
     "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
-    "Callouts.md",
-    "General/GMT, UTC, Unix Time.md"
+    "General/Network/Autentication/iron-session.md",
+    "General/Network/http, tcp, ws protocol.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Autentication/OAuth 2.0.md"
   ]
 }
