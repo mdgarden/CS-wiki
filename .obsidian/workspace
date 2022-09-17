@@ -7,8 +7,13 @@
         "id": "159c6334ec4a7b99",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Frontend/JavaScript/React/Document/State, Hooks.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/JavaScript/React/Document/State, Hooks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/JavaScript/React/Document/State, Hooks.md"
+              }
             }
           },
           {
@@ -117,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192e99c13a6e6658",
+  "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
+    "Frontend/JavaScript/ES6/functions.md",
+    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
+    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/Untitled.md",
+    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Obsidian/Obsidian Tips.md",
     "Obsidian/Callouts.md",
     "Obsidian/Tags and Links.md",
-    "Obsidian/Obsidian Tips.md",
     "README.md",
-    "General/yaml, json, xml.md",
-    "General/GMT, UTC, Unix Time.md",
-    "General/Network/payload.md",
-    "General/Network/Autentication/JWT.md",
-    "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/Network/Autentication/iron-session.md"
+    "General/yaml, json, xml.md"
   ]
 }
