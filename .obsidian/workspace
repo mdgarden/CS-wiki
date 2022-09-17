@@ -7,8 +7,13 @@
         "id": "159c6334ec4a7b99",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -117,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192e99c13a6e6658",
+  "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
-    "Obsidian Tips.md",
-    "Callouts.md",
+    "Obsidian/Obsidian Tips.md",
     "README.md",
-    "General/GMT, UTC, Unix Time.md",
-    "General/Network/Autentication/Session, Cookie.md",
-    "Image/Pasted image 20220917203120.png",
+    "General/yaml, json, xml.md",
+    "General/Network/📖Real World HTTP/README.md",
     "General/Network/Autentication/JWT.md",
     "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/Network/Autentication/iron-session.md",
-    "Frontend/JavaScript/React/Document/JSX tag, Fragment, Component.md"
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "Callouts.md",
+    "General/GMT, UTC, Unix Time.md"
   ]
 }

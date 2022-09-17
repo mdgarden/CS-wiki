@@ -1,10 +1,13 @@
+---
+tags:
+  - posted
+  - jwt
+---
+
 # JWT
-
-#posted
-
 ## 필요 선행지식
 - Base64
-- 세션
+- 세션과 쿠키
 
 ## 개요
 A.B.C
