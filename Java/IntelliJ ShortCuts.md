@@ -1,0 +1,1 @@
+ - 인텔리제이에서 sout + tab 누르면 System.out.println()이 자동완성됨
