@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frontend/JavaScript/React/Document/State, Hooks.md",
+            "file": "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/JavaScript/React/Document/State, Hooks.md",
+                "file": "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/JavaScript/React/Document/State, Hooks.md"
+                "file": "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md"
               }
             }
           },
@@ -127,6 +127,8 @@
   },
   "active": "159c6334ec4a7b99",
   "lastOpenFiles": [
+    "Frontend/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
+    "Frontend/JavaScript/React/Document/State, Hooks.md",
     "Frontend/JavaScript/ES6/functions.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "Frontend/JavaScript/📖Modern JavaScript Deep Dive/Untitled.md",
@@ -134,8 +136,6 @@
     "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Obsidian/Obsidian Tips.md",
     "Obsidian/Callouts.md",
-    "Obsidian/Tags and Links.md",
-    "README.md",
-    "General/yaml, json, xml.md"
+    "Obsidian/Tags and Links.md"
   ]
 }
