@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding Test/프로그래머스 코테 연습문제.md",
+            "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unti",
+                "query": "tag:#Array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Test/프로그래머스 코테 연습문제.md",
+                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Test/프로그래머스 코테 연습문제.md"
+                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md"
               }
             }
           },
@@ -127,10 +128,10 @@
   },
   "active": "623007b56b519fdd",
   "lastOpenFiles": [
-    "General/yaml, json, xml.md",
     "Coding Test/프로그래머스 코테 연습문제.md",
+    "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+    "General/yaml, json, xml.md",
     "Java/IntelliJ ShortCuts.md",
-    "Java/Java Tutorial-Full Course for Beginners/1강 - 10강.md",
     "Java/Java Tutorial-Full Course for Beginners/README.md.md",
     "README.md",
     "HTML-CSS/TailwindCSS/How to/Setup.md",
