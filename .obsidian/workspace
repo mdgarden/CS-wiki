@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 10강.md",
+            "file": "Coding Test/프로그래머스 코테 연습문제.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57c9ad504eb0a96a",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 10강.md",
+                "file": "Coding Test/프로그래머스 코테 연습문제.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 10강.md"
+                "file": "Coding Test/프로그래머스 코테 연습문제.md"
               }
             }
           },
@@ -128,15 +127,15 @@
   },
   "active": "623007b56b519fdd",
   "lastOpenFiles": [
-    "Java/Java Tutorial-Full Course for Beginners/README.md.md",
-    "Java/Java Tutorial-Full Course for Beginners/1강 - 10강.md",
+    "General/yaml, json, xml.md",
+    "Coding Test/프로그래머스 코테 연습문제.md",
     "Java/IntelliJ ShortCuts.md",
+    "Java/Java Tutorial-Full Course for Beginners/1강 - 10강.md",
+    "Java/Java Tutorial-Full Course for Beginners/README.md.md",
     "README.md",
     "HTML-CSS/TailwindCSS/How to/Setup.md",
     "JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
     "JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
-    "JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
-    "JavaScript/React/Document/State, Hooks.md",
-    "JavaScript/ES6/functions.md"
+    "JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md"
   ]
 }
