@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+            "file": "Coding Test/프로그래머스 코테 연습문제.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Array",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+                "file": "Coding Test/프로그래머스 코테 연습문제.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md"
+                "file": "Coding Test/프로그래머스 코테 연습문제.md"
               }
             }
           },
@@ -128,12 +127,12 @@
   },
   "active": "623007b56b519fdd",
   "lastOpenFiles": [
+    "README.md",
     "Coding Test/프로그래머스 코테 연습문제.md",
     "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
     "General/yaml, json, xml.md",
     "Java/IntelliJ ShortCuts.md",
     "Java/Java Tutorial-Full Course for Beginners/README.md.md",
-    "README.md",
     "HTML-CSS/TailwindCSS/How to/Setup.md",
     "JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
     "JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
