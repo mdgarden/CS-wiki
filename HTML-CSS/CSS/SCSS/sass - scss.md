@@ -1,0 +1,1 @@
+sass와 scss의 차이
