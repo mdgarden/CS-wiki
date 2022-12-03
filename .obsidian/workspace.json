@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "40c87435aee3ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a182d9bed671df48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "623007b56b519fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML-CSS/CSS/SCSS/sass - scss.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65be9656cadfbd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "0b8932b154b2b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1119a6275d2a3dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f07f82055117b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192e99c13a6e6658",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54cb2a839615ea88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "416ba4745ed8169a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57c9ad504eb0a96a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aaf6ccc0d3adfa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffbb25dd6722e698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ed91429ec53bac8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d40b8b83a18c246b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "94733f72f9266592",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0b8932b154b2b4e4",
+  "lastOpenFiles": [
+    "JavaScript/ES6/functions.md",
+    "src/Pasted image 20220929212226.png",
+    "src/Pasted image 20220917203120.png",
+    "HTML-CSS/CSS/점선 만들기.md",
+    "HTML-CSS/CSS/SCSS/Setup.md",
+    "README.md",
+    "HTML-CSS/CSS/TailwindCSS/Setup.md",
+    "Coding Test/프로그래머스 코테 연습문제.md",
+    "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+    "General/yaml, json, xml.md"
+  ]
+}

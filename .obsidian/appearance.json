@@ -4,5 +4,6 @@
   "translucency": false,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": "D2Coding"
+  "monospaceFontFamily": "D2Coding",
+  "accentColor": ""
 }
