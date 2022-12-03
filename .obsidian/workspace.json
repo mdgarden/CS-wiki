@@ -49,7 +49,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/i18n.md",
+                "file": "Coding Test/프로그래머스 코테 연습문제.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5606bea5649598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/i18n.md",
+                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/i18n.md"
+                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md"
               }
             }
           },
@@ -173,17 +186,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f03e531302e36047",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
-    "General/GMT, UTC, Unix Time.md",
-    "General/yaml, json, xml.md",
+    "Coding Test/프로그래머스 코테 연습문제.md",
+    "General/📖함수형 프로그래밍/README.md",
+    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "README.md",
-    "JavaScript/ES6/functions.md",
-    "src/Pasted image 20220929212226.png",
-    "src/Pasted image 20220917203120.png",
-    "HTML-CSS/CSS/점선 만들기.md",
-    "HTML-CSS/CSS/SCSS/Setup.md",
-    "HTML-CSS/CSS/TailwindCSS/Setup.md",
-    "Coding Test/프로그래머스 코테 연습문제.md"
+    "General/Network/📖Real World HTTP/README.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/Network/payload.md",
+    "General/Network/http, tcp, ws protocol.md",
+    "General/GMT, UTC, Unix Time.md",
+    "General/i18n.md"
   ]
 }
