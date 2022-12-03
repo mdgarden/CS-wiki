@@ -36,7 +36,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "General/GMT, UTC, Unix Time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f03e531302e36047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/i18n.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General/i18n.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "General/i18n.md"
               }
             }
           },
@@ -160,17 +173,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0b8932b154b2b4e4",
+  "active": "f03e531302e36047",
   "lastOpenFiles": [
+    "General/GMT, UTC, Unix Time.md",
+    "General/yaml, json, xml.md",
+    "README.md",
     "JavaScript/ES6/functions.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "HTML-CSS/CSS/점선 만들기.md",
     "HTML-CSS/CSS/SCSS/Setup.md",
-    "README.md",
     "HTML-CSS/CSS/TailwindCSS/Setup.md",
-    "Coding Test/프로그래머스 코테 연습문제.md",
-    "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
-    "General/yaml, json, xml.md"
+    "Coding Test/프로그래머스 코테 연습문제.md"
   ]
 }
