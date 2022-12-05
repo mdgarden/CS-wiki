@@ -188,15 +188,15 @@
   },
   "active": "1e5606bea5649598",
   "lastOpenFiles": [
-    "Coding Test/프로그래머스 코테 연습문제.md",
-    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "README.md",
-    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
-    "General/📖함수형 프로그래밍/README.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "General/Network/📖Real World HTTP/README.md",
-    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/GMT, UTC, Unix Time.md",
+    "General/i18n.md",
+    "General/Network/http, tcp, ws protocol.md",
     "General/Network/payload.md",
-    "General/Network/http, tcp, ws protocol.md"
+    "JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
+    "JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
+    "JavaScript/ES6/Date.md",
+    "JavaScript/ES6/functions.md",
+    "JavaScript/ES6/strings.md"
   ]
 }
