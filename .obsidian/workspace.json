@@ -68,9 +68,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e2e8ccd582ed94c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/How to.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+                "file": "JavaScript/How to.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md"
+                "file": "JavaScript/How to.md"
               }
             }
           },
@@ -183,11 +196,9 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1e5606bea5649598",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "General/GMT, UTC, Unix Time.md",
     "General/i18n.md",
@@ -196,7 +207,6 @@
     "JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
     "JavaScript/ES6/Date.md",
-    "JavaScript/ES6/functions.md",
-    "JavaScript/ES6/strings.md"
+    "JavaScript/ES6/functions.md"
   ]
 }
