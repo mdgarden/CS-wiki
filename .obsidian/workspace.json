@@ -8,95 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "623007b56b519fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/How to/Array.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a3c27eeaeda8a086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e65be9656cadfbd6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          },
-          {
-            "id": "0b8932b154b2b4e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/GMT, UTC, Unix Time.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f03e531302e36047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding Test/프로그래머스 코테 연습문제.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5606bea5649598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2e8ccd582ed94c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/How to/Array.md",
+                "file": "Obsidian/Callouts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+                "file": "Obsidian/Callouts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md"
+                "file": "Obsidian/Callouts.md"
               }
             }
           },
@@ -228,21 +152,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a3c27eeaeda8a086",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
-    "Java/IntelliJ ShortCuts.md",
-    "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
-    "Java/Java Tutorial-Full Course for Beginners/README.md.md",
-    "JavaScript/How to/Axios.md",
-    "JavaScript/How to/Array.md",
-    "HTML-CSS/CSS/SCSS/sass - scss.md",
-    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+    "JavaScript/ES6/variables.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "General/GMT, UTC, Unix Time.md",
-    "General/i18n.md",
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Coding Test/프로그래머스 코테 연습문제.md",
+    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Autentication/OAuth 2.0.md",
+    "General/Network/Autentication/JWT.md",
+    "General/Network/Autentication/iron-session.md",
+    "General/Network/Autentication/인증의 구조와 방법.md",
+    "General/Network/📖Real World HTTP/README.md",
     "General/Network/http, tcp, ws protocol.md",
     "General/Network/payload.md",
-    "JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
-    "JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md"
+    "General/GMT, UTC, Unix Time.md",
+    "src/Pasted image 20220929212226.png",
+    "src/Pasted image 20220917203120.png",
+    "Obsidian/Tags and Links.md",
+    "Obsidian/Callouts.md",
+    "JavaScript/React/Library/Redux.md",
+    "JavaScript/React/Document/State, Hooks.md",
+    "JavaScript/React/Document/JSX tag, Fragment, Component.md",
+    "JavaScript/How to/Axios.md",
+    "JavaScript/How to/Array.md",
+    "Java/IntelliJ ShortCuts.md",
+    "Java/Java Tutorial-Full Course for Beginners/README.md.md",
+    "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+    "HTML-CSS/CSS/SCSS/sass - scss.md"
   ]
 }
