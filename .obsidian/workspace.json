@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57c9ad504eb0a96a",
@@ -181,6 +182,8 @@
   },
   "active": "e08e02a77e8bd1bd",
   "lastOpenFiles": [
+    "Pasted image 20230705220042.png",
+    "Pasted image 20230705215950.png",
     "Coding Test/Python How to.md",
     "Coding Test/토스 NEXT 2022년 코딩테스트 기출문제.md",
     "Coding Test/프로그래머스 코테 연습문제.md",
@@ -207,7 +210,6 @@
     "JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "JavaScript/How to/Axios.md",
     "JavaScript/How to/Array.md",
-    "Java/IntelliJ ShortCuts.md",
-    "Java/Java Tutorial-Full Course for Beginners/README.md.md"
+    "Java/IntelliJ ShortCuts.md"
   ]
 }
