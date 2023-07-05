@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e08e02a77e8bd1bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding Test/토스 NEXT 2022년 코딩테스트 기출문제.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding Test/Python How to.md",
+                "file": "Coding Test/토스 NEXT 2022년 코딩테스트 기출문제.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding Test/Python How to.md"
+                "file": "Coding Test/토스 NEXT 2022년 코딩테스트 기출문제.md"
               }
             }
           },
@@ -166,10 +179,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bc2f4b83d8e7e6cd",
+  "active": "e08e02a77e8bd1bd",
   "lastOpenFiles": [
-    "Coding Test/프로그래머스 코테 연습문제.md",
     "Coding Test/Python How to.md",
+    "Coding Test/토스 NEXT 2022년 코딩테스트 기출문제.md",
+    "Coding Test/프로그래머스 코테 연습문제.md",
     "Obsidian/Callouts.md",
     "JavaScript/ES6/variables.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
@@ -194,7 +208,6 @@
     "JavaScript/How to/Axios.md",
     "JavaScript/How to/Array.md",
     "Java/IntelliJ ShortCuts.md",
-    "Java/Java Tutorial-Full Course for Beginners/README.md.md",
-    "Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md"
+    "Java/Java Tutorial-Full Course for Beginners/README.md.md"
   ]
 }
