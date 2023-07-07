@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3c27eeaeda8a086",
+            "id": "0c7a0752aa28d2d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57c9ad504eb0a96a",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md"
+              }
             }
           },
           {
@@ -136,17 +143,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3c27eeaeda8a086",
+  "active": "0c7a0752aa28d2d8",
   "lastOpenFiles": [
+    "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+    "JavaScript/Tips",
     "Coding Test/프로그래머스 코테 연습문제.md",
     "CodingTest/프로그래머스 코테 연습문제.md",
     "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
@@ -176,7 +185,6 @@
     "src/Pasted image 20220917203120.png",
     "Obsidian/Tags and Links.md",
     "JavaScript/React/Library/Redux.md",
-    "JavaScript/React/Document/State, Hooks.md",
-    "JavaScript/React/Document/JSX tag, Fragment, Component.md"
+    "JavaScript/React/Document/State, Hooks.md"
   ]
 }
