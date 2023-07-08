@@ -154,6 +154,8 @@
   },
   "active": "0c7a0752aa28d2d8",
   "lastOpenFiles": [
+    "CodingTest/2023 토스 문제/7번.js",
+    "CodingTest/2023 토스 문제",
     "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "JavaScript/Tips",
     "Coding Test/프로그래머스 코테 연습문제.md",
@@ -184,7 +186,6 @@
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "Obsidian/Tags and Links.md",
-    "JavaScript/React/Library/Redux.md",
-    "JavaScript/React/Document/State, Hooks.md"
+    "JavaScript/React/Library/Redux.md"
   ]
 }
