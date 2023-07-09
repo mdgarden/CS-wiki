@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+                "file": "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7721100571a1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/1번.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+                "file": "CodingTest/2023 토스 문제/1번.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md"
+                "file": "CodingTest/2023 토스 문제/1번.md"
               }
             }
           },
@@ -152,19 +166,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c7a0752aa28d2d8",
+  "active": "cc7721100571a1fa",
   "lastOpenFiles": [
+    "IMG_4115.jpeg",
+    "IMG_4114.jpeg",
+    "IMG_4113.jpeg",
+    "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
+    "CodingTest/2023 토스 문제/1번.md",
+    "CodingTest/프로그래머스 코테 연습문제.md",
+    "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "CodingTest/2023 토스 문제/3번.js",
     "CodingTest/2023 토스 문제/3번.ㅓㄴ",
     "CodingTest/2023 토스 문제/4번.js",
     "CodingTest/2023 토스 문제/4번.ㅓㄴ",
     "CodingTest/2023 토스 문제/7번.js",
     "CodingTest/2023 토스 문제",
-    "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "JavaScript/Tips",
     "Coding Test/프로그래머스 코테 연습문제.md",
-    "CodingTest/프로그래머스 코테 연습문제.md",
-    "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
     "CodingTest/Python How to.md",
     "CodingTest",
     "Coding Test/Python How to.md",
@@ -189,7 +207,6 @@
     "General/GMT, UTC, Unix Time.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
-    "Obsidian/Tags and Links.md",
-    "JavaScript/React/Library/Redux.md"
+    "Obsidian/Tags and Links.md"
   ]
 }
