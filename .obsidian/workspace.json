@@ -32,9 +32,87 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69fb2355b89e7b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/2번.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf8828edb25a412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/3번.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6951764ddddb95ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/4번.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7acb2ba204558190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/5번.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06568d0d46f9a08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/6번.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8bcf42abb61447f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingTest/2023 토스 문제/2번.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -108,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodingTest/2023 토스 문제/1번.md",
+                "file": "CodingTest/2023 토스 문제/2번.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodingTest/2023 토스 문제/1번.md"
+                "file": "CodingTest/2023 토스 문제/2번.md"
               }
             }
           },
@@ -166,13 +244,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc7721100571a1fa",
+  "active": "b8bcf42abb61447f",
   "lastOpenFiles": [
+    "CodingTest/2023 토스 문제/1번.md",
+    "CodingTest/2023 토스 문제/7번.md",
+    "CodingTest/2023 토스 문제/6번.md",
+    "CodingTest/2023 토스 문제/5번.md",
+    "CodingTest/2023 토스 문제/4번.md",
+    "CodingTest/2023 토스 문제/3번.md",
+    "CodingTest/2023 토스 문제/2번.md",
     "IMG_4115.jpeg",
     "IMG_4114.jpeg",
     "IMG_4113.jpeg",
     "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
-    "CodingTest/2023 토스 문제/1번.md",
     "CodingTest/프로그래머스 코테 연습문제.md",
     "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "CodingTest/2023 토스 문제/3번.js",
@@ -201,12 +285,7 @@
     "General/Network/Autentication/JWT.md",
     "General/Network/Autentication/iron-session.md",
     "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/Network/📖Real World HTTP/README.md",
-    "General/Network/http, tcp, ws protocol.md",
-    "General/Network/payload.md",
-    "General/GMT, UTC, Unix Time.md",
     "src/Pasted image 20220929212226.png",
-    "src/Pasted image 20220917203120.png",
-    "Obsidian/Tags and Links.md"
+    "src/Pasted image 20220917203120.png"
   ]
 }
