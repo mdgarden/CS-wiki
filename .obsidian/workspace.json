@@ -4,115 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a182d9bed671df48",
+        "id": "8e3c6e4b11216f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "0c7a0752aa28d2d8",
+            "id": "97e9ef8c3e3a8337",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc7721100571a1fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/1번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fb2355b89e7b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/2번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdf8828edb25a412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/3번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6951764ddddb95ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/4번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acb2ba204558190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/5번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06568d0d46f9a08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/6번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8bcf42abb61447f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/2번.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodingTest/2023 토스 문제/2번.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CodingTest/2023 토스 문제/2번.md"
-              }
+              "state": {}
             }
           },
           {
@@ -244,15 +144,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8bcf42abb61447f",
+  "active": "97e9ef8c3e3a8337",
   "lastOpenFiles": [
+    "CodingTest/2023 토스 문제/2번.md",
+    "CodingTest/2023 토스 문제/6번.md",
     "CodingTest/2023 토스 문제/1번.md",
     "CodingTest/2023 토스 문제/7번.md",
-    "CodingTest/2023 토스 문제/6번.md",
     "CodingTest/2023 토스 문제/5번.md",
     "CodingTest/2023 토스 문제/4번.md",
     "CodingTest/2023 토스 문제/3번.md",
-    "CodingTest/2023 토스 문제/2번.md",
     "IMG_4115.jpeg",
     "IMG_4114.jpeg",
     "IMG_4113.jpeg",
