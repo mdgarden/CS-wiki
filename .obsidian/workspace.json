@@ -26,15 +26,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Network/SSL, TSL.md",
+                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd14298bb400136e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/archive/Pasted image 20230705215950.png"
+              }
+            }
+          },
+          {
+            "id": "c573f1d312b77b7b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/archive/Pasted image 20230705215950.png"
+              }
+            }
+          },
+          {
+            "id": "0f5cff6b1ba6d127",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/Pasted image 20220917203120.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Network/SSL, TSL.md",
+                "file": "src/Pasted image 20220917203120.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Network/SSL, TSL.md"
+                "file": "src/Pasted image 20220917203120.png"
               }
             }
           },
@@ -166,33 +196,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c23ff320a6fe17d9",
+  "active": "0f5cff6b1ba6d127",
   "lastOpenFiles": [
-    "General/Network/http, https, tcp, ws protocol.md",
+    "src/Pasted image 20220929212226.png",
+    "src/Pasted image 20220917203120.png",
+    "src/archive/Pasted image 20230705220042.png",
+    "README.md",
+    "src/archive/Pasted image 20230705215950.png",
+    "src/archive/IMG_4115.jpeg",
+    "src/archive/IMG_4114.jpeg",
+    "src/archive/IMG_4113.jpeg",
+    "src/archive",
+    "Obsidian Tools/Tags and Links.md",
+    "Obsidian Tools/Callouts.md",
+    "AWS/Solution Architect/SAP.md",
+    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+    "AWS/Solution Architect",
+    "JavaScript/ES6/functions.md",
+    "JavaScript/ES6/Date.md",
     "General/Network/SSL, TSL.md",
     "General/Network/payload.md",
+    "General/Network/http, https, tcp, ws protocol.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Autentication/OAuth 2.0.md",
     "General/Network/Autentication/JWT.md",
+    "General/Network/Autentication/iron-session.md",
+    "General/Network/Autentication/인증의 구조와 방법.md",
+    "General/Network/📖Real World HTTP/README.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
     "JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "JavaScript/ES6/variables.md",
     "JavaScript/ES6/strings.md",
-    "JavaScript/ES6/functions.md",
-    "JavaScript/ES6/Date.md",
     "JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
     "JavaScript/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
     "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "CodingTest/ㅌㅅNEXT 2022년 코딩테스트 기출문제.md",
-    "CodingTest/2023 토스 문제/2번.md",
-    "CodingTest/2023 토스 문제/6번.md",
-    "CodingTest/2023 토스 문제/1번.md",
-    "CodingTest/2023 토스 문제/7번.md",
-    "CodingTest/2023 토스 문제/5번.md",
-    "CodingTest/2023 토스 문제/4번.md",
-    "CodingTest/2023 토스 문제/3번.md",
-    "IMG_4115.jpeg",
-    "IMG_4114.jpeg",
-    "IMG_4113.jpeg",
-    "CodingTest/프로그래머스 코테 연습문제.md",
     "CodingTest/2023 토스 문제/3번.js",
     "CodingTest/2023 토스 문제/3번.ㅓㄴ",
     "CodingTest/2023 토스 문제/4번.js",
@@ -200,14 +239,6 @@
     "CodingTest/2023 토스 문제/7번.js",
     "CodingTest/2023 토스 문제",
     "JavaScript/Tips",
-    "Coding Test/프로그래머스 코테 연습문제.md",
-    "CodingTest/Python How to.md",
-    "CodingTest",
-    "Coding Test/Python How to.md",
-    "Coding Test/토스 NEXT 2022년 코딩테스트 기출문제.md",
-    "Pasted image 20230705220042.png",
-    "Pasted image 20230705215950.png",
-    "src/Pasted image 20220929212226.png",
-    "src/Pasted image 20220917203120.png"
+    "CodingTest"
   ]
 }
