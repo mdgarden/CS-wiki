@@ -190,6 +190,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ac7f2cc958a45aee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
