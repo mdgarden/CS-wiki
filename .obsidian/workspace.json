@@ -75,9 +75,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d59828eb8c445cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/stack vs native stack.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/README.md",
+                "file": "Lang/stack vs native stack.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/README.md"
+                "file": "Lang/stack vs native stack.md"
               }
             }
           },
@@ -219,18 +232,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acb19b7868dde975",
+  "active": "d59828eb8c445cd1",
   "lastOpenFiles": [
+    "Lang/README.md",
+    "Lang/stack vs native stack.md",
+    "Untitled",
+    "Lang/JavaScript/React Native",
     "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/React/Library/Redux.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/How to/Array.md",
     "Lang/JavaScript/How to/Axios.md",
-    "Lang/README.md",
     "General/📖함수형 프로그래밍/README.md",
     "src/Pasted image 20220917203120.png",
-    "Untitled",
     "Lang/Dart",
     "Lang",
     "src/Pasted image 20220929212226.png",
@@ -258,11 +273,9 @@
     "General/Network/Autentication/인증의 구조와 방법.md",
     "General/Network/📖Real World HTTP/README.md",
     "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
-    "Lang/JavaScript/ES6/variables.md",
     "CodingTest/2023 토스 문제/3번.js",
     "CodingTest/2023 토스 문제/3번.ㅓㄴ",
     "CodingTest/2023 토스 문제/4번.js",
-    "CodingTest/2023 토스 문제/4번.ㅓㄴ",
-    "CodingTest/2023 토스 문제/7번.js"
+    "CodingTest/2023 토스 문제/4번.ㅓㄴ"
   ]
 }
