@@ -88,9 +88,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2946ae73d980d86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/GMT, UTC, Unix Time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/stack vs native stack.md",
+                "file": "General/GMT, UTC, Unix Time.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/stack vs native stack.md"
+                "file": "General/GMT, UTC, Unix Time.md"
               }
             }
           },
@@ -232,10 +245,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d59828eb8c445cd1",
+  "active": "2946ae73d980d86d",
   "lastOpenFiles": [
-    "Lang/README.md",
+    "General/i18n.md",
+    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/stack vs native stack.md",
+    "Lang/README.md",
     "Untitled",
     "Lang/JavaScript/React Native",
     "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
@@ -271,8 +286,6 @@
     "General/Network/Autentication/JWT.md",
     "General/Network/Autentication/iron-session.md",
     "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/Network/📖Real World HTTP/README.md",
-    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
     "CodingTest/2023 토스 문제/3번.js",
     "CodingTest/2023 토스 문제/3번.ㅓㄴ",
     "CodingTest/2023 토스 문제/4번.js",
