@@ -101,9 +101,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77ed54af35708b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/GMT, UTC, Unix Time.md",
+                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/GMT, UTC, Unix Time.md"
+                "file": "Lang/JavaScript/React Native/뻘짓 모음.md"
               }
             }
           },
@@ -245,8 +258,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2946ae73d980d86d",
+  "active": "77ed54af35708b86",
   "lastOpenFiles": [
+    "General/GMT, UTC, Unix Time.md",
+    "Lang/JavaScript/React Native/뻘짓 모음.md",
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/stack vs native stack.md",
@@ -284,8 +299,6 @@
     "General/Network/Autentication/Session, Cookie.md",
     "General/Network/Autentication/OAuth 2.0.md",
     "General/Network/Autentication/JWT.md",
-    "General/Network/Autentication/iron-session.md",
-    "General/Network/Autentication/인증의 구조와 방법.md",
     "CodingTest/2023 토스 문제/3번.js",
     "CodingTest/2023 토스 문제/3번.ㅓㄴ",
     "CodingTest/2023 토스 문제/4번.js",
