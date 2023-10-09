@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React/Context/useContext.md",
+                "file": "Lang/JavaScript/React/Library/Redux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React/Context/useContext.md",
+                "file": "Lang/JavaScript/React/Library/Redux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React/Context/useContext.md"
+                "file": "Lang/JavaScript/React/Library/Redux.md"
               }
             }
           },
@@ -283,6 +283,8 @@
   },
   "active": "0357bb2904a89c67",
   "lastOpenFiles": [
+    "Lang/JavaScript/React/Document/State, Hooks.md",
+    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/React/Context/useContext.md",
     "Lang/JavaScript/React/Context",
     "General/GMT, UTC, Unix Time.md",
@@ -294,8 +296,6 @@
     "Lang/JavaScript/React Native",
     "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/React/Library/Redux.md",
-    "Lang/JavaScript/React/Document/State, Hooks.md",
-    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/How to/Array.md",
     "Lang/JavaScript/How to/Axios.md",
     "General/📖함수형 프로그래밍/README.md",
