@@ -4,142 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3c6e4b11216f9d",
+        "id": "0c1d4927a43f6b08",
         "type": "tabs",
         "children": [
           {
-            "id": "97e9ef8c3e3a8337",
+            "id": "fe379fc4ccad1613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Network/http, https, tcp, ws protocol.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c23ff320a6fe17d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd14298bb400136e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/archive/Pasted image 20230705215950.png"
-              }
-            }
-          },
-          {
-            "id": "c573f1d312b77b7b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/archive/Pasted image 20230705215950.png"
-              }
-            }
-          },
-          {
-            "id": "0f5cff6b1ba6d127",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/Pasted image 20220917203120.png"
-              }
-            }
-          },
-          {
-            "id": "acb19b7868dde975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d59828eb8c445cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/stack vs native stack.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2946ae73d980d86d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/GMT, UTC, Unix Time.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77ed54af35708b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8659203231a69745",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "0357bb2904a89c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/React/Library/Redux.md",
+                "file": "Lang/JavaScript/React/Hooks/useContext.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React/Library/Redux.md",
+                "file": "Lang/JavaScript/React/Hooks/useContext.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -238,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React/Library/Redux.md"
+                "file": "Lang/JavaScript/React/Hooks/useContext.md"
               }
             }
           },
@@ -281,21 +162,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0357bb2904a89c67",
+  "active": "fe379fc4ccad1613",
   "lastOpenFiles": [
-    "Lang/JavaScript/React/Document/State, Hooks.md",
-    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/React/Context/useContext.md",
-    "Lang/JavaScript/React/Context",
+    "Lang/JavaScript/React/Library/Redux.md",
+    "Lang/README.md",
+    "Lang/stack vs native stack.md",
     "General/GMT, UTC, Unix Time.md",
     "Lang/JavaScript/React Native/뻘짓 모음.md",
+    "Lang/JavaScript/React/Document/State, Hooks.md",
+    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
+    "Lang/JavaScript/React/Hooks/useContext.md",
+    "Lang/JavaScript/React/Hooks",
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "Lang/stack vs native stack.md",
-    "Lang/README.md",
     "Lang/JavaScript/React Native",
     "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/React/Library/Redux.md",
     "Lang/JavaScript/How to/Array.md",
     "Lang/JavaScript/How to/Axios.md",
     "General/📖함수형 프로그래밍/README.md",
