@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9fc8db5ec2aa755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/App/Foreground vs Background.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Bluetooth/BLE.md",
+                "file": "General/App/Foreground vs Background.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Bluetooth/BLE.md"
+                "file": "General/App/Foreground vs Background.md"
               }
             }
           },
@@ -162,10 +176,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62d9e0048b88d278",
+  "active": "f9fc8db5ec2aa755",
   "lastOpenFiles": [
-    "Lang/JavaScript/React/Hooks/useContext.md",
     "General/Bluetooth/BLE.md",
+    "General/App/Foreground vs Background.md",
+    "Untitled",
+    "General/App",
+    "Lang/JavaScript/React/Hooks/useContext.md",
     "General/Bluetooth",
     "Lang/JavaScript/React/Library/Redux.md",
     "Lang/README.md",
@@ -203,9 +220,6 @@
     "General/Network/SSL, TSL.md",
     "General/Network/payload.md",
     "General/Network/http, https, tcp, ws protocol.md",
-    "General/Network/Autentication/Session, Cookie.md",
-    "CodingTest/2023 토스 문제/3번.js",
-    "CodingTest/2023 토스 문제/3번.ㅓㄴ",
-    "CodingTest/2023 토스 문제/4번.js"
+    "CodingTest/2023 토스 문제/3번.js"
   ]
 }
