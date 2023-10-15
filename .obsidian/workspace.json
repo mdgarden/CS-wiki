@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md"
+                "file": "Lang/JavaScript/React Native/뻘짓 모음.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "553fc6017c16d318",
   "lastOpenFiles": [
-    "Lang/JavaScript/React Native/뻘짓 모음.md",
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "Lang/JavaScript/React Native/뻘짓 모음.md",
     "General/App/Foreground vs Background.md",
     "General/Bluetooth/BLE.md",
     "Untitled",
