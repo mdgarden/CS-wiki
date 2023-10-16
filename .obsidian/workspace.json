@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
+                "file": "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b3be34a438fcc80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Tips/console.log 활용.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React Native/뻘짓 모음.md",
+                "file": "Lang/JavaScript/Tips/console.log 활용.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React Native/뻘짓 모음.md"
+                "file": "Lang/JavaScript/Tips/console.log 활용.md"
               }
             }
           },
@@ -189,10 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "553fc6017c16d318",
+  "active": "3b3be34a438fcc80",
   "lastOpenFiles": [
-    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+    "Lang/JavaScript/Tips/console.log 활용.md",
     "Lang/JavaScript/React Native/뻘짓 모음.md",
+    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
     "General/App/Foreground vs Background.md",
     "General/Bluetooth/BLE.md",
     "Untitled",
@@ -209,7 +224,6 @@
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/React Native",
-    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/How to/Array.md",
     "Lang/JavaScript/How to/Axios.md",
     "General/📖함수형 프로그래밍/README.md",
@@ -232,7 +246,6 @@
     "Lang/JavaScript/ES6/functions.md",
     "Lang/JavaScript/ES6/Date.md",
     "General/Network/SSL, TSL.md",
-    "General/Network/payload.md",
     "CodingTest/2023 토스 문제/3번.js"
   ]
 }
