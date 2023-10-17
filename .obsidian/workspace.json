@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7574def94426d1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md"
+                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md"
               }
             }
           },
@@ -215,16 +228,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "354fe257a7f85f55",
+  "active": "7574def94426d1d0",
   "lastOpenFiles": [
-    "Lang/JavaScript/Tips/뻘짓모음.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+    "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+    "Lang/JavaScript/Nest.js",
+    "Lang/JavaScript/Tips/뻘짓모음.md",
     "Lang/JavaScript/Tips/console.log 활용.md",
     "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
     "General/App/Foreground vs Background.md",
     "General/Bluetooth/BLE.md",
-    "Untitled",
     "General/App",
     "Lang/JavaScript/React/Hooks/useContext.md",
     "General/Bluetooth",
@@ -258,7 +272,6 @@
     "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "AWS/Solution Architect",
     "Lang/JavaScript/ES6/functions.md",
-    "Lang/JavaScript/ES6/Date.md",
     "CodingTest/2023 토스 문제/3번.js"
   ]
 }
