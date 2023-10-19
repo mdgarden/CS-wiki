@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md"
+                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md"
               }
             }
           },
@@ -230,8 +230,8 @@
   },
   "active": "7574def94426d1d0",
   "lastOpenFiles": [
-    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Nest.js",
     "Lang/JavaScript/Tips/뻘짓모음.md",
     "Lang/JavaScript/Tips/console.log 활용.md",
