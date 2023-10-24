@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1006c729ba2c73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/React Native/RN의 라우팅.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+                "file": "Lang/JavaScript/React Native/RN의 라우팅.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md"
+                "file": "Lang/JavaScript/React Native/RN의 라우팅.md"
               }
             }
           },
@@ -228,9 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7574def94426d1d0",
+  "active": "a1006c729ba2c73e",
   "lastOpenFiles": [
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Nest.js",
@@ -271,7 +285,6 @@
     "AWS/Solution Architect/SAP.md",
     "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "AWS/Solution Architect",
-    "Lang/JavaScript/ES6/functions.md",
     "CodingTest/2023 토스 문제/3번.js"
   ]
 }
