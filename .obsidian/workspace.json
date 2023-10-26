@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React Native/RN의 라우팅.md",
+                "file": "Lang/JavaScript/Tips/console.log 활용.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React Native/RN의 라우팅.md",
+                "file": "Lang/JavaScript/Tips/console.log 활용.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React Native/RN의 라우팅.md"
+                "file": "Lang/JavaScript/Tips/console.log 활용.md"
               }
             }
           },
@@ -243,14 +243,16 @@
   },
   "active": "a1006c729ba2c73e",
   "lastOpenFiles": [
-    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-    "Lang/JavaScript/React Native/RN의 라우팅.md",
-    "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+    "Lang/JavaScript/How to/Array.md",
+    "Lang/JavaScript/How to/Axios.md",
+    "Lang/JavaScript/React Native/RN의 라우팅.md",
+    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
     "Lang/JavaScript/Nest.js",
     "Lang/JavaScript/Tips/뻘짓모음.md",
     "Lang/JavaScript/Tips/console.log 활용.md",
-    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "General/App/Foreground vs Background.md",
     "General/Bluetooth/BLE.md",
     "General/App",
@@ -266,8 +268,6 @@
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/React Native",
-    "Lang/JavaScript/How to/Array.md",
-    "Lang/JavaScript/How to/Axios.md",
     "General/📖함수형 프로그래밍/README.md",
     "src/Pasted image 20220917203120.png",
     "Lang/Dart",
