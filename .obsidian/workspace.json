@@ -54,7 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React Native/BLE와 RN.md",
+                "file": "General/GMT, UTC, Unix Time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fa887ed6b65ec92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React Native/BLE와 RN.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React Native/BLE와 RN.md"
+                "file": "General/환경 관련 뻘짓 모음.md"
               }
             }
           },
@@ -204,11 +217,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97b3ef2693d33241",
+  "active": "8fa887ed6b65ec92",
   "lastOpenFiles": [
-    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "General/GMT, UTC, Unix Time.md",
+    "General/환경 관련 뻘짓 모음.md",
+    "General/yaml, json, xml.md",
+    "General/i18n.md",
+    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/React Native/BLE와 RN.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
+    "Lang/JavaScript/React Native/stack vs native stack.md",
+    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Obsidian Tools/Callouts.md",
     "Obsidian Tools/Tags and Links.md",
@@ -229,19 +248,13 @@
     "General/Bluetooth",
     "Lang/JavaScript/React/Library/Redux.md",
     "Lang/README.md",
-    "Lang/stack vs native stack.md",
-    "General/GMT, UTC, Unix Time.md",
     "Lang/JavaScript/React/Hooks",
-    "General/i18n.md",
-    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/React Native",
-    "General/📖함수형 프로그래밍/README.md",
     "src/Pasted image 20220917203120.png",
     "Lang/Dart",
     "Lang",
     "src/Pasted image 20220929212226.png",
     "src/archive/Pasted image 20230705220042.png",
-    "README.md",
     "src/archive/Pasted image 20230705215950.png",
     "src/archive/IMG_4115.jpeg",
     "src/archive/IMG_4114.jpeg",
