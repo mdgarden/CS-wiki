@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+                "file": "Lang/JavaScript/React/Hooks/useContext.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/console.log 활용.md",
+                "file": "Obsidian Tools/Callouts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/console.log 활용.md",
+                "file": "Lang/JavaScript/React/Hooks/useContext.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/console.log 활용.md"
+                "file": "Lang/JavaScript/React/Hooks/useContext.md"
               }
             }
           },
@@ -241,29 +241,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1006c729ba2c73e",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
-    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/How to/Array.md",
-    "Lang/JavaScript/How to/Axios.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
+    "Lang/JavaScript/Tips/console.log 활용.md",
+    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+    "Obsidian Tools/Callouts.md",
+    "Lang/JavaScript/React/Hooks/useContext.md",
+    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+    "Lang/JavaScript/How to/Axios.md",
+    "Lang/JavaScript/How to/Array.md",
+    "Lang/JavaScript/ES6/functions.md",
+    "General/Bluetooth/BLE.md",
     "Lang/JavaScript/Nest.js",
     "Lang/JavaScript/Tips/뻘짓모음.md",
-    "Lang/JavaScript/Tips/console.log 활용.md",
     "General/App/Foreground vs Background.md",
-    "General/Bluetooth/BLE.md",
     "General/App",
-    "Lang/JavaScript/React/Hooks/useContext.md",
     "General/Bluetooth",
     "Lang/JavaScript/React/Library/Redux.md",
     "Lang/README.md",
     "Lang/stack vs native stack.md",
     "General/GMT, UTC, Unix Time.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
-    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/React/Hooks",
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
@@ -281,9 +283,7 @@
     "src/archive/IMG_4113.jpeg",
     "src/archive",
     "Obsidian Tools/Tags and Links.md",
-    "Obsidian Tools/Callouts.md",
     "AWS/Solution Architect/SAP.md",
-    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "AWS/Solution Architect",
     "CodingTest/2023 토스 문제/3번.js"
   ]

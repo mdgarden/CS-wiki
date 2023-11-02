@@ -40,3 +40,12 @@ export const useHook = () => {
 ```javascript
 const {function1, function2} = useHook();
 ```
+
+## 라이브러리 관련
+
+### react-ble-manager vs react-ble-plx
+
+ > [!warning] react-ble-manager는 expo를 지원하지 않는다!!!
+ 
+ - 기본적으로 큰 차이는 없음.
+ - 자세한 비교 분석 기사는 [여기](https://velog.io/@mementomori/React-Native-BLE-library-%EB%B9%84%EA%B5%90react-native-ble-plx-VS-react-native-ble-manager)
