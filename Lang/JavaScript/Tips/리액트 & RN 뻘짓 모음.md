@@ -49,3 +49,26 @@ const {function1, function2} = useHook();
  
  - 기본적으로 큰 차이는 없음.
  - 자세한 비교 분석 기사는 [여기](https://velog.io/@mementomori/React-Native-BLE-library-%EB%B9%84%EA%B5%90react-native-ble-plx-VS-react-native-ble-manager)
+
+
+## 빌드 관련
+### RN Expo 안드로이드 빌드 시
+#### 경위
+
+`npx expo run:android`를 실행했는데 다음과 같은 에러가 발생
+``
+```
+› Building app...
+Configuration on demand is an incubating feature.
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'.
+> Could not determine the dependencies of null.
+   > SDK location not found. Define a valid SDK location with an ANDROID_HOME environment variable or by setting the sdk.dir path in your project's local properties file at  '/Users/*username*/Documents/works/rn-bluetooth/android/local.properties'.
+```
+
+#### 해결
+android 폴더에 `local.properties`라는 파일을 만들고 다음 한 줄을 추가
+`sdk.dir=/Users/유저이름/Library/Android/sdk`
