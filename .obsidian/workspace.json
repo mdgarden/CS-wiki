@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62d9e0048b88d278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Bluetooth/BLE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9fc8db5ec2aa755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "553fc6017c16d318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3b3be34a438fcc80",
             "type": "leaf",
             "state": {
@@ -60,20 +21,22 @@
             }
           },
           {
-            "id": "354fe257a7f85f55",
+            "id": "a1006c729ba2c73e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React/Hooks/useContext.md",
+                "file": "Obsidian Tools/Callouts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "7574def94426d1d0",
+            "id": "05f13220641da749",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,12 +49,12 @@
             }
           },
           {
-            "id": "a1006c729ba2c73e",
+            "id": "97b3ef2693d33241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Tools/Callouts.md",
+                "file": "Lang/JavaScript/React Native/BLE와 RN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/React/Hooks/useContext.md",
+                "file": "Lang/JavaScript/React Native/BLE와 RN.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/React/Hooks/useContext.md"
+                "file": "Lang/JavaScript/React Native/BLE와 RN.md"
               }
             }
           },
@@ -241,19 +204,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "192e99c13a6e6658",
+  "active": "97b3ef2693d33241",
   "lastOpenFiles": [
-    "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/Tips/console.log 활용.md",
+    "Lang/JavaScript/React Native/BLE와 RN.md",
+    "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Obsidian Tools/Callouts.md",
-    "Lang/JavaScript/React/Hooks/useContext.md",
-    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
+    "Obsidian Tools/Tags and Links.md",
+    "Lang/JavaScript/Tips/console.log 활용.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
-    "Lang/JavaScript/How to/Axios.md",
     "Lang/JavaScript/How to/Array.md",
+    "Lang/JavaScript/How to/Axios.md",
+    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
+    "Lang/JavaScript/React/Document/State, Hooks.md",
+    "Lang/JavaScript/React/Hooks/useContext.md",
+    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/ES6/functions.md",
     "General/Bluetooth/BLE.md",
     "Lang/JavaScript/Nest.js",
@@ -265,7 +231,6 @@
     "Lang/README.md",
     "Lang/stack vs native stack.md",
     "General/GMT, UTC, Unix Time.md",
-    "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Hooks",
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
@@ -282,8 +247,6 @@
     "src/archive/IMG_4114.jpeg",
     "src/archive/IMG_4113.jpeg",
     "src/archive",
-    "Obsidian Tools/Tags and Links.md",
-    "AWS/Solution Architect/SAP.md",
     "AWS/Solution Architect",
     "CodingTest/2023 토스 문제/3번.js"
   ]
