@@ -54,7 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a475d7506d70fbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memo/RN ble-plx & ESP32.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+                "file": "Memo/RN ble-plx & ESP32.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md"
+                "file": "Memo/RN ble-plx & ESP32.md"
               }
             }
           },
@@ -204,8 +217,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa887ed6b65ec92",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "README.md",
+    "Memo/RN ble-plx & ESP32.md",
+    "Memo",
+    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/GMT, UTC, Unix Time.md",
     "General/yaml, json, xml.md",
@@ -215,7 +232,6 @@
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/React Native/stack vs native stack.md",
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Obsidian Tools/Callouts.md",
     "Obsidian Tools/Tags and Links.md",
     "Lang/JavaScript/Tips/console.log 활용.md",
@@ -233,8 +249,6 @@
     "General/App/Foreground vs Background.md",
     "General/App",
     "General/Bluetooth",
-    "Lang/JavaScript/React/Library/Redux.md",
-    "Lang/README.md",
     "Lang/JavaScript/React/Hooks",
     "Lang/JavaScript/React Native",
     "src/Pasted image 20220917203120.png",
@@ -247,7 +261,6 @@
     "src/archive/IMG_4114.jpeg",
     "src/archive/IMG_4113.jpeg",
     "src/archive",
-    "AWS/Solution Architect",
-    "CodingTest/2023 토스 문제/3번.js"
+    "AWS/Solution Architect"
   ]
 }
