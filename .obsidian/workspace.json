@@ -67,7 +67,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/Network/http, https, tcp, ws protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24569d631fdf367b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Network/payload.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/Network/payload.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md"
+                "file": "General/Network/payload.md"
               }
             }
           },
@@ -217,14 +230,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "192e99c13a6e6658",
+  "active": "24569d631fdf367b",
   "lastOpenFiles": [
-    "README.md",
-    "Memo/RN ble-plx & ESP32.md",
-    "Memo",
-    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/GMT, UTC, Unix Time.md",
+    "General/Network/SSL, TSL.md",
+    "General/Network/payload.md",
+    "General/Network/http, https, tcp, ws protocol.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Autentication/OAuth 2.0.md",
+    "General/Network/Autentication/JWT.md",
+    "General/Network/Autentication/iron-session.md",
+    "General/Network/Autentication/인증의 구조와 방법.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/Bluetooth/BLE.md",
+    "General/App/Foreground vs Background.md",
+    "General/Network/curl.md",
+    "Memo/RN ble-plx & ESP32.md",
+    "README.md",
+    "Memo",
+    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "General/yaml, json, xml.md",
     "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
@@ -234,19 +259,7 @@
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
     "Obsidian Tools/Callouts.md",
     "Obsidian Tools/Tags and Links.md",
-    "Lang/JavaScript/Tips/console.log 활용.md",
-    "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
-    "Lang/JavaScript/How to/Array.md",
-    "Lang/JavaScript/How to/Axios.md",
-    "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/React/Document/State, Hooks.md",
-    "Lang/JavaScript/React/Hooks/useContext.md",
-    "Lang/JavaScript/Tips/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/ES6/functions.md",
-    "General/Bluetooth/BLE.md",
     "Lang/JavaScript/Nest.js",
-    "Lang/JavaScript/Tips/뻘짓모음.md",
-    "General/App/Foreground vs Background.md",
     "General/App",
     "General/Bluetooth",
     "Lang/JavaScript/React/Hooks",

@@ -1,0 +1,1 @@
+POST, PUT, PATCH 요청은 보통 처리에 필요한 데이터를 함께 실어 보냅니다. 이 데이터 덩어리, 즉 페이로드 payload를 본문 body라고 합니다. NestJS에는 데이터 전송 객체 data transfer object, DTO가 구현되어있어 본문을 쉽게 다룰 수 있습니다. - NestJS로 배우는 백엔드 프로그래밍
