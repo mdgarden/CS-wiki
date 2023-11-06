@@ -86,9 +86,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6adccacb2b87fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md"
+                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md"
               }
             }
           },
@@ -230,10 +243,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24569d631fdf367b",
+  "active": "e6adccacb2b87fd9",
   "lastOpenFiles": [
-    "General/i18n.md",
     "General/GMT, UTC, Unix Time.md",
+    "General/i18n.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/Network/payload.md",
