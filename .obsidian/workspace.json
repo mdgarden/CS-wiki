@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Network/payload.md",
+                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Network/payload.md",
+                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Network/payload.md"
+                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md"
               }
             }
           },
@@ -233,9 +233,10 @@
   "active": "24569d631fdf367b",
   "lastOpenFiles": [
     "General/환경 관련 뻘짓 모음.md",
+    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "General/Network/payload.md",
     "General/GMT, UTC, Unix Time.md",
     "General/Network/SSL, TSL.md",
-    "General/Network/payload.md",
     "General/Network/http, https, tcp, ws protocol.md",
     "General/Network/Autentication/Session, Cookie.md",
     "General/Network/Autentication/OAuth 2.0.md",
@@ -252,7 +253,6 @@
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "General/yaml, json, xml.md",
     "General/i18n.md",
-    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/React Native/BLE와 RN.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/React Native/stack vs native stack.md",
