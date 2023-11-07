@@ -80,32 +80,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6adccacb2b87fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f844a98390122a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "General/환경 관련 뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
@@ -114,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,15 +230,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "192e99c13a6e6658",
+  "active": "24569d631fdf367b",
   "lastOpenFiles": [
     "Memo/RN ble-plx & ESP32.md",
-    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "General/환경 관련 뻘짓 모음.md",
+    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/📖開眼！JavaScript",
     "General/GMT, UTC, Unix Time.md",
     "General/i18n.md",
-    "General/환경 관련 뻘짓 모음.md",
     "General/Network/payload.md",
     "General/Network/SSL, TSL.md",
     "General/Network/http, https, tcp, ws protocol.md",

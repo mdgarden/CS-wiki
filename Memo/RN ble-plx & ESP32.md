@@ -10,3 +10,6 @@ Error: Device is not authorized to use BluetoothLE
 
 권한 문제를 해결할 수가 없고 관련 자료도 찾기 어려워 그냥 RN으로 갈아타기로 결정함
 내일 하루 해보고 하루만에 블루투스까지 문제 없이 실장할 수 있으면 RN으로 
+
+맥에서 현재 파일/폴더의 경로 복사하기 `option+command+c`
+
