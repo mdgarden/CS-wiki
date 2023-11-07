@@ -24,3 +24,10 @@ var myArray = ['string', 10, false, null, undefined];
 console.log(myArray);
 // ["string", 10, false, null, undefined]
 ```
+
+## 1.11
+셀프보충)
+# 원시 값
+
+[JavaScript](https://developer.mozilla.org/ko/docs/Glossary/JavaScript)에서, **원시 값**(primitive, 또는 원시 자료형)이란 [객체](https://developer.mozilla.org/ko/docs/Glossary/Object)가 아니면서 [메서드](https://developer.mozilla.org/ko/docs/Glossary/Method) 또는 [속성](https://developer.mozilla.org/ko/docs/Glossary/Property/JavaScript)도 가지지 않는 데이터입니다. 원시 값에는 7가지의 종류가 있습니다.
+https://developer.mozilla.org/ko/docs/Glossary/Primitive
