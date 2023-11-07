@@ -106,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md"
+                "file": "General/환경 관련 뻘짓 모음.md"
               }
             }
           },
@@ -256,10 +256,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f844a98390122a16",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
-    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/📖開眼！JavaScript",
     "General/GMT, UTC, Unix Time.md",
     "General/i18n.md",
@@ -276,7 +277,6 @@
     "General/Bluetooth/BLE.md",
     "General/App/Foreground vs Background.md",
     "General/Network/curl.md",
-    "Memo/RN ble-plx & ESP32.md",
     "README.md",
     "Memo",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
