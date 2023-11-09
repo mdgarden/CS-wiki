@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/Bluetooth/BLE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/Bluetooth/BLE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md"
+                "file": "General/Bluetooth/BLE.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "a475d7506d70fbf4",
   "lastOpenFiles": [
+    "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/Tips/How to/Array.md",
@@ -229,7 +230,6 @@
     "Lang/JavaScript/ES6/Date.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
-    "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/React/Library/Redux.md",
     "General/Network/http, https, tcp, ws protocol.md",
     "Untitled.canvas",
