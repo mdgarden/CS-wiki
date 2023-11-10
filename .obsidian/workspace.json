@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Bluetooth/BLE.md",
+                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Bluetooth/BLE.md",
+                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Bluetooth/BLE.md"
+                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "a475d7506d70fbf4",
   "lastOpenFiles": [
+    "General/Bluetooth/BLE.md",
     "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
@@ -246,7 +247,6 @@
     "General/Network/SSL, TSL.md",
     "General/Network/Autentication/Session, Cookie.md",
     "General/Network/Autentication/OAuth 2.0.md",
-    "General/Network/Autentication/JWT.md",
     "Memo",
     "Lang/JavaScript/Nest.js",
     "General/App",
