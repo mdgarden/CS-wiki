@@ -49,10 +49,13 @@ ESP32의 패킷을 확인하기만 하면 되니까 웹앱으로 만들어도 �
 
 
 11.11
-web에서 블루투스 스캔 허가하는 방법
-안드로이드 폰 - 크롬에서 www.chrome.com//flags 에 접속
+BLE 스캔하는 방법
+안드로이드 폰 혹은 블루투스 스캔이 되는 윈도우 데스크탑에서만 가능
+
+- 크롬에서 www.chrome.com//flags 에 접속
 - Experimental Web Platform features 검색 후 Enable로 변경 후 크롬 재시작(Relaunch)
-- chrome://bluetooth-internals/#adapter 로 접속 / 만약 위치 확인 팝업이 뜬다면 허용선택
+- chrome://bluetooth-internals/#adapter 로 접속 / 만약 위치 확인 팝업이 뜬다면 '허용' 선택
 - Devices로 이동
 - 우측 상단의 Start Scan 버튼 클릭 후 리스트에 장치 이름이 뜨면 성공
-Web은 BLE만 탐지함!!!
+
+참고) 크롬에서는 BLE 장치만 스캔 가능
