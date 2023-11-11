@@ -1,0 +1,1 @@
+https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=ko

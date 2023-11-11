@@ -67,7 +67,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "General/Bluetooth/BLE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ab137d7ccad4396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Bluetooth/GATT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "General/Bluetooth/GATT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md"
+                "file": "General/Bluetooth/GATT.md"
               }
             }
           },
@@ -217,9 +230,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a475d7506d70fbf4",
+  "active": "3ab137d7ccad4396",
   "lastOpenFiles": [
     "General/Bluetooth/BLE.md",
+    "General/Bluetooth/GATT.md",
+    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
@@ -229,7 +244,6 @@
     "Lang/JavaScript/ES6/strings.md",
     "Lang/JavaScript/ES6/functions.md",
     "Lang/JavaScript/ES6/Date.md",
-    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/React/Library/Redux.md",
     "General/Network/http, https, tcp, ws protocol.md",
@@ -246,7 +260,6 @@
     "General/Network/payload.md",
     "General/Network/SSL, TSL.md",
     "General/Network/Autentication/Session, Cookie.md",
-    "General/Network/Autentication/OAuth 2.0.md",
     "Memo",
     "Lang/JavaScript/Nest.js",
     "General/App",
