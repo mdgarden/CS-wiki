@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Bluetooth/GATT.md",
+                "file": "Memo/RN ble-plx & ESP32.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Bluetooth/GATT.md",
+                "file": "Memo/RN ble-plx & ESP32.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Bluetooth/GATT.md"
+                "file": "Memo/RN ble-plx & ESP32.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "3ab137d7ccad4396",
   "lastOpenFiles": [
-    "General/Bluetooth/BLE.md",
     "General/Bluetooth/GATT.md",
+    "General/Bluetooth/BLE.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
