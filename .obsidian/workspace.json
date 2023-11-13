@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/Bluetooth/GATT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "General/Bluetooth/GATT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md"
+                "file": "General/Bluetooth/GATT.md"
               }
             }
           },
@@ -230,14 +230,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab137d7ccad4396",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "General/Bluetooth/BLE.md",
+    "General/Bluetooth/GATT.md",
+    "Memo/RN ble-plx & ESP32.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/GMT, UTC, Unix Time.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
-    "Memo/RN ble-plx & ESP32.md",
-    "General/Bluetooth/GATT.md",
-    "General/Bluetooth/BLE.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
