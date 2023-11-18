@@ -66,3 +66,9 @@ BLE 스캔하는 방법
 https://github.com/octoco-ltd/ble-react-native/blob/master/screens/ble/BLEScreen.tsx#L7
 여기 코드 읽어가면서 훅스 만들어보기
 리덕스까지는 필요없다는게 개인적인 생각
+
+11.18.
+export function 이랑
+export const 랑
+export defulat랑
+const써놓고 export default하는거랑 차이가 뭔지
