@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Tools/Tags and Links.md",
+                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Tools/Tags and Links.md",
+                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Tools/Tags and Links.md"
+                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md"
               }
             }
           },
@@ -178,17 +178,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a3e0755c5d5acd",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
-    "Obsidian Tools/Callouts.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
+    "Lang/JavaScript/ES6/variables.md",
     "Obsidian Tools/Tags and Links.md",
+    "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
+    "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/Tips/How to/Array.md",
-    "Lang/JavaScript/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "General/Bluetooth/BLE.md",
-    "Lang/JavaScript/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "CodingTest/프로그래머스 코테 연습문제.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
     "src/Pasted image 20220929212226.png",
@@ -201,15 +203,13 @@
     "General/yaml, json, xml.md",
     "Untitled.canvas",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
-    "Lang/JavaScript/📖NestJS로 배우는 백엔드 프로그래밍",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍",
     "General/i18n.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/GMT, UTC, Unix Time.md",
     "General/Bluetooth/GATT.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
-    "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/ES6/variables.md",
     "Lang/JavaScript/📖開眼！JavaScript",
     "Memo",
     "Lang/JavaScript/Nest.js",
