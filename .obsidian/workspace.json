@@ -23,64 +23,12 @@
             }
           },
           {
-            "id": "05f13220641da749",
+            "id": "73a3e0755c5d5acd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97b3ef2693d33241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/GMT, UTC, Unix Time.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fa887ed6b65ec92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a475d7506d70fbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Bluetooth/BLE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ab137d7ccad4396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "Obsidian Tools/Tags and Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NestJS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "Obsidian Tools/Tags and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md"
+                "file": "Obsidian Tools/Tags and Links.md"
               }
             }
           },
@@ -212,12 +160,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,36 +178,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab137d7ccad4396",
+  "active": "73a3e0755c5d5acd",
   "lastOpenFiles": [
-    "General/Bluetooth/GATT.md",
-    "General/Bluetooth/BLE.md",
+    "Obsidian Tools/Callouts.md",
+    "Obsidian Tools/Tags and Links.md",
+    "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Memo/RN ble-plx & ESP32.md",
+    "Lang/JavaScript/Tips/How to/Array.md",
+    "Lang/JavaScript/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
+    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
+    "General/Bluetooth/BLE.md",
+    "Lang/JavaScript/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "CodingTest/프로그래머스 코테 연습문제.md",
+    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
+    "src/Pasted image 20220929212226.png",
+    "src/archive/Pasted image 20230705220042.png",
+    "Lang/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
+    "General/Network/📖Real World HTTP/README.md",
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
+    "Lang/Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+    "General/yaml, json, xml.md",
+    "Untitled.canvas",
+    "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
+    "Lang/JavaScript/📖NestJS로 배우는 백엔드 프로그래밍",
+    "General/i18n.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/GMT, UTC, Unix Time.md",
+    "General/Bluetooth/GATT.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/Tips/How to/Axios.md",
     "Lang/JavaScript/ES6/variables.md",
-    "Lang/JavaScript/ES6/strings.md",
-    "Lang/JavaScript/ES6/functions.md",
-    "Lang/JavaScript/ES6/Date.md",
-    "Lang/JavaScript/React/Library/Redux.md",
-    "General/Network/http, https, tcp, ws protocol.md",
-    "Untitled.canvas",
-    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-    "Lang/JavaScript/React Native/RN의 라우팅.md",
-    "Lang/JavaScript/React Native/stack vs native stack.md",
-    "Lang/JavaScript/React Native/BLE와 RN.md",
-    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/JavaScript/📖開眼！JavaScript",
-    "General/i18n.md",
-    "General/Network/payload.md",
-    "General/Network/SSL, TSL.md",
-    "General/Network/Autentication/Session, Cookie.md",
     "Memo",
     "Lang/JavaScript/Nest.js",
     "General/App",
@@ -269,12 +220,9 @@
     "src/Pasted image 20220917203120.png",
     "Lang/Dart",
     "Lang",
-    "src/Pasted image 20220929212226.png",
-    "src/archive/Pasted image 20230705220042.png",
     "src/archive/Pasted image 20230705215950.png",
     "src/archive/IMG_4115.jpeg",
     "src/archive/IMG_4114.jpeg",
-    "src/archive/IMG_4113.jpeg",
-    "src/archive"
+    "src/archive/IMG_4113.jpeg"
   ]
 }

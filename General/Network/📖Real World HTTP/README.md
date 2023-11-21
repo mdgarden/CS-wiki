@@ -3,8 +3,10 @@ tags:
   - HTTP
   - Network
   - Go
-  - "Real World HTTP"
-  - Book
+  - Real
+  - World
+  - HTTP
+  - 서적
 ---
 
 # Real World HTTP

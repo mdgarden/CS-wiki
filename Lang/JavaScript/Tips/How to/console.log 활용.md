@@ -1,3 +1,7 @@
+---
+출처: zenn
+---
+
 console.log
 console.table
 console.debug
