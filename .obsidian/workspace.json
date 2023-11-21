@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "General/yaml, json, xml.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e84101dc9e198b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NestJS",
+                "query": "tag:#curl/명령어",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md"
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md"
               }
             }
           },
@@ -161,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,18 +192,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "192e99c13a6e6658",
+  "active": "49e84101dc9e198b",
   "lastOpenFiles": [
+    "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "General/yaml, json, xml.md",
+    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "Lang/JavaScript/ES6/variables.md",
     "Obsidian Tools/Tags and Links.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
-    "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/Tips/How to/Array.md",
-    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "General/Bluetooth/BLE.md",
     "CodingTest/프로그래머스 코테 연습문제.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
@@ -197,10 +214,8 @@
     "src/archive/Pasted image 20230705220042.png",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
     "General/Network/📖Real World HTTP/README.md",
-    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
     "Lang/Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
-    "General/yaml, json, xml.md",
     "Untitled.canvas",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍",
@@ -209,7 +224,6 @@
     "General/GMT, UTC, Unix Time.md",
     "General/Bluetooth/GATT.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/📖開眼！JavaScript",
     "Memo",
     "Lang/JavaScript/Nest.js",
