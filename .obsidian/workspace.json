@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "73a3e0755c5d5acd",
+            "id": "2b7da477396d69a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/yaml, json, xml.md",
+                "file": "General/DTO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,20 +36,7 @@
             }
           },
           {
-            "id": "49e84101dc9e198b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735ab8830a13397b",
+            "id": "9b739c5a70315675",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,9 +191,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54cb2a839615ea88",
+  "active": "9b739c5a70315675",
   "lastOpenFiles": [
+    "Obsidian Tools/Callouts.md",
+    "General/yaml, json, xml.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "General/DTO.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
     "Lang/JavaScript/ES6/Date.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
@@ -218,8 +208,6 @@
     "Lang/JavaScript/ES6/variables.md",
     "Lang/JavaScript/ES6/strings.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "Obsidian Tools/Callouts.md",
-    "General/yaml, json, xml.md",
     "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Obsidian Tools/Tags and Links.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
@@ -233,8 +221,6 @@
     "src/archive/Pasted image 20230705220042.png",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/19. Prototype.md",
     "General/Network/📖Real World HTTP/README.md",
-    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-    "Lang/Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
     "Untitled.canvas",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍",
     "Lang/JavaScript/📖開眼！JavaScript",
