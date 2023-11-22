@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/ES6/Date.md",
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "735ab8830a13397b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JavaScript",
+                "query": "tag:#비즈니스로직을",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/ES6/Date.md",
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/ES6/Date.md"
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md"
               }
             }
           },
@@ -191,15 +205,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49e84101dc9e198b",
+  "active": "54cb2a839615ea88",
   "lastOpenFiles": [
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
+    "Lang/JavaScript/ES6/Date.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/ES6/functions.md",
-    "Lang/JavaScript/ES6/Date.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/ES6/variables.md",
     "Lang/JavaScript/ES6/strings.md",
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
@@ -221,7 +236,6 @@
     "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
     "Lang/Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
     "Untitled.canvas",
-    "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍",
     "Lang/JavaScript/📖開眼！JavaScript",
     "Memo",
