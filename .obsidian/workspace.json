@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "Lang/JavaScript/ES6/Date.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+                "file": "Lang/JavaScript/ES6/Date.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md"
+                "file": "Lang/JavaScript/ES6/Date.md"
               }
             }
           },
@@ -191,8 +191,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "192e99c13a6e6658",
+  "active": "49e84101dc9e198b",
   "lastOpenFiles": [
+    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/ES6/functions.md",
     "Lang/JavaScript/ES6/Date.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
@@ -204,7 +205,6 @@
     "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "Obsidian Tools/Callouts.md",
     "General/yaml, json, xml.md",
-    "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Obsidian Tools/Tags and Links.md",
     "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
