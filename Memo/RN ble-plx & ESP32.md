@@ -68,7 +68,11 @@ https://github.com/octoco-ltd/ble-react-native/blob/master/screens/ble/BLEScreen
 리덕스까지는 필요없다는게 개인적인 생각
 
 11.18.
+#export
 export function 이랑
 export const 랑
 export defulat랑
 const써놓고 export default하는거랑 차이가 뭔지
+
+export: 다른 모듈에서 import하려면 export해야함
+export로 선언했다는 뜻은 어디에서나 가져다 쓸 수 있으므로 public 인터페이스 또는 API로 간주됨
