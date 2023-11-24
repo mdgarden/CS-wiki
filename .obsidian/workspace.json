@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "2b7da477396d69a7",
+            "id": "f8cc9086780f61da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/DTO.md",
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,25 +36,12 @@
             }
           },
           {
-            "id": "9b739c5a70315675",
+            "id": "1dd2bc888e88bb9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4ba0eb120d364b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md"
+                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md"
               }
             }
           },
@@ -204,18 +191,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b739c5a70315675",
+  "active": "1dd2bc888e88bb9d",
   "lastOpenFiles": [
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
+    "Obsidian Tools/Callouts.md",
+    "General/DTO.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Memo/RN ble-plx & ESP32.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
     "Lang/JavaScript/React Native/RN의 flex와 scrollview.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
-    "Obsidian Tools/Callouts.md",
     "General/yaml, json, xml.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "General/DTO.md",
     "Lang/JavaScript/ES6/Date.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/ES6/functions.md",
@@ -231,7 +219,6 @@
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/Array.md",
     "General/Bluetooth/BLE.md",
-    "CodingTest/프로그래머스 코테 연습문제.md",
     "src/Pasted image 20220929212226.png",
     "src/archive/Pasted image 20230705220042.png",
     "Untitled.canvas",
