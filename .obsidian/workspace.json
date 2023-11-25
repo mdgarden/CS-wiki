@@ -54,7 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/RN ble-plx & ESP32.md",
+                "file": "Lang/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48381049fecc82e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/Untitled.md"
+                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md"
               }
             }
           },
@@ -205,6 +219,9 @@
   },
   "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "Lang/README.md",
+    "Lang/JavaScript/Next.js/Next.js 도토리.md",
+    "Lang/JavaScript/Next.js",
     "Memo/RN ble-plx & ESP32.md",
     "Memo/Untitled.md",
     "Obsidian Tools/Tags and Links.md",
@@ -229,8 +246,6 @@
     "Lang/JavaScript/ES6/functions.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/ES6/variables.md",
-    "Lang/JavaScript/ES6/strings.md",
     "src/Pasted image 20220929212226.png",
     "src/archive/Pasted image 20230705220042.png",
     "Untitled.canvas",
@@ -244,7 +259,6 @@
     "Lang/JavaScript/React Native",
     "src/Pasted image 20220917203120.png",
     "Lang/Dart",
-    "Lang",
     "src/archive/Pasted image 20230705215950.png",
     "src/archive/IMG_4115.jpeg",
     "src/archive/IMG_4114.jpeg",
