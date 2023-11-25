@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
+                "file": "Memo/RN ble-plx & ESP32.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md"
+                "file": "Memo/Untitled.md"
               }
             }
           },
@@ -204,18 +203,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f784fd4d08024f6",
+  "active": "192e99c13a6e6658",
   "lastOpenFiles": [
+    "Memo/RN ble-plx & ESP32.md",
+    "Memo/Untitled.md",
+    "Obsidian Tools/Tags and Links.md",
+    "Obsidian Tools/Callouts.md",
+    "Lang/JavaScript/Tips/How to/console.log 활용.md",
+    "Lang/JavaScript/Tips/How to/Axios.md",
+    "Lang/JavaScript/Tips/How to/Array.md",
+    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "Lang/JavaScript/📖開眼！JavaScript/02 オブジェクトとプロパティを扱う.md",
     "Lang/JavaScript/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
-    "Obsidian Tools/Callouts.md",
     "General/DTO.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "Memo/RN ble-plx & ESP32.md",
     "Lang/JavaScript/React Native/RN의 flex와 scrollview.md",
     "General/yaml, json, xml.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
@@ -223,15 +229,8 @@
     "Lang/JavaScript/ES6/functions.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "Lang/JavaScript/ES6/variables.md",
     "Lang/JavaScript/ES6/strings.md",
-    "General/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "Obsidian Tools/Tags and Links.md",
-    "Lang/JavaScript/Nest.js/NestJS로 배우는 백엔드 프로그래밍.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
     "src/Pasted image 20220929212226.png",
     "src/archive/Pasted image 20230705220042.png",
     "Untitled.canvas",
