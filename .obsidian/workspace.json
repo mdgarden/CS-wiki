@@ -80,7 +80,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
+                "file": "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b76e7642d4c2b366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Tips/Object.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
+                "file": "Lang/JavaScript/Tips/Object.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/디렉토리 구조.md"
+                "file": "Lang/JavaScript/Tips/Object.md"
               }
             }
           },
@@ -230,11 +243,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74d0c5d3ead5321f",
+  "active": "b76e7642d4c2b366",
   "lastOpenFiles": [
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
+    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+    "Lang/JavaScript/Tips/Object.md",
+    "README.md",
+    "Lang/JavaScript/Tips/How to/Array.md",
     "Untitled",
+    "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
+    "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Next.js/Next.js 도토리.md",
     "Lang/README.md",
     "Lang/JavaScript/Next.js",
@@ -243,7 +260,6 @@
     "Obsidian Tools/Tags and Links.md",
     "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "Lang/JavaScript/📖開眼！JavaScript/02 オブジェクトとプロパティを扱う.md",
@@ -257,9 +273,6 @@
     "Lang/JavaScript/React Native/RN의 flex와 scrollview.md",
     "General/yaml, json, xml.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "Lang/JavaScript/ES6/Date.md",
-    "Lang/JavaScript/ES6/functions.md",
-    "Lang/JavaScript/React/Document/State, Hooks.md",
     "src/Pasted image 20220929212226.png",
     "src/archive/Pasted image 20230705220042.png",
     "Untitled.canvas",
