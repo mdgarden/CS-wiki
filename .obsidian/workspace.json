@@ -93,7 +93,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/Object.md",
+                "file": "Lang/JavaScript/React/Hooks/useContext.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd47cd557c54259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/Object.md",
+                "file": "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/Object.md"
+                "file": "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md"
               }
             }
           },
@@ -243,8 +256,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b76e7642d4c2b366",
+  "active": "3cd47cd557c54259",
   "lastOpenFiles": [
+    "Lang/JavaScript/React/Hooks/useContext.md",
+    "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Tips/Object.md",
     "README.md",
@@ -271,8 +286,6 @@
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/React Native/RN의 flex와 scrollview.md",
-    "General/yaml, json, xml.md",
-    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "src/Pasted image 20220929212226.png",
     "src/archive/Pasted image 20230705220042.png",
     "Untitled.canvas",
