@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/SQL/SQL 기본 절, 커맨드.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/SQL/SQL 기본 절, 커맨드.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/SQL/SQL 기본 절, 커맨드.md"
+                "file": "General/환경 관련 뻘짓 모음.md"
               }
             }
           },
@@ -272,15 +272,15 @@
   "active": "94084e7f755ecb9d",
   "lastOpenFiles": [
     "Lang/JavaScript/Tips/Object.md",
+    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
+    "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
     "Lang/SQL",
     "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md",
     "Lang/JavaScript/React/Hooks/useContext.md",
-    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "README.md",
     "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Next.js/Next.js 도토리.md",
     "Lang/README.md",
     "Lang/JavaScript/Next.js",
