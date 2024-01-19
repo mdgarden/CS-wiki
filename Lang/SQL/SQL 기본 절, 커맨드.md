@@ -10,3 +10,22 @@ DISTINCT
 중복된 데이터를 제거하고 데이터 취득
 
 https://www.javadrive.jp/mysql/select/index13.html
+
+## JOIN
+### INNER JOIN
+조인된 두 테이블에서, 조인 기준이 된 칼럼에 데이터가 양쪽 모두 존재하는 경우에만 결과값 출력
+### OUTER JOIN
+기준이 되는 테이블의 모든 레코드를 출력함
+LEFT JOIN
+https://makand.tistory.com/entry/SQL-LEFT-JOIN-%EA%B5%AC%EB%AC%B8
+
+### on 과 where 차이
+on : join 전에 조건을 필터링
+where : Join 후에 조건을 필터링
+https://velog.io/@crosstar1228/SQL-join%ED%95%A0%EB%95%8C-on-%EA%B3%BC-where%EC%9D%98-%EC%B0%A8%EC%9D%B4
+
+## GROUP BY
+
+## DATEDIFF
+
+https://mirwebma.tistory.com/178
