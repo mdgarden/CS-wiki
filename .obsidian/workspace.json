@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/Array.md",
+                "file": "Lang/SQL/SQL 기본 절, 커맨드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/Array.md",
+                "file": "Lang/SQL/SQL 기본 절, 커맨드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/Array.md"
+                "file": "Lang/SQL/SQL 기본 절, 커맨드.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "f6341de0dad80082",
   "lastOpenFiles": [
+    "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/ES6/Set.md",
     "Lang/JavaScript/ES6/functions.md",
     "Untitled",
@@ -193,7 +194,6 @@
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
     "Lang/JavaScript/React Native/stack vs native stack.md",
