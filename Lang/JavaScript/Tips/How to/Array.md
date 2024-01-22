@@ -13,3 +13,10 @@ const newItems = Array1.filter(({id}) => !Array2.some(({user_id})=> id === user_
 
 console.log([{id:1, name:"A"}, {id:2,name"B"}])
 ```
+
+배열 만드는 여러가지 방법
+
+```ts
+const arr: number[] = new Array(nums.length+1).fill(0);
+const arr = Array.from({length: nums.length} (v, i) => i) // [0, 1, 2...]
+```

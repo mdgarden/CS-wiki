@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/ES6/Set.md",
+                "file": "Lang/JavaScript/Tips/How to/Array.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/ES6/Set.md",
+                "file": "Lang/JavaScript/Tips/How to/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/ES6/Set.md"
+                "file": "Lang/JavaScript/Tips/How to/Array.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "f6341de0dad80082",
   "lastOpenFiles": [
-    "Lang/JavaScript/ES6/functions.md",
     "Lang/JavaScript/ES6/Set.md",
+    "Lang/JavaScript/ES6/functions.md",
     "Untitled",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
     "Lang/README.md",
