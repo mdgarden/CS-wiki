@@ -1,7 +1,18 @@
-COALESCE
+## CASE
+조건에 따라서 값을 지정
+```sql
+CASE 컬럼
+	WHEN 조건1 THEN 값1
+	WHEN 조건2 THEN 값2
+	ELSE 값3
+END
+```
+
+https://121202.tistory.com/46
+## COALESCE
 https://leetcode.com/problems/find-customer-referee/solutions/2398637/simple-query-with-easy-null-handling-using-coalesce/?envType=study-plan-v2&envId=top-sql-50
 
-UNION
+## UNION
 or 대신에 쓸 수 있는 절?
 or보다 UNION이 더 빠를 때도 있다고 함
 https://leetcode.com/problems/big-countries/solutions/103561/union-and-or-and-the-explanation/?envType=study-plan-v2&envId=top-sql-50
