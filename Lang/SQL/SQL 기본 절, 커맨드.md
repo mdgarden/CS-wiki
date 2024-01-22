@@ -12,12 +12,16 @@ DISTINCT
 https://www.javadrive.jp/mysql/select/index13.html
 
 ## JOIN
+
+두 테이블에 모두 내용이 있을 때 이너조인
+한쪽에만 내용이 있거나 불완전? 할 때 외부조인
 ### INNER JOIN
 조인된 두 테이블에서, 조인 기준이 된 칼럼에 데이터가 양쪽 모두 존재하는 경우에만 결과값 출력
 보통 조인이라고 하면 이너조인임 
 ### OUTER JOIN
-기준이 되는 테이블의 모든 레코드를 출력함
-LEFT JOIN
+기준이 되는 테이블의 모든 레코드를 출력함 LEFT / RIGHT / FULL
+FULL은 잘 사용안됨
+LEFT JOIN 
 https://makand.tistory.com/entry/SQL-LEFT-JOIN-%EA%B5%AC%EB%AC%B8
 
 ### on 과 where 차이
