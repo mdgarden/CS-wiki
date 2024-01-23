@@ -1,4 +1,9 @@
-## CASE
+
+## NULL 처리
+
+### IFNULL
+### CASE
+
 조건에 따라서 값을 지정
 ```sql
 CASE 컬럼
@@ -9,7 +14,7 @@ END
 ```
 
 https://121202.tistory.com/46
-## COALESCE
+### COALESCE
 https://leetcode.com/problems/find-customer-referee/solutions/2398637/simple-query-with-easy-null-handling-using-coalesce/?envType=study-plan-v2&envId=top-sql-50
 
 ## UNION
