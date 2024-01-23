@@ -45,3 +45,8 @@ https://velog.io/@crosstar1228/SQL-join%ED%95%A0%EB%95%8C-on-%EA%B3%BC-where%EC%
 ## DATEDIFF
 
 https://mirwebma.tistory.com/178
+
+## 논리 연산자
+
+## 비교 연산자
+<> : !=랑 같음. 두 값이 다르면 TRUE
