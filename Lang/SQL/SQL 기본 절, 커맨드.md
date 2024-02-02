@@ -55,3 +55,6 @@ https://mirwebma.tistory.com/178
 
 ## 비교 연산자
 <> : !=랑 같음. 두 값이 다르면 TRUE
+
+### UPDATE
+### SET
