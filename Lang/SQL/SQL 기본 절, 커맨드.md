@@ -54,7 +54,14 @@ https://mirwebma.tistory.com/178
 ## 논리 연산자
 
 ## 비교 연산자
+
 <> : !=랑 같음. 두 값이 다르면 TRUE
+= a=b a와 b는같다
+<=> a와 b는 같다(NULL 대응)
+
+| 1=NULL | 1<=>NULL | NULL<=>NULL | 1!=NULL | 1<>NULL | 1<NULL |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| NULL | 0 | 1 | NULL | NULL | NULL |
 
 ### UPDATE
 ### SET
