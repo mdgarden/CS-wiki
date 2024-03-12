@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Algorithm and Datastructure/Hash, Map.md",
+                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Algorithm and Datastructure/Hash, Map.md",
+                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Algorithm and Datastructure/Hash, Map.md"
+                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "6b5aa4b5ab18961a",
   "lastOpenFiles": [
-    "Obsidian Tools/Callouts.md",
     "General/Algorithm and Datastructure/Hash, Map.md",
+    "Obsidian Tools/Callouts.md",
     "General/Algorithm and Datastructure/LeetCode/sort.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
