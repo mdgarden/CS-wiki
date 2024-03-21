@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "bfa93c7c6686d3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/Linked List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6dfc76c047db56bc",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md",
+                "file": "Data Structure/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md"
+                "file": "Data Structure/Linked List.md"
               }
             }
           },
@@ -207,8 +220,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b5aa4b5ab18961a",
+  "active": "7be2fe09391a7d79",
   "lastOpenFiles": [
+    "Lang/JavaScript/Next.js/Next.js 도토리.md",
+    "Data Structure/Linked List.md",
+    "General/App/Foreground vs Background.md",
+    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "General/📖함수형 프로그래밍/README.md",
+    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "Data Structure",
     "General/Algorithm and Datastructure/Hash, Map.md",
     "Obsidian Tools/Callouts.md",
     "General/Algorithm and Datastructure/LeetCode/sort.md",
@@ -224,18 +244,11 @@
     "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/Next.js/Next.js 도토리.md",
     "Lang/JavaScript/ES6/Set.md",
     "Lang/JavaScript/ES6/functions.md",
-    "Untitled",
     "Lang/README.md",
     "Lang/JavaScript/Tips/Object.md",
     "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/React Native/stack vs native stack.md",
-    "Lang/JavaScript/React Native/BLE와 RN.md",
-    "Lang/JavaScript/React Native/푸쉬 알림 보내기.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
     "src/Pasted image 20220917203120.png",
     "src/Pasted image 20220929212226.png",
     "src",
