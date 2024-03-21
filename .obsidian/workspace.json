@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/Linked List.md",
+                "file": "General/Algorithm and Datastructure/Hash, Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f239cd2be62e1afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linke",
+                "query": "tag:진법",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Linked List.md",
+                "file": "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/Linked List.md"
+                "file": "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md"
               }
             }
           },
@@ -222,14 +235,17 @@
   },
   "active": "7be2fe09391a7d79",
   "lastOpenFiles": [
+    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
+    "General/Algorithm and Datastructure/Hash, Map.md",
+    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
+    "AWS/Solution Architect/SAP.md",
+    "General/Algorithm and Datastructure/Linked List.md",
     "Lang/JavaScript/Next.js/Next.js 도토리.md",
-    "Data Structure/Linked List.md",
     "General/App/Foreground vs Background.md",
     "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "General/📖함수형 프로그래밍/README.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Data Structure",
-    "General/Algorithm and Datastructure/Hash, Map.md",
     "Obsidian Tools/Callouts.md",
     "General/Algorithm and Datastructure/LeetCode/sort.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
@@ -246,9 +262,6 @@
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/ES6/Set.md",
     "Lang/JavaScript/ES6/functions.md",
-    "Lang/README.md",
-    "Lang/JavaScript/Tips/Object.md",
-    "Lang/JavaScript/Tips/리액트 & RN 뻘짓 모음.md",
     "src/Pasted image 20220917203120.png",
     "src/Pasted image 20220929212226.png",
     "src",
