@@ -8,6 +8,8 @@
 ### 유닉스 시간의 유래
 - January 1st, 1970 at 00:00:00 UTC is referred to as the Unix epoch.   Early Unix engineers picked that date arbitrarily because they needed to set a uniform date for the start of time, and New Year's Day, 1970, seemed most convenient. [^주2]
 
+### y2k 사건
+
 참고 자료
 https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%89%EC%8A%A4_%EC%8B%9C%EA%B0%84
 https://kb.narrative.io/what-is-unix-time
