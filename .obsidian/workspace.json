@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f98b80642c9ace3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/OS/Terminal, Kernel, Shell, Prompt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:진법",
+                "query": "array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
+                "file": "General/OS/Terminal, Kernel, Shell, Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md"
+                "file": "General/OS/Terminal, Kernel, Shell, Prompt.md"
               }
             }
           },
@@ -235,9 +248,14 @@
   },
   "active": "7be2fe09391a7d79",
   "lastOpenFiles": [
+    "General/환경 관련 뻘짓 모음.md",
+    "General/OS/Terminal, Kernel, Shell, Prompt.md",
+    "General/OS",
+    "Lang/JavaScript/ES6/Set.md",
+    "Lang/JavaScript/Tips/How to/Array.md",
+    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
     "General/Algorithm and Datastructure/Hash, Map.md",
-    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "AWS/Solution Architect/SAP.md",
     "General/Algorithm and Datastructure/Linked List.md",
     "Lang/JavaScript/Next.js/Next.js 도토리.md",
@@ -251,7 +269,6 @@
     "Lang/SQL/SQL 기본 절, 커맨드.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
@@ -260,8 +277,6 @@
     "Lang/JavaScript/React/Hooks/Hooks 언제 쓰냐.md",
     "Lang/JavaScript/React/Document/State, Hooks.md",
     "Lang/JavaScript/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/ES6/Set.md",
-    "Lang/JavaScript/ES6/functions.md",
     "src/Pasted image 20220917203120.png",
     "src/Pasted image 20220929212226.png",
     "src",
@@ -270,8 +285,6 @@
     "Lang/JavaScript/Tips/How to",
     "Lang/JavaScript/React/Library",
     "Lang/JavaScript/React/Hooks",
-    "Lang/JavaScript/React/Document",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍",
-    "Lang/JavaScript/📖開眼！JavaScript"
+    "Lang/JavaScript/React/Document"
   ]
 }
