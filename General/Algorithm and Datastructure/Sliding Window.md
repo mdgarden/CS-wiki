@@ -17,3 +17,5 @@ right - left + 1 공식의 이해
 - 조건에 맞는 윈도우를 찾았을 경우, 정답을 계산하여 더한다.
 - 왼쪽 포인터는 정답을 계산한 곳에서 고정되고, 오른쪽 포인터가 움지기이기 시작한다.
 - 오른쪽 포인터가 끝에 다다를 때까지 반복한다. 
+
+LeetCode 2024년 3월 마지막주 내내 일일 챌린지가 sliding window문제였음... https://leetcode.com/problems/subarrays-with-k-different-integers/
