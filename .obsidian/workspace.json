@@ -4,115 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "06068aae7210cad3",
+        "id": "3895db4f7ae7b81d",
         "type": "tabs",
         "children": [
           {
-            "id": "dffa9ef3dd1ac5e3",
+            "id": "1d18e18fced068ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/ES6/functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6341de0dad80082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/SQL/SQL 기본 절, 커맨드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5aa4b5ab18961a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/Next.js/Next.js 도토리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfa93c7c6686d3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Algorithm and Datastructure/Hash, Map.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f239cd2be62e1afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/환경 관련 뻘짓 모음.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f98b80642c9ace3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Algorithm and Datastructure/Hash, Map.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78416f25b7f9c9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Algorithm and Datastructure/Sliding Window.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dfc76c047db56bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Tools/Callouts.md",
+                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Algorithm and Datastructure/Sliding Window.md",
+                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Algorithm and Datastructure/Sliding Window.md"
+                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md"
               }
             }
           },
@@ -259,45 +167,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78416f25b7f9c9e6",
+  "active": "1d18e18fced068ff",
   "lastOpenFiles": [
-    "General/Algorithm and Datastructure/Hash, Map.md",
-    "General/Algorithm and Datastructure/Sliding Window.md",
-    "General/Algorithm and Datastructure/LeetCode/sort.md",
-    "General/OS/Terminal, Kernel, Shell, Prompt.md",
-    "General/DTO.md",
-    "src/Pasted image 20220929212226.png",
-    "src/Pasted image 20220917203120.png",
     "Obsidian Tools/Callouts.md",
-    "Obsidian Tools/Tags and Links.md",
-    "Memo/RN ble-plx & ESP32.md",
-    "General/환경 관련 뻘짓 모음.md",
+    "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
+    "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
+    "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md",
+    "Lang/JavaScript/React Native/RN의 라우팅.md",
+    "Lang/JavaScript/📖파이브 라인스 코드",
+    "General/yaml, json, xml.md",
     "General/i18n.md",
     "General/GMT, UTC, Unix Time.md",
-    "General/OS",
-    "Lang/JavaScript/ES6/Set.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
-    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
-    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
-    "AWS/Solution Architect/SAP.md",
-    "General/Algorithm and Datastructure/Linked List.md",
-    "Lang/JavaScript/Next.js/Next.js 도토리.md",
-    "General/App/Foreground vs Background.md",
-    "General/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "General/📖함수형 프로그래밍/README.md",
+    "General/DTO.md",
+    "General/환경 관련 뻘짓 모음.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "General/Network/payload.md",
+    "General/Network/http, https, tcp, ws protocol.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Autentication/OAuth 2.0.md",
+    "General/Network/Autentication/인증의 구조와 방법.md",
+    "General/Network/curl.md",
+    "General/Network/Autentication/JWT.md",
+    "General/Network/📖Real World HTTP/README.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/Algorithm and Datastructure/LeetCode/sort.md",
+    "General/Algorithm and Datastructure/Linked List.md",
+    "General/Algorithm and Datastructure/Sliding Window.md",
+    "General/Algorithm and Datastructure/Hash, Map.md",
+    "General/OS/Terminal, Kernel, Shell, Prompt.md",
+    "src/Pasted image 20220929212226.png",
+    "src/Pasted image 20220917203120.png",
+    "Obsidian Tools/Tags and Links.md",
+    "General/OS",
+    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
     "Data Structure",
-    "Lang/SQL/SQL 기본 절, 커맨드.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/Tips/How to/디렉토리 구조.md",
     "src",
     "Obsidian Tools",
     "Memo",
     "Lang/JavaScript/Tips/How to",
     "Lang/JavaScript/React/Library",
-    "Lang/JavaScript/React/Hooks",
-    "Lang/JavaScript/React/Document"
+    "Lang/JavaScript/React/Hooks"
   ]
 }
