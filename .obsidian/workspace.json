@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
+                "file": "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
+                "file": "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md"
+                "file": "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "1d18e18fced068ff",
   "lastOpenFiles": [
-    "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
+    "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
