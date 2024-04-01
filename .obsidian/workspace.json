@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md"
+                "file": "README.md"
               }
             }
           },
@@ -183,9 +183,11 @@
   },
   "active": "e646e68281d0d9ae",
   "lastOpenFiles": [
-    "Lang/JavaScript/📖파이브 라인스 코드/03. 긴 코드 조각내기.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
+    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
     "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
+    "Lang/JavaScript/📖파이브 라인스 코드/03. 긴 코드 조각내기.md",
     "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
@@ -208,8 +210,6 @@
     "General/Algorithm and Datastructure/LeetCode/sort.md",
     "General/Algorithm and Datastructure/Linked List.md",
     "General/Algorithm and Datastructure/Sliding Window.md",
-    "General/Algorithm and Datastructure/Hash, Map.md",
-    "General/OS/Terminal, Kernel, Shell, Prompt.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "General/OS",
