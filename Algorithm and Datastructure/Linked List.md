@@ -34,6 +34,7 @@ let head = {
     next: {
         val: 2,
         next: {
+        
             val: 3,
             next: null  // 리스트의 마지막 노드는 다음 노드가 없으므로 null
         }
