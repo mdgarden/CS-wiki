@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm and Datastructure/Sliding Window.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "546cb0aa624bbc22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm and Datastructure/Back Tracking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a847410fde8730cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm and Datastructure/Linked List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm and Datastructure/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithm and Datastructure/Linked List.md"
               }
             }
           },
@@ -181,14 +207,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e646e68281d0d9ae",
+  "active": "a847410fde8730cf",
   "lastOpenFiles": [
+    "Algorithm and Datastructure/Hash, Map.md",
+    "Algorithm and Datastructure/Back Tracking.md",
+    "Algorithm and Datastructure/재귀함수.md",
+    "Algorithm and Datastructure/Sliding Window.md",
+    "Algorithm and Datastructure/Linked List.md",
+    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
+    "Obsidian Tools/Callouts.md",
+    "README.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
     "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
     "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
     "Lang/JavaScript/📖파이브 라인스 코드/03. 긴 코드 조각내기.md",
-    "Obsidian Tools/Callouts.md",
     "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md",
     "Lang/JavaScript/React Native/RN의 라우팅.md",
     "Lang/JavaScript/📖파이브 라인스 코드",
@@ -203,17 +236,10 @@
     "General/Network/Autentication/Session, Cookie.md",
     "General/Network/Autentication/OAuth 2.0.md",
     "General/Network/Autentication/인증의 구조와 방법.md",
-    "General/Network/curl.md",
-    "General/Network/Autentication/JWT.md",
-    "General/Network/📖Real World HTTP/README.md",
-    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
-    "General/Algorithm and Datastructure/LeetCode/sort.md",
-    "General/Algorithm and Datastructure/Linked List.md",
-    "General/Algorithm and Datastructure/Sliding Window.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "General/OS",
-    "General/Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
+    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
     "Data Structure",
     "src",
     "Obsidian Tools",
