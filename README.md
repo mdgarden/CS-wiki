@@ -1,6 +1,6 @@
 # CS Wiki
 
-> 머리부터 발 끝까지 핫 이 슈
+> [머리부터 발 끝까지 핫 이 슈](https://open.spotify.com/track/5paXozBSDZcfFwEeKbEnok?si=6f273812a4684ee1)
 
 ## "오늘 배운 것" 말고, "오늘 질문한 것"
 
@@ -14,3 +14,8 @@
 
 - 변경사항 커밋 : `command + shift + s`
 - 푸쉬 : `command + shift + p`
+
+## 태그 명명법
+- 기본적으로 파스칼 케이스 + 띄어쓰기는 언더바로 작성함 `Architecture_Design`
+- 가급적이면 영문 태그를 사용
+- 프레임워크나 라이브러리 등 공식 명칭 및 표기가 있다면 공식 표기를 우선함

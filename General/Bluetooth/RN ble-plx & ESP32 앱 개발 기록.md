@@ -1,3 +1,13 @@
+---
+tags:
+  - BLE
+  - Bluetooth
+  - ESP32
+  - ble-plx
+  - react-native
+  - notes
+---
+
 주요 참고 기사
 https://blog.theodo.com/2023/07/ble-integration-for-rn-apps/ (심장박동수 체크 앱)
 
@@ -61,8 +71,7 @@ BLE 스캔하는 방법
 참고) 크롬에서는 BLE 장치만 스캔 가능
 
 11.17
-아~ 진짜 넘 힘들다
-자문자답 하는거 의식하면서 하기
+
 https://github.com/octoco-ltd/ble-react-native/blob/master/screens/ble/BLEScreen.tsx#L7
 여기 코드 읽어가면서 훅스 만들어보기
 리덕스까지는 필요없다는게 개인적인 생각

@@ -1,3 +1,11 @@
+---
+tags:
+  - Algorithm
+  - Datastructure
+  - Hash
+  - Map
+---
+
 > [!abstract] Abstract, Summary, Tldr
 > Hash는 함수고 Map은 자료구조다.
 > 해시 테이블은 개념적인 자료구조고 Map은 ES6에서부터 표준이 된 기본 자료구조다.

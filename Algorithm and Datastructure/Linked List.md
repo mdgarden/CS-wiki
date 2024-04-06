@@ -1,8 +1,8 @@
 ---
 tags:
-  - 자료구조
   - Linked_List
-  - 알고리즘
+  - Algorithm
+  - Datastructure
 ---
 ```
 /** * Definition for singly-linked list. 
