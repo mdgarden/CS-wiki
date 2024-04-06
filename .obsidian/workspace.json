@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Linked List.md",
+                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcb7a6bad0e61c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/snip 스케치.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Linked List.md",
+                "file": "Draft/snip 스케치.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/Linked List.md"
+                "file": "Draft/snip 스케치.md"
               }
             }
           },
@@ -168,8 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3456461511f1f159",
+  "active": "dcb7a6bad0e61c83",
   "lastOpenFiles": [
+    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "Draft/snip 스케치.md",
+    "Algorithm and Datastructure/Linked List.md",
     "Algorithm and Datastructure/LeetCode/sort.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
@@ -179,7 +196,6 @@
     "Lang/JavaScript/Books/📖開眼！JavaScript/02 オブジェクトとプロパティを扱う.md",
     "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "General/환경 관련 뻘짓 모음.md",
-    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Architecture Design/디렉토리 구조.md",
     "Draft/파이브 라인스 오브 코드.md",
     "Architecture Design/📖파이브 라인스 오브 코드/README.md",
@@ -192,11 +208,9 @@
     "Algorithm and Datastructure/Recursion.md",
     "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Algorithm and Datastructure/Back Tracking.md",
-    "Algorithm and Datastructure/Linked List.md",
     "Tools/Obsidian Tools/Tags and Links.md",
     "Tools/Obsidian Tools/Callouts.md",
     "Lang/Java/IntelliJ ShortCuts.md",
-    "Lang/Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
     "Architecture Design",
     "Lang/JavaScript/Framwork",
     "Lang/JavaScript/Books",
