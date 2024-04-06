@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +185,9 @@
   },
   "active": "dcb7a6bad0e61c83",
   "lastOpenFiles": [
-    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Draft/snip 스케치.md",
+    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Algorithm and Datastructure/Linked List.md",
     "Algorithm and Datastructure/LeetCode/sort.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
@@ -206,7 +208,6 @@
     "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Algorithm and Datastructure/Recursion.md",
-    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Algorithm and Datastructure/Back Tracking.md",
     "Tools/Obsidian Tools/Tags and Links.md",
     "Tools/Obsidian Tools/Callouts.md",
