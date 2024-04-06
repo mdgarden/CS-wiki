@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
+                "file": "Lang/JavaScript/Books/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Linked List.md",
+                "file": "Obsidian Tools/Tags and Links.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d89e3195dd2c596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Linked List.md",
+                "file": "Draft/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/Linked List.md"
+                "file": "Draft/README.md"
               }
             }
           },
@@ -207,35 +220,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a847410fde8730cf",
+  "active": "7be2fe09391a7d79",
   "lastOpenFiles": [
-    "Algorithm and Datastructure/Hash, Map.md",
-    "Algorithm and Datastructure/Back Tracking.md",
-    "Algorithm and Datastructure/재귀함수.md",
-    "Algorithm and Datastructure/Sliding Window.md",
-    "Algorithm and Datastructure/Linked List.md",
-    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
+    "Obsidian Tools/Tags and Links.md",
+    "Draft/README.md",
     "Obsidian Tools/Callouts.md",
+    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
+    "Architecture Design/디렉토리 구조.md",
     "README.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
-    "Lang/JavaScript/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "Lang/JavaScript/📖파이브 라인스 코드/04. 타입 코드 처리하기.md",
-    "Lang/JavaScript/📖파이브 라인스 코드/READ ME.md",
-    "Lang/JavaScript/📖파이브 라인스 코드/03. 긴 코드 조각내기.md",
-    "Lang/JavaScript/📖Modern JavaScript Deep Dive/README.md",
-    "Lang/JavaScript/React Native/RN의 라우팅.md",
-    "Lang/JavaScript/📖파이브 라인스 코드",
-    "General/yaml, json, xml.md",
-    "General/i18n.md",
-    "General/GMT, UTC, Unix Time.md",
-    "General/DTO.md",
+    "General/Bluetooth/RN ble-plx & ESP32.md",
     "General/환경 관련 뻘짓 모음.md",
     "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "General/Network/SSL, TSL.md",
     "General/Network/payload.md",
     "General/Network/http, https, tcp, ws protocol.md",
+    "General/Network/curl.md",
     "General/Network/Autentication/Session, Cookie.md",
-    "General/Network/Autentication/OAuth 2.0.md",
-    "General/Network/Autentication/인증의 구조와 방법.md",
+    "General/Bluetooth/GATT.md",
+    "General/Bluetooth/BLE.md",
+    "General/App/Foreground vs Background.md",
+    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+    "AWS/Solution Architect/SAP.md",
+    "Lang/Java/IntelliJ ShortCuts.md",
+    "Lang/Java/Java Tutorial-Full Course for Beginners/README.md.md",
+    "Lang/Java/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+    "Lang/README.md",
+    "Lang/SQL/SQL 기본 절, 커맨드.md",
+    "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
+    "Architecture Design",
+    "Lang/JavaScript/Framwork",
+    "Lang/JavaScript/Books",
+    "Lang/JavaScript/Books/📖파이브 라인스 코드",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "General/OS",
@@ -243,9 +259,6 @@
     "Data Structure",
     "src",
     "Obsidian Tools",
-    "Memo",
-    "Lang/JavaScript/Tips/How to",
-    "Lang/JavaScript/React/Library",
-    "Lang/JavaScript/React/Hooks"
+    "Draft"
   ]
 }

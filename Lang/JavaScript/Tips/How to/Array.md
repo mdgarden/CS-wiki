@@ -20,3 +20,5 @@ console.log([{id:1, name:"A"}, {id:2,name"B"}])
 const arr: number[] = new Array(nums.length+1).fill(0);
 const arr = Array.from({length: nums.length} (v, i) => i) // [0, 1, 2...]
 ```
+
+https://gist.github.com/mdgarden/c8b662bf2875faf5607a3952e96e17be
