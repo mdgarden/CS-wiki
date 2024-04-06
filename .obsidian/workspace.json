@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/README.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/README.md",
+                "file": "General/환경 관련 뻘짓 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/README.md"
+                "file": "General/환경 관련 뻘짓 모음.md"
               }
             }
           },
@@ -220,18 +220,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be2fe09391a7d79",
+  "active": "9d89e3195dd2c596",
   "lastOpenFiles": [
-    "Obsidian Tools/Tags and Links.md",
+    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+    "General/환경 관련 뻘짓 모음.md",
     "Draft/README.md",
+    "Obsidian Tools/Tags and Links.md",
     "Obsidian Tools/Callouts.md",
     "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "Architecture Design/디렉토리 구조.md",
     "README.md",
     "General/Bluetooth/RN ble-plx & ESP32.md",
-    "General/환경 관련 뻘짓 모음.md",
-    "General/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "General/Network/SSL, TSL.md",
     "General/Network/payload.md",
     "General/Network/http, https, tcp, ws protocol.md",
