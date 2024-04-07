@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "출처": "multitext"
+    "출처": "multitext",
+    "Topics": "multitext",
+    "Date": "date",
+    "EndDate": "date"
   }
 }
