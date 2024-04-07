@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/아이디어 러프.md",
+                "file": "General/GMT, UTC, Unix Time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ffac46298c63974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/License.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/아이디어 러프.md",
+                "file": "General/License.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/아이디어 러프.md"
+                "file": "General/License.md"
               }
             }
           },
@@ -196,10 +209,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ed2eaa81be41e2d",
+  "active": "5ffac46298c63974",
   "lastOpenFiles": [
-    "Draft/snip 스케치.md",
+    "General/GMT, UTC, Unix Time.md",
+    "General/License.md",
     "Draft/아이디어 러프.md",
+    "Draft/snip 스케치.md",
     "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Algorithm and Datastructure/Linked List.md",
@@ -223,8 +238,6 @@
     "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Algorithm and Datastructure/Recursion.md",
     "Algorithm and Datastructure/Back Tracking.md",
-    "Tools/Obsidian Tools/Tags and Links.md",
-    "Tools/Obsidian Tools/Callouts.md",
     "Architecture Design",
     "Lang/JavaScript/Framwork",
     "Lang/JavaScript/Books",
