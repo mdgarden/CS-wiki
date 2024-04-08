@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
+                "file": "Algorithm and Datastructure/Sliding Window.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
+                "file": "Algorithm and Datastructure/Sliding Window.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md"
+                "file": "Algorithm and Datastructure/Sliding Window.md"
               }
             }
           },
@@ -248,10 +248,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be2fe09391a7d79",
+  "active": "b7e0bb6ad9866a2a",
   "lastOpenFiles": [
-    "Lang/Java/Lecture/Fastcampus-sns/Untitled.md",
+    "Algorithm and Datastructure/Recursion.md",
+    "Algorithm and Datastructure/Linked List.md",
+    "Algorithm and Datastructure/Hash, Map.md",
+    "Algorithm and Datastructure/Back Tracking.md",
+    "README.md",
     "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
+    "Lang/Java/Lecture/Fastcampus-sns/Untitled.md",
     "Lang/Java/IntelliJ ShortCuts.md",
     "Lang/Java/Lecture/Fastcampus-sns",
     "Lang/Java/Lecture",
@@ -264,7 +269,6 @@
     "Draft/snip 스케치.md",
     "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "Algorithm and Datastructure/Linked List.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/README.md",
@@ -274,10 +278,6 @@
     "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "General/환경 관련 뻘짓 모음.md",
     "Architecture Design/디렉토리 구조.md",
-    "Draft/파이브 라인스 오브 코드.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
-    "Lang/README.md",
-    "README.md",
     "Tools",
     "Architecture Design",
     "Lang/JavaScript/Framwork",
