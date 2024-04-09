@@ -1,3 +1,9 @@
+---
+tags:
+  - snip
+  - idea
+  - memo
+---
 
 ### electron 선정 이유
 vscode가 electron으로 만들어져 있어서

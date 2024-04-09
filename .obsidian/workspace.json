@@ -4,180 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e21286a7bdb7c69a",
+        "id": "d24b7aeb3e8cb828",
         "type": "tabs",
         "children": [
           {
-            "id": "3456461511f1f159",
+            "id": "4c865b19eace7e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcb7a6bad0e61c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/snip 스케치.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed2eaa81be41e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/GMT, UTC, Unix Time.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ffac46298c63974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/LeetCode/sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5867ab55333010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/Java/IntelliJ ShortCuts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17cb5d8c5c2f5ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7e0bb6ad9866a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fccc3f95b44cda8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/Java/IntelliJ ShortCuts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae97eb3729d7165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/EC2/EC2에 스프링 배포.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd3443168c1dad77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/개발자 도구/개요.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "036f6898f94f23a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/개발자 도구/CodeBuild.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632e42b403713419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f644602f7d96993d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md",
+                "file": "Draft/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md",
+                "file": "Draft/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md"
+                "file": "Draft/README.md"
               }
             }
           },
@@ -326,16 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f644602f7d96993d",
+  "active": "4c865b19eace7e6e",
   "lastOpenFiles": [
-    "AWS/개발자 도구/CodeBuild.md",
-    "AWS/개발자 도구/CodeDeploy.md",
-    "AWS/EC2/EC2에 스프링 배포.md",
-    "AWS/EC2/EC2에 Node.js 설치하기.md",
-    "AWS/EC2",
-    "AWS/개발자 도구/개요.md",
-    "AWS/개발자 도구",
+    "Draft/아이디어 러프.md",
+    "Draft/snip 스케치.md",
+    "Draft/README.md",
+    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Lang/Java/IntelliJ ShortCuts.md",
+    "AWS/개발자 도구/개요.md",
+    "Tools/Obsidian Tools/Callouts.md",
+    "AWS/개발자 도구/CodeDeploy.md",
+    "AWS/EC2/EC2에 Node.js 설치하기.md",
+    "AWS/개발자 도구/CodeBuild.md",
+    "AWS/EC2/EC2에 스프링 배포.md",
+    "AWS/EC2",
+    "AWS/개발자 도구",
     "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
     "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
     "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
@@ -350,13 +198,9 @@
     "Lang/Java/Lecture/Fastcampus-sns",
     "Lang/Java/Lecture",
     "Algorithm and Datastructure/LeetCode/Valid Parenthesis String (유효한 괄호 찾기).md",
-    "Tools/Obsidian Tools/Callouts.md",
     "Algorithm and Datastructure/LeetCode/sort.md",
     "General/License.md",
     "General/GMT, UTC, Unix Time.md",
-    "Draft/아이디어 러프.md",
-    "Draft/snip 스케치.md",
-    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Tools",
     "Architecture Design",
     "Lang/JavaScript/Framwork",
