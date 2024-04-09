@@ -117,7 +117,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Java/EC2에 스프링 배포.md",
+                "file": "AWS/EC2/EC2에 스프링 배포.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd3443168c1dad77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/개요.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "036f6898f94f23a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/CodeBuild.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "632e42b403713419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/CodeDeploy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f644602f7d96993d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/CodeDeploy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -191,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/Java/EC2에 스프링 배포.md",
+                "file": "AWS/개발자 도구/CodeDeploy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/Java/EC2에 스프링 배포.md"
+                "file": "AWS/개발자 도구/CodeDeploy.md"
               }
             }
           },
@@ -274,10 +326,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ae97eb3729d7165",
+  "active": "f644602f7d96993d",
   "lastOpenFiles": [
+    "AWS/개발자 도구/CodeBuild.md",
+    "AWS/개발자 도구/CodeDeploy.md",
+    "AWS/EC2/EC2에 스프링 배포.md",
+    "AWS/EC2/EC2에 Node.js 설치하기.md",
+    "AWS/EC2",
+    "AWS/개발자 도구/개요.md",
+    "AWS/개발자 도구",
     "Lang/Java/IntelliJ ShortCuts.md",
-    "Lang/Java/EC2에 스프링 배포.md",
     "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
     "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
     "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
@@ -299,11 +357,6 @@
     "Draft/아이디어 러프.md",
     "Draft/snip 스케치.md",
     "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
-    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/README.md",
-    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/20. strict mode.md",
     "Tools",
     "Architecture Design",
     "Lang/JavaScript/Framwork",
@@ -311,8 +364,6 @@
     "Architecture Design/📖파이브 라인스 오브 코드",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
-    "General/OS",
-    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68",
-    "Data Structure"
+    "General/OS"
   ]
 }
