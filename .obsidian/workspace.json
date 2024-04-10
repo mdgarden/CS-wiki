@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/README.md",
+                "file": "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/README.md",
+                "file": "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/README.md"
+                "file": "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md"
               }
             }
           },
@@ -171,43 +171,43 @@
   },
   "active": "4c865b19eace7e6e",
   "lastOpenFiles": [
-    "Draft/아이디어 러프.md",
-    "Draft/snip 스케치.md",
-    "Draft/README.md",
-    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "Lang/Java/IntelliJ ShortCuts.md",
-    "AWS/개발자 도구/개요.md",
+    "Lang/JavaScript/Framwork/React Native/stack vs native stack.md",
+    "Lang/JavaScript/Framwork/React Native/RN의 flex와 scrollview.md",
+    "Lang/JavaScript/Framwork/React Native/RN의 라우팅.md",
+    "Lang/JavaScript/Framwork/React Native/BLE와 RN.md",
+    "Lang/JavaScript/Framwork/React Native/푸쉬 알림 보내기.md",
+    "Lang/JavaScript/Framwork/React/Hooks/useContext.md",
+    "Lang/JavaScript/Framwork/React/Hooks/Hooks 언제 쓰냐.md",
+    "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
+    "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
+    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
+    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
+    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
+    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
+    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "Lang/JavaScript/Framwork/Next.js/Next.js 도토리.md",
+    "Lang/JavaScript/ES6/Set.md",
+    "Lang/JavaScript/ES6/functions.md",
+    "Lang/JavaScript/ES6/Date.md",
+    "Lang/SQL/SQL 기본 절, 커맨드.md",
+    "src/Pasted image 20220929212226.png",
+    "src/Pasted image 20220917203120.png",
+    "Tools/Obsidian Tools/Tags and Links.md",
     "Tools/Obsidian Tools/Callouts.md",
-    "AWS/개발자 도구/CodeDeploy.md",
+    "Architecture Design/디렉토리 구조.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
     "AWS/EC2/EC2에 Node.js 설치하기.md",
-    "AWS/개발자 도구/CodeBuild.md",
-    "AWS/EC2/EC2에 스프링 배포.md",
     "AWS/EC2",
     "AWS/개발자 도구",
-    "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
-    "Algorithm and Datastructure/Sliding Window.md",
-    "Algorithm and Datastructure/Recursion.md",
-    "Algorithm and Datastructure/Linked List.md",
-    "Algorithm and Datastructure/Hash, Map.md",
-    "Algorithm and Datastructure/Back Tracking.md",
-    "README.md",
-    "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
-    "Lang/Java/Lecture/Fastcampus-sns/Untitled.md",
     "Lang/Java/Lecture/Fastcampus-sns",
     "Lang/Java/Lecture",
-    "Algorithm and Datastructure/LeetCode/Valid Parenthesis String (유효한 괄호 찾기).md",
-    "Algorithm and Datastructure/LeetCode/sort.md",
-    "General/License.md",
-    "General/GMT, UTC, Unix Time.md",
     "Tools",
     "Architecture Design",
     "Lang/JavaScript/Framwork",
     "Lang/JavaScript/Books",
     "Architecture Design/📖파이브 라인스 오브 코드",
-    "src/Pasted image 20220929212226.png",
-    "src/Pasted image 20220917203120.png",
     "General/OS"
   ]
 }
