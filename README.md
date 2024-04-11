@@ -2,6 +2,7 @@
 
 > [머리부터 발 끝까지 핫 이 슈](https://open.spotify.com/track/5paXozBSDZcfFwEeKbEnok?si=6f273812a4684ee1)
 
+⚠️ 이 리포지토리에 작성된 내용들은 `Obsidian`에 최적화되어있습니다.
 ## "오늘 배운 것" 말고, "오늘 질문한 것"
 
 - 기본적인 1일 잔디는 이슈나 디스커션을 오픈하는 것으로 만드는 것을 목표로 함

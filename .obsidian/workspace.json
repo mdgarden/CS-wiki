@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/개발자 도구/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/개발자 도구/README.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/개발자 도구/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,9 +179,9 @@
   },
   "active": "518a06024699ea01",
   "lastOpenFiles": [
+    "AWS/개발자 도구/README.md",
     "AWS/개발자 도구/CodeDeploy/README.md",
     "AWS/개발자 도구/CodeBuild/README.md",
-    "AWS/개발자 도구/README.md",
     "AWS/개발자 도구/CodeDeploy",
     "AWS/개발자 도구/CodeBuild/Settings.md",
     "AWS/개발자 도구/CodeBuild",
