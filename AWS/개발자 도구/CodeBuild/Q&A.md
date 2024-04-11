@@ -22,6 +22,7 @@ Q. 별도로 아티팩트의 저장 위치를 지정하지 않았을 경우, 기
 
 Q. `CodePipeline`을 통해 빌드와 배포를 진행할 때, `CodeDeploy`는 어디서 아티팩트를 찾아오는가?
 - AWS CodePipeline을 사용할 때, 파이프라인의 각 단계(stage)는 서로 연결되어 있으며, 빌드 단계(CodeBuild)에서 생성된 아티팩트는 자동으로 다음 단계(예: 배포 단계, CodeDeploy)로 전달됩니다. 즉, CodeBuild에서 생성된 JAR 파일과 같은 아티팩트는 파이프라인을 통해 자동으로 관리되며, 별도로 CodeDeploy에서 이를 "찾아오도록" 설정할 필요가 없습니다. 파이프라인 설정 과정에서 아티팩트의 소스와 대상을 명확히 정의하기 때문입니다.
+- ![[AWS/개발자 도구/CodePipeline/README|AWS CodePipeline#^^]]
 
 Q. `CodeBuild`에 어떻게 작업을 지시하는가?
 - `buildspec.yml` 파일에 정의된 지시에 따라 작업을 수행함
