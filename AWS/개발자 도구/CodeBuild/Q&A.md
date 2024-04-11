@@ -13,7 +13,8 @@ Q. `CodeBuild`에서 빌드가 완료된 아티팩트는 어디에 저장되는�
 - `CodeBuild`프로젝트 설정에서 지정할 수 있음
 	- `buildspec.yml` 파일이나 AWS Management Console에서 직접 설정할 수 있음
 	- [[Settings]]
-	- ![[Artifact]]
+
+![[Artifact]]
 
 Q. 별도로 아티팩트의 저장 위치를 지정하지 않았을 경우, 기본 저장 위치는 어디인가?
 - AWS CodeBuild에서 아티팩트의 저장 위치를 명시적으로 지정하지 않았다면, 빌드 프로세스에서 생성된 아티팩트는 기본적으로 어디에도 자동으로 저장되지 않습니다. 즉, 매니지먼트 콘솔에서 아티팩트 설정을 하지 않고 `buildspec.yml` 파일 내에서도 아티팩트의 S3 버킷 저장 경로를 지정하지 않았다면, 빌드가 성공적으로 완료된 후에도 생성된 아티팩트는 임시 빌드 환경에만 존재하게 됩니다.
@@ -21,8 +22,9 @@ Q. 별도로 아티팩트의 저장 위치를 지정하지 않았을 경우, 기
 - AWS CodeBuild는 빌드 환경을 위한 임시 컴퓨팅 리소스를 프로비저닝하며, 빌드가 완료되고 리소스가 해제될 때, 이 임시 환경에 저장된 모든 데이터도 함께 제거됩니다. 따라서, 빌드 프로세스에서 생성된 아티팩트를 보존하고자 한다면, 반드시 `buildspec.yml` 파일이나 AWS Management Console을 통해 아티팩트를 Amazon S3 버킷과 같은 영구적인 저장소에 명시적으로 저장하도록 설정해야 합니다.
 
 Q. `CodePipeline`을 통해 빌드와 배포를 진행할 때, `CodeDeploy`는 어디서 아티팩트를 찾아오는가?
-- AWS CodePipeline을 사용할 때, 파이프라인의 각 단계(stage)는 서로 연결되어 있으며, 빌드 단계(CodeBuild)에서 생성된 아티팩트는 자동으로 다음 단계(예: 배포 단계, CodeDeploy)로 전달됩니다. 즉, CodeBuild에서 생성된 JAR 파일과 같은 아티팩트는 파이프라인을 통해 자동으로 관리되며, 별도로 CodeDeploy에서 이를 "찾아오도록" 설정할 필요가 없습니다. 파이프라인 설정 과정에서 아티팩트의 소스와 대상을 명확히 정의하기 때문입니다.
-- ![[AWS/개발자 도구/CodePipeline/README|AWS CodePipeline#^^]]
+- AWS CodePipeline을 사용할 때, 파이프라인의 각 단계(stage)는 서로 연결되어 있으며, 빌드 단계(CodeBuild)에서 생성된 아티팩트는 자동으로 다음 단계(예: 배포 단계, CodeDeploy)로 전달됩니다. 즉, CodeBuild에서 생성된 JAR 파일과 같은 아티팩트는 파이프라인을 통해 자동으로 관리되며, 별도로 CodeDeploy에서 이를 "찾아오도록" 설정할 필요가 없습니다. 파이프라인 설정 과정에서 아티팩트의 소스와 대상을 명확히 정의하기 때문입니다. 
+
+![[AWS/개발자 도구/CodePipeline/README#아티팩트 전달 메커니즘|AWS CodePipeline]]
 
 Q. `CodeBuild`에 어떻게 작업을 지시하는가?
 - `buildspec.yml` 파일에 정의된 지시에 따라 작업을 수행함

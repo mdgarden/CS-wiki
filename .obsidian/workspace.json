@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55387366fccd0d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/License.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "29e5a89ef970715f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/개발자 도구/CodeBuild/Q&A.md",
+                "file": "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +21,32 @@
             }
           },
           {
-            "id": "ce4e2c07e372a1c5",
+            "id": "70b22d376fc1a2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/개발자 도구/CodePipeline/README.md",
+                "file": "AWS/개발자 도구/CodeDeploy/start.sh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14810b1887af0ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/EC2/EC2의 세션.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/개발자 도구/CodePipeline/README.md",
+                "file": "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/개발자 도구/CodePipeline/README.md"
+                "file": "AWS/개발자 도구/CodeDeploy/Troubleshooting.md"
               }
             }
           },
@@ -196,45 +195,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce4e2c07e372a1c5",
+  "active": "29e5a89ef970715f",
   "lastOpenFiles": [
-    "AWS/개발자 도구/CodeBuild/Q&A.md",
-    "AWS/개발자 도구/CodePipeline/README.md",
-    "AWS/개발자 도구/README.md",
+    "AWS/개발자 도구/CodeBuild/buildspec/discard-paths.md",
+    "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
+    "AWS/개발자 도구/CodeBuild/buildspec/buildspec.md",
+    "AWS/개발자 도구/CodeDeploy/[[discard-paths]].md",
     "General/License.md",
+    "AWS/개발자 도구/CodeDeploy/appspec.md",
+    "AWS/개발자 도구/CodeDeploy/start.sh.md",
+    "AWS/EC2/EC2의 세션.md",
+    "AWS/개발자 도구/CodePipeline/README.md",
+    "General/DTO.md",
+    "General/OS/Terminal, Kernel, Shell, Prompt.md",
+    "General/OS/Linux/CLI/nohup.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Session.md",
+    "General/Vim/단축키 모음.md",
+    "General/Vim",
+    "General/OS/Linux/CLI",
+    "General/OS/Linux",
+    "README.md",
+    "AWS/개발자 도구/CodeBuild/Q&A.md",
+    "AWS/개발자 도구/CodeBuild/Troubleshooting.md",
+    "AWS/개발자 도구/CodeBuild/buildspec",
+    "AWS/개발자 도구/CodeDeploy/Q&A.md",
+    "AWS/개발자 도구/README.md",
     "Tools/Obsidian Tools/Tags and Links.md",
     "AWS/개발자 도구/CodeBuild/Settings.md",
     "Tools/Obsidian Tools/Callouts.md",
-    "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
     "AWS/개발자 도구/CodePipeline",
-    "AWS/개발자 도구/CodeDeploy/Q&A.md",
-    "AWS/개발자 도구/CodeDeploy/appspec.yml.md",
-    "AWS/개발자 도구/CodeBuild/buildspec.yml.md",
-    "AWS/개발자 도구/CodeBuild/Troubleshooting.md",
-    "README.md",
     "AWS/개발자 도구/CodeDeploy",
     "AWS/개발자 도구/CodeBuild",
     "Tools/Obsidian Tools/여기에파일경로.md",
     "General/Artifact.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
-    "Lang/JavaScript/Framwork/React/Hooks/Hooks 언제 쓰냐.md",
-    "Lang/JavaScript/Framwork/React/Hooks/useContext.md",
-    "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
-    "Algorithm and Datastructure/Hash, Map.md",
-    "General/i18n.md",
-    "AWS/EC2/EC2에 스프링 배포.md",
-    "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "Lang/JavaScript/ES6/variables.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "AWS/EC2",
     "AWS/개발자 도구",
-    "Lang/Java/Lecture/Fastcampus-sns",
-    "Lang/Java/Lecture",
-    "Tools",
-    "Architecture Design",
-    "Lang/JavaScript/Framwork"
+    "Lang/Java/Lecture/Fastcampus-sns"
   ]
 }
