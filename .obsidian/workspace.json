@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Monotone Stack.md",
+                "file": "AWS/개발자 도구/CodeDeploy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Monotone Stack.md",
+                "file": "AWS/개발자 도구/CodeDeploy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/Monotone Stack.md"
+                "file": "AWS/개발자 도구/CodeDeploy.md"
               }
             }
           },
@@ -185,32 +186,32 @@
   },
   "active": "518a06024699ea01",
   "lastOpenFiles": [
-    "Algorithm and Datastructure/Hash, Map.md",
-    "Algorithm and Datastructure/Monotone Stack.md",
-    "General/Network/payload.md",
-    "General/Network/http, https, tcp, ws protocol.md",
-    "General/Network/SSL, TSL.md",
+    "AWS/개발자 도구/CodeBuild.md",
+    "AWS/EC2/EC2에 스프링 배포.md",
+    "AWS/개발자 도구/CodeDeploy.md",
+    "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
+    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "Lang/JavaScript/ES6/variables.md",
+    "Lang/JavaScript/ES6/strings.md",
+    "Lang/JavaScript/ES6/Set.md",
+    "Lang/JavaScript/ES6/functions.md",
+    "Lang/JavaScript/ES6/Date.md",
     "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
-    "General/Network/curl.md",
     "General/Network/📖Real World HTTP/README.md",
+    "General/Network/SSL, TSL.md",
+    "General/Network/payload.md",
+    "General/Network/curl.md",
+    "Algorithm and Datastructure/Recursion.md",
+    "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
+    "Algorithm and Datastructure/Monotone Stack.md",
+    "Algorithm and Datastructure/Hash, Map.md",
+    "General/Network/http, https, tcp, ws protocol.md",
     "General/yaml, json, xml.md",
     "General/License.md",
     "General/i18n.md",
     "General/GMT, UTC, Unix Time.md",
     "General/DTO.md",
     "General/환경 관련 뻘짓 모음.md",
-    "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/Framwork/React Native/stack vs native stack.md",
-    "Lang/JavaScript/Framwork/React Native/RN의 flex와 scrollview.md",
-    "Lang/JavaScript/Framwork/React Native/RN의 라우팅.md",
-    "Lang/JavaScript/Framwork/React Native/BLE와 RN.md",
-    "Lang/JavaScript/Framwork/React Native/푸쉬 알림 보내기.md",
-    "Lang/JavaScript/Framwork/React/Hooks/useContext.md",
-    "Lang/JavaScript/Framwork/React/Hooks/Hooks 언제 쓰냐.md",
-    "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
-    "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "AWS/EC2",
