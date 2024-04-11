@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
+                "file": "Algorithm and Datastructure/Hash, Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "518a06024699ea01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm and Datastructure/Monotone Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
+                "file": "Algorithm and Datastructure/Monotone Stack.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md"
+                "file": "Algorithm and Datastructure/Monotone Stack.md"
               }
             }
           },
@@ -169,8 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c865b19eace7e6e",
+  "active": "518a06024699ea01",
   "lastOpenFiles": [
+    "Algorithm and Datastructure/Hash, Map.md",
+    "Algorithm and Datastructure/Monotone Stack.md",
+    "General/Network/payload.md",
+    "General/Network/http, https, tcp, ws protocol.md",
+    "General/Network/SSL, TSL.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/Network/curl.md",
+    "General/Network/📖Real World HTTP/README.md",
+    "General/yaml, json, xml.md",
+    "General/License.md",
+    "General/i18n.md",
+    "General/GMT, UTC, Unix Time.md",
+    "General/DTO.md",
+    "General/환경 관련 뻘짓 모음.md",
+    "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Framwork/React Native/stack vs native stack.md",
     "Lang/JavaScript/Framwork/React Native/RN의 flex와 scrollview.md",
     "Lang/JavaScript/Framwork/React Native/RN의 라우팅.md",
@@ -182,23 +211,8 @@
     "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/06. 동적 모듈을 활용한 환경 변수 구성.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/05. SW 복잡도를 낮추기 위한 모듈 설계.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
-    "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "Lang/JavaScript/Framwork/Next.js/Next.js 도토리.md",
-    "Lang/JavaScript/ES6/Set.md",
-    "Lang/JavaScript/ES6/functions.md",
-    "Lang/JavaScript/ES6/Date.md",
-    "Lang/SQL/SQL 기본 절, 커맨드.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
-    "Tools/Obsidian Tools/Tags and Links.md",
-    "Tools/Obsidian Tools/Callouts.md",
-    "Architecture Design/디렉토리 구조.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
-    "AWS/EC2/EC2에 Node.js 설치하기.md",
     "AWS/EC2",
     "AWS/개발자 도구",
     "Lang/Java/Lecture/Fastcampus-sns",
