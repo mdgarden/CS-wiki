@@ -22,3 +22,9 @@ sourceCompatibility = '17'
 targetCompatibility = '17'
 ```
 - 프로젝트에서 node-gradle을 사용했기 때문에, node와 npm 또한 EC2에 설치를 해줘야한다.
+
+## gradle 다운로드는 되었으나 npm 관련 문제가 발생
+
+`node-gradle`을 사용할 때 발생할 수 있는 문제.
+
+![[EC2에 Node.js 설치하기]]

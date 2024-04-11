@@ -9,8 +9,6 @@ tags:
 - ----
 ## 코드 디플로이에서 배포 실패
 
-현재 상황
-
 파이프라인에서 빌드까지 정상적으로 되었으나, 디플로이에서 실패함.
 
 `The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems.`
@@ -22,8 +20,6 @@ tags:
     
 2. **폴링 메시지**: `[Aws::CodeDeployCommand::Client 200 45.142183 0 retries] poll_host_command(...)` 메시지는 CodeDeploy 에이전트가 CodeDeploy 서비스에 주기적으로 "폴링(polling)"하여 새로운 배포 명령이 있는지 확인하는 과정을 나타냅니다. 이 과정은 에이전트가 AWS CodeDeploy 서버와 정상적으로 통신하고 있음을 의미합니다.
 ```
-
-다음 확인해보기
 
 ### 배포 트리거 문제
 
