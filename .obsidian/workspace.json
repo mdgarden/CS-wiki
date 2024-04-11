@@ -13,7 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AWS/개발자 도구/CodeBuild/Settings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ce5d8c4be802995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/CodeBuild/Settings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e96d73db6ce473c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29e5a89ef970715f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/개발자 도구/CodeDeploy/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AWS/개발자 도구/CodeDeploy/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AWS/개발자 도구/CodeDeploy/README.md"
               }
             }
           },
@@ -177,16 +217,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "518a06024699ea01",
+  "active": "29e5a89ef970715f",
   "lastOpenFiles": [
+    "AWS/개발자 도구/CodeBuild/Q&A.md",
+    "AWS/개발자 도구/CodeDeploy/appspec.yml.md",
+    "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
+    "AWS/개발자 도구/CodeBuild/Settings.md",
+    "AWS/개발자 도구/CodeBuild/buildspec.yml.md",
+    "AWS/개발자 도구/CodeBuild/Troubleshooting.md",
     "AWS/개발자 도구/README.md",
     "AWS/개발자 도구/CodeDeploy/README.md",
-    "AWS/개발자 도구/CodeBuild/README.md",
-    "AWS/개발자 도구/CodeDeploy",
-    "AWS/개발자 도구/CodeBuild/Settings.md",
-    "AWS/개발자 도구/CodeBuild",
     "Tools/Obsidian Tools/Tags and Links.md",
     "Tools/Obsidian Tools/Callouts.md",
+    "README.md",
+    "AWS/개발자 도구/CodeDeploy",
+    "AWS/개발자 도구/CodeBuild",
     "General/License.md",
     "Tools/Obsidian Tools/여기에파일경로.md",
     "General/Artifact.md",
@@ -195,18 +240,13 @@
     "Lang/JavaScript/Framwork/React/Hooks/useContext.md",
     "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
-    "README.md",
     "Algorithm and Datastructure/Hash, Map.md",
     "General/i18n.md",
-    "AWS/개발자 도구/Troubleshooting.md",
     "AWS/EC2/EC2에 스프링 배포.md",
     "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/ES6/variables.md",
     "Lang/JavaScript/ES6/strings.md",
-    "Lang/JavaScript/ES6/Set.md",
-    "Lang/JavaScript/ES6/functions.md",
-    "Lang/JavaScript/ES6/Date.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "AWS/EC2",
