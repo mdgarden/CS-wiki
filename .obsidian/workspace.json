@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c865b19eace7e6e",
+            "id": "518a06024699ea01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Hash, Map.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "518a06024699ea01",
+            "id": "891bbc2b8210ffa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md",
+                "file": "General/Artifact.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array",
+                "query": "tag:TroubleShooting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/개발자 도구/CodeDeploy.md"
+                "file": "README.md"
               }
             }
           },
@@ -186,9 +184,14 @@
   },
   "active": "518a06024699ea01",
   "lastOpenFiles": [
+    "Tools/Obsidian Tools/Tags and Links.md",
     "AWS/개발자 도구/CodeBuild.md",
-    "AWS/EC2/EC2에 스프링 배포.md",
+    "General/Artifact.md",
     "AWS/개발자 도구/CodeDeploy.md",
+    "Algorithm and Datastructure/Hash, Map.md",
+    "General/i18n.md",
+    "AWS/개발자 도구/Troubleshooting.md",
+    "AWS/EC2/EC2에 스프링 배포.md",
     "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
     "Lang/JavaScript/Framwork/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "Lang/JavaScript/ES6/variables.md",
@@ -204,14 +207,9 @@
     "Algorithm and Datastructure/Recursion.md",
     "Algorithm and Datastructure/코딩의 수학적 기초를 다지는 알고리즘 퍼즐 68/제1장 입문편.md",
     "Algorithm and Datastructure/Monotone Stack.md",
-    "Algorithm and Datastructure/Hash, Map.md",
     "General/Network/http, https, tcp, ws protocol.md",
     "General/yaml, json, xml.md",
     "General/License.md",
-    "General/i18n.md",
-    "General/GMT, UTC, Unix Time.md",
-    "General/DTO.md",
-    "General/환경 관련 뻘짓 모음.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "AWS/EC2",

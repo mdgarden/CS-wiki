@@ -1,24 +1,50 @@
-## SpringBoot 3.x 버전과 Java 17 버전 호환문제
+---
+tags:
+  - AWS
+  - CodeBuild
+---
+![[Artifact]]
 
-빌드 과정에서 다음과 같은 에러 발생
+
+
+Q. `CodeBuild`에서 빌드가 완료된 아티팩트는 어디에 저장되는가?
+- `CodeBuild`프로젝트 설정에서 지정할 수 있음
+	- `buildspec.yml` 파일이나 AWS Management Console에서 직접 설정할 수 있음
+### AWS Management Console을 통한 설정
+
+1. **AWS Management Console에 로그인**한 후, **CodeBuild 서비스로 이동**합니다.
+2. **빌드 프로젝트 목록에서 원하는 프로젝트를 선택**합니다.
+3. **프로젝트 세부 정보 페이지에서 "편집" 또는 "빌드 설정"을 클릭**합니다.
+4. **"아티팩트" 섹션을 찾아** 설정을 조정합니다. 여기서 "아티팩트 유형"을 "Amazon S3"로 설정하고, 원하는 S3 버킷의 이름과 아티팩트가 저장될 경로를 지정합니다.
+5. **변경 사항을 저장**합니다.
+### `buildspec.yml` 파일을 통한 설정
+
+`buildspec.yml` 파일 내에서 아티팩트 저장 위치를 지정하려면, `artifacts` 섹션에 해당 정보를 포함시켜야 합니다. 예를 들어:
+
+```yaml
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Installing source dependencies...
+  build:
+    commands:
+      - echo Build started on `date`
+      - ./gradlew build
+  post_build:
+    commands:
+      - echo Build completed on `date`
+
+artifacts:
+  files:
+    - build/libs/*.jar
+  discard-paths: yes
+  name: my-application-$(date +%Y-%m-%d)
+  type: s3
+  bucket: my-s3-bucket-name
+  path: my-application/builds
 
 ```
-Other compatible attribute: - Doesn't say anything about org.gradle.plugin.api-version (required '8.7') - Variant 'mavenOptionalRuntimeElements' declares a library for use during runtime, packaged as a jar, and its dependencies declared externally: - Incompatible because this component declares a component, compatible with Java 17 and the consumer needed a component, compatible with Java 11 - Other compatible attribute: - Doesn't say anything about org.gradle.plugin.api-version (required '8.7') - Variant 'runtimeElements' declares a library for use during runtime, packaged as a jar, and its dependencies declared externally: - Incompatible because this component declares a component, compatible with Java 17 and the consumer needed a component, compatible with Java 11 - Other compatible attribute: - Doesn't say anything about org.gradle.plugin.api-version (required '8.7') - Variant 'sourcesElements' declares a component for use during runtime, and its dependencies declared externally: - Incompatible because this component declares documentation and the consumer needed a library - Other compatible attributes: - Doesn't say anything about its elements (required them packaged as a jar) - Doesn't say anything about its target Java version (required compatibility with Java 11) - Doesn't say anything about org.gradle.plugin.api-version (required '8.7')
-```
 
-에러 내용 :
-	- Gradle 빌드 과정에서 발생한 에러
-	- 프로젝트 또는 의존성 중 하나가 Java 17을 사용하여 컴파일 되었으나
-	- 프로젝트 설정이 Java 11과의 호환성을 요구하고 있음
-
-해결 내용 :
-- gradle 설정이 java 17로 되어있는지 확인
-[# Spring Boot 3.x 실행이 안될 경우 (feat. IntelliJ)](https://jojoldu.tistory.com/698)
-- gradle 버전이 8.7 로 설치되어있는지 확인
-[[AWS] EC2 에 Spring boot 올리는 과정 및 삽질 (with java 17 + spring boot3.0)](https://thalals.tistory.com/408)
-- build.gradle파일에 `targetCompatibility` 설정 추가
-```java
-sourceCompatibility = '17'
-targetCompatibility = '17'
-```
-- 프로젝트에서 node-gradle을 사용했기 때문에, node와 npm 또한 EC2에 설치를 해줘야한다.
+위의 예시에서 `type`은 아티팩트 저장 유형을 의미하며, `s3`로 설정되어 있습니다. `bucket`은 아티팩트를 저장할 S3 버킷의 이름이며, `path`는 해당 버킷 내에서 아티팩트가 저장될 경로를 지정합니다.
