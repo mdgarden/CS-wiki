@@ -1,3 +1,10 @@
+---
+tags:
+  - Obsidian
+aliases:
+  - 콜아웃
+---
+
 # Callouts
 > [!note]
 
