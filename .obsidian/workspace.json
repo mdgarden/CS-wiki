@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d24b7aeb3e8cb828",
+        "id": "c5650e00fcf4f059",
         "type": "tabs",
         "children": [
           {
-            "id": "29e5a89ef970715f",
+            "id": "a073328b5cf10948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Build, Deployment.md",
+                "file": "AWS/Solution Architect/SAP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,45 +21,20 @@
             }
           },
           {
-            "id": "d13eaaa75563f3ab",
+            "id": "0bb8f4081eebcfd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Build, Deployment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70b22d376fc1a2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/개발자 도구/CodeDeploy/start.sh.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14810b1887af0ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/EC2/EC2의 세션.md",
+                "file": "AWS/Compute/LightSail.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Build, Deployment.md",
+                "file": "AWS/Compute/LightSail.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Build, Deployment.md"
+                "file": "AWS/Compute/LightSail.md"
               }
             }
           },
@@ -208,45 +183,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29e5a89ef970715f",
+  "active": "7be2fe09391a7d79",
   "lastOpenFiles": [
-    "AWS/개발자 도구/README.md",
-    "AWS/개발자 도구/CodePipeline/README.md",
+    "AWS/Solution Architect/SAP.md",
+    "AWS/Compute/LightSail.md",
+    "AWS/Compute",
+    "AWS/Developer Tools/CodeDeploy/Troubleshooting.md",
+    "AWS/IAM",
+    "Tools/Postman",
+    "AWS/Developer Tools/CodeDeploy/start.sh.md",
+    "AWS/Developer Tools/CodeDeploy/Q&A.md",
+    "AWS/Developer Tools/CodeDeploy/appspec.md",
+    "AWS/Developer Tools/README.md",
+    "AWS/Developer Tools/CodePipeline/README.md",
+    "AWS/Compute/EC2/EC2의 세션.md",
+    "General/Build, Deployment.md",
     "General/OS/Terminal, Kernel, Shell, Prompt.md",
     "General/Vim/단축키 모음.md",
-    "AWS/개발자 도구/CodeDeploy/appspec.md",
-    "AWS/개발자 도구/CodeBuild/Q&A.md",
-    "AWS/개발자 도구/CodeDeploy/Q&A.md",
-    "AWS/개발자 도구/CodeBuild/Settings.md",
-    "AWS/개발자 도구/CodeBuild/Troubleshooting.md",
-    "AWS/개발자 도구/CodeBuild/buildspec/discard-paths.md",
-    "AWS/개발자 도구/CodeBuild/buildspec/buildspec.md",
-    "General/Build, Deployment.md",
+    "AWS/Developer Tools/CodeBuild/Q&A.md",
+    "AWS/Developer Tools/CodeBuild/Settings.md",
+    "AWS/Developer Tools/CodeBuild/Troubleshooting.md",
+    "AWS/Developer Tools/CodeBuild/buildspec/discard-paths.md",
+    "AWS/Developer Tools/CodeBuild/buildspec/buildspec.md",
     "General/License.md",
-    "AWS/개발자 도구/CodeDeploy/Troubleshooting.md",
-    "AWS/EC2/EC2에 Node.js 설치하기.md",
-    "AWS/Solution Architect/SAP.md",
-    "AWS/lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+    "AWS/Compute/EC2/EC2에 Node.js 설치하기.md",
+    "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "Lang/README.md",
     "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
     "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
     "Lang/JavaScript/Framwork/Next.js/Next.js 도토리.md",
     "Lang/HTML-CSS/CSS/점선 만들기.md",
-    "Lang/HTML-CSS/CSS/TailwindCSS/Setup.md",
-    "Lang/HTML-CSS/CSS/SCSS/Setup.md",
-    "Lang/HTML-CSS/CSS/SCSS/sass - scss.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
-    "AWS/개발자 도구/CodeBuild/buildspec",
-    "AWS/개발자 도구/CodePipeline",
-    "AWS/개발자 도구/CodeDeploy",
-    "AWS/개발자 도구/CodeBuild",
+    "AWS/Developer Tools/CodeBuild/buildspec",
+    "AWS/Developer Tools/CodePipeline",
+    "AWS/Developer Tools/CodeDeploy",
+    "AWS/Developer Tools/CodeBuild",
     "src/Pasted image 20220929212226.png",
-    "src/Pasted image 20220917203120.png",
-    "AWS/EC2",
-    "AWS/개발자 도구",
-    "Lang/Java/Lecture/Fastcampus-sns"
+    "src/Pasted image 20220917203120.png"
   ]
 }

@@ -36,12 +36,12 @@ AWS에서 제공하는 Code 시리즈 서비스들은 개발 및 배포 프로�
 
 > [!note]
 > AWS Artifact와는 다른 서비스이다.
-### [[AWS/개발자 도구/CodeBuild/Q&A|AWS CodeBuild]]
+### [[AWS/Developer Tools/CodeBuild/Q&A|AWS CodeBuild]]
 
 - **역할**: 지속적 통합 서비스입니다.
 - **차이점과 기능**: CodeBuild는 소스 코드 컴파일, 테스트 실행, 배포 가능한 소프트웨어 패키지 생성 등의 빌드 작업을 자동화합니다. 서버를 관리할 필요 없이 빌드 프로세스를 구성하고 실행할 수 있으며, GitHub, Bitbucket, CodeCommit 등 여러 소스 공급자와 통합됩니다. CodeBuild는 자동 빌드, 테스트 및 패키지 생성을 통해 빠른 피드백과 배포 준비 과정을 지원합니다.
 
-### [[AWS/개발자 도구/CodeDeploy/Q&A|AWS CodeDeploy]]
+### [[AWS/Developer Tools/CodeDeploy/Q&A|AWS CodeDeploy]]
 
 - **역할**: 자동화된 애플리케이션 배포 서비스입니다.
 - **차이점과 기능**: CodeDeploy는 개발 및 프로덕션 환경에 애플리케이션을 자동으로 배포하는 기능을 제공합니다. EC2 인스턴스, 온프레미스 서버, Lambda 함수, Amazon ECS 서비스 등 다양한 대상에 배포를 지원합니다. CodeDeploy는 배포 과정을 자동화하고, 롤백, 배포 상태 추적 등의 기능을 통해 높은 가용성과 안정성을 보장합니다.
