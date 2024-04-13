@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Compute/LightSail.md",
+                "file": "AWS/Solution Architect/SAP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Compute/LightSail.md"
+                "file": "AWS/Solution Architect/SAP.md"
               }
             }
           },
