@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Compute/LightSail.md",
+                "file": "Algorithm and Datastructure/Hash, Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4b362a993b1175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm and Datastructure/Dynamic Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Solution Architect/SAP.md",
+                "file": "Algorithm and Datastructure/Dynamic Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Solution Architect/SAP.md"
+                "file": "Algorithm and Datastructure/Dynamic Programming.md"
               }
             }
           },
@@ -183,8 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be2fe09391a7d79",
+  "active": "4c4b362a993b1175",
   "lastOpenFiles": [
+    "Algorithm and Datastructure/Hash, Map.md",
+    "Algorithm and Datastructure/Dynamic Programming.md",
     "AWS/Solution Architect/SAP.md",
     "AWS/Compute/LightSail.md",
     "AWS/Compute",
@@ -212,8 +227,6 @@
     "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
     "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
-    "Lang/JavaScript/Framwork/Next.js/Next.js 도토리.md",
-    "Lang/HTML-CSS/CSS/점선 만들기.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
