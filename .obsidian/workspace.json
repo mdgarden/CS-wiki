@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
+                "file": "Algorithm and Datastructure/Recursion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
+                "file": "Algorithm and Datastructure/Recursion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md"
+                "file": "Algorithm and Datastructure/Recursion.md"
               }
             }
           },
@@ -224,12 +224,17 @@
   },
   "active": "f385bdba2a77a350",
   "lastOpenFiles": [
-    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
+    "Algorithm and Datastructure/Monotone Stack.md",
     "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
     "Architecture Design/UML.md",
     "Architecture Design/디렉토리 구조.md",
+    "Architecture Design/📖함수형 프로그래밍/README.md",
+    "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
+    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
     "Algorithm and Datastructure/Hash, Map.md",
     "Algorithm and Datastructure/Dynamic Programming.md",
     "Algorithm and Datastructure/Recursion.md",
@@ -248,11 +253,6 @@
     "AWS/Compute/EC2/EC2의 세션.md",
     "General/Build, Deployment.md",
     "General/OS/Terminal, Kernel, Shell, Prompt.md",
-    "General/Vim/단축키 모음.md",
-    "AWS/Developer Tools/CodeBuild/Q&A.md",
-    "AWS/Developer Tools/CodeBuild/Settings.md",
-    "AWS/Developer Tools/CodeBuild/Troubleshooting.md",
-    "AWS/Developer Tools/CodeBuild/buildspec/discard-paths.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
