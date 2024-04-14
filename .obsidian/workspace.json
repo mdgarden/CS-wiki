@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Dynamic Programming.md",
+                "file": "Architecture Design/디렉토리 구조.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "738d1f7dabd949be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Design/UML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Dynamic Programming.md",
+                "file": "Architecture Design/UML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/Dynamic Programming.md"
+                "file": "Architecture Design/UML.md"
               }
             }
           },
@@ -196,10 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c4b362a993b1175",
+  "active": "738d1f7dabd949be",
   "lastOpenFiles": [
+    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
+    "Architecture Design/UML.md",
+    "Architecture Design/디렉토리 구조.md",
     "Algorithm and Datastructure/Hash, Map.md",
     "Algorithm and Datastructure/Dynamic Programming.md",
+    "Algorithm and Datastructure/Recursion.md",
+    "Algorithm and Datastructure/Linked List.md",
     "AWS/Solution Architect/SAP.md",
     "AWS/Compute/LightSail.md",
     "AWS/Compute",
@@ -222,11 +240,6 @@
     "AWS/Developer Tools/CodeBuild/buildspec/buildspec.md",
     "General/License.md",
     "AWS/Compute/EC2/EC2에 Node.js 설치하기.md",
-    "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
-    "Lang/README.md",
-    "Lang/JavaScript/Framwork/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/Framwork/React/Document/State, Hooks.md",
-    "Lang/JavaScript/Framwork/React/Document/JSX tag, Fragment, Component.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
