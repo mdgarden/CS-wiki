@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md",
+                "file": "Draft/snip 스케치.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a69a739b0940788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft/abstract 클래스, 일반 클래스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md",
+                "file": "Draft/abstract 클래스, 일반 클래스.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md"
+                "file": "Draft/abstract 클래스, 일반 클래스.md"
               }
             }
           },
@@ -222,8 +235,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f385bdba2a77a350",
+  "active": "2a69a739b0940788",
   "lastOpenFiles": [
+    "Draft/snip 스케치.md",
+    "Draft/abstract 클래스, 일반 클래스.md",
+    "Lang/JavaScript/TypeScript",
+    "Draft/Untitled.md",
+    "Draft/아이디어 러프.md",
+    "Algorithm and Datastructure/Recursion.md",
     "Algorithm and Datastructure/Monotone Stack.md",
     "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
     "Architecture Design/UML.md",
@@ -237,7 +256,6 @@
     "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
     "Algorithm and Datastructure/Hash, Map.md",
     "Algorithm and Datastructure/Dynamic Programming.md",
-    "Algorithm and Datastructure/Recursion.md",
     "Algorithm and Datastructure/Linked List.md",
     "AWS/Solution Architect/SAP.md",
     "AWS/Compute/LightSail.md",
@@ -249,17 +267,12 @@
     "AWS/Developer Tools/CodeDeploy/Q&A.md",
     "AWS/Developer Tools/CodeDeploy/appspec.md",
     "AWS/Developer Tools/README.md",
-    "AWS/Developer Tools/CodePipeline/README.md",
-    "AWS/Compute/EC2/EC2의 세션.md",
-    "General/Build, Deployment.md",
-    "General/OS/Terminal, Kernel, Shell, Prompt.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
     "AWS/Developer Tools/CodeBuild/buildspec",
     "AWS/Developer Tools/CodePipeline",
     "AWS/Developer Tools/CodeDeploy",
-    "AWS/Developer Tools/CodeBuild",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png"
   ]
