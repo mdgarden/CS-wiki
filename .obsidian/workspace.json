@@ -78,7 +78,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/abstract 클래스, 일반 클래스.md",
+                "file": "Algorithm and Datastructure/Hash, Map.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1a1331319b0eee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm and Datastructure/DFS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "589957dd84258800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm and Datastructure/DFS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/abstract 클래스, 일반 클래스.md",
+                "file": "Algorithm and Datastructure/DFS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/abstract 클래스, 일반 클래스.md"
+                "file": "Algorithm and Datastructure/DFS.md"
               }
             }
           },
@@ -235,10 +261,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a69a739b0940788",
+  "active": "589957dd84258800",
   "lastOpenFiles": [
-    "Draft/snip 스케치.md",
+    "Algorithm and Datastructure/BFS.md",
+    "Algorithm and Datastructure/DFS.md",
+    "Algorithm and Datastructure/Hash, Map.md",
     "Draft/abstract 클래스, 일반 클래스.md",
+    "Draft/snip 스케치.md",
     "Lang/JavaScript/TypeScript",
     "Draft/Untitled.md",
     "Draft/아이디어 러프.md",
@@ -254,7 +283,6 @@
     "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
     "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
     "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
-    "Algorithm and Datastructure/Hash, Map.md",
     "Algorithm and Datastructure/Dynamic Programming.md",
     "Algorithm and Datastructure/Linked List.md",
     "AWS/Solution Architect/SAP.md",
@@ -265,8 +293,6 @@
     "Tools/Postman",
     "AWS/Developer Tools/CodeDeploy/start.sh.md",
     "AWS/Developer Tools/CodeDeploy/Q&A.md",
-    "AWS/Developer Tools/CodeDeploy/appspec.md",
-    "AWS/Developer Tools/README.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
