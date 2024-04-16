@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9263b8adb91e1a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/DFS.md",
+                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/DFS.md"
+                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md"
               }
             }
           },
@@ -261,10 +274,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589957dd84258800",
+  "active": "7be2fe09391a7d79",
   "lastOpenFiles": [
-    "Algorithm and Datastructure/BFS.md",
     "Algorithm and Datastructure/DFS.md",
+    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+    "Algorithm and Datastructure/BFS.md",
     "Algorithm and Datastructure/Hash, Map.md",
     "Draft/abstract 클래스, 일반 클래스.md",
     "Draft/snip 스케치.md",
@@ -292,7 +306,6 @@
     "AWS/IAM",
     "Tools/Postman",
     "AWS/Developer Tools/CodeDeploy/start.sh.md",
-    "AWS/Developer Tools/CodeDeploy/Q&A.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
