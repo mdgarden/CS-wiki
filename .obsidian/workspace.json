@@ -117,7 +117,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+                "file": "General/License.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6de01195d4ff8c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Pagination.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+                "file": "General/Pagination.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md"
+                "file": "General/Pagination.md"
               }
             }
           },
@@ -274,10 +287,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be2fe09391a7d79",
+  "active": "6de01195d4ff8c95",
   "lastOpenFiles": [
-    "Algorithm and Datastructure/DFS.md",
+    "General/License.md",
+    "General/Pagination.md",
     "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+    "Algorithm and Datastructure/DFS.md",
     "Algorithm and Datastructure/BFS.md",
     "Algorithm and Datastructure/Hash, Map.md",
     "Draft/abstract 클래스, 일반 클래스.md",
@@ -302,10 +317,8 @@
     "AWS/Solution Architect/SAP.md",
     "AWS/Compute/LightSail.md",
     "AWS/Compute",
-    "AWS/Developer Tools/CodeDeploy/Troubleshooting.md",
     "AWS/IAM",
     "Tools/Postman",
-    "AWS/Developer Tools/CodeDeploy/start.sh.md",
     "General/Vim",
     "General/OS/Linux/CLI",
     "General/OS/Linux",
