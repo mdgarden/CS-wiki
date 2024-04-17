@@ -289,6 +289,7 @@
   },
   "active": "6de01195d4ff8c95",
   "lastOpenFiles": [
+    "src/제목 없는 다이어그램.drawio",
     "General/License.md",
     "General/Pagination.md",
     "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
@@ -315,7 +316,6 @@
     "Algorithm and Datastructure/Dynamic Programming.md",
     "Algorithm and Datastructure/Linked List.md",
     "AWS/Solution Architect/SAP.md",
-    "AWS/Compute/LightSail.md",
     "AWS/Compute",
     "AWS/IAM",
     "Tools/Postman",
