@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5650e00fcf4f059",
+        "id": "770f5c67796accc9",
         "type": "tabs",
         "children": [
           {
-            "id": "a073328b5cf10948",
+            "id": "75b57c3e459f35e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Solution Architect/SAP.md",
+                "file": "General/Network/payload.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0bb8f4081eebcfd6",
+            "id": "4b018dd2e1b0b1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Hash, Map.md",
+                "file": "Algorithm and Datastructure/Recursion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,103 +34,12 @@
             }
           },
           {
-            "id": "4c4b362a993b1175",
+            "id": "85a7d22d2ccde72c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture Design/디렉토리 구조.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "738d1f7dabd949be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f385bdba2a77a350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/snip 스케치.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a69a739b0940788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Hash, Map.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a1331319b0eee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/DFS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "589957dd84258800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/DFS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9263b8adb91e1a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/License.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de01195d4ff8c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Pagination.md",
+                "file": "Algorithm and Datastructure/단축키.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CI/CD",
+                "query": "tag:#CodeDeploy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Pagination.md",
+                "file": "Algorithm and Datastructure/단축키.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Pagination.md"
+                "file": "Algorithm and Datastructure/단축키.md"
               }
             }
           },
@@ -287,35 +196,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6de01195d4ff8c95",
+  "active": "85a7d22d2ccde72c",
   "lastOpenFiles": [
-    "src/제목 없는 다이어그램.drawio",
-    "General/License.md",
-    "General/Pagination.md",
-    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
-    "Algorithm and Datastructure/DFS.md",
-    "Algorithm and Datastructure/BFS.md",
-    "Algorithm and Datastructure/Hash, Map.md",
-    "Draft/abstract 클래스, 일반 클래스.md",
-    "Draft/snip 스케치.md",
-    "Lang/JavaScript/TypeScript",
-    "Draft/Untitled.md",
-    "Draft/아이디어 러프.md",
     "Algorithm and Datastructure/Recursion.md",
-    "Algorithm and Datastructure/Monotone Stack.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/05. 유사한 코드 융합하기.md",
-    "Architecture Design/UML.md",
-    "Architecture Design/디렉토리 구조.md",
-    "Architecture Design/📖함수형 프로그래밍/README.md",
-    "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/README.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/04. 타입 코드 처리하기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
-    "Algorithm and Datastructure/Dynamic Programming.md",
+    "Algorithm and Datastructure/단축키.md",
+    "Tools/VSCode",
     "Algorithm and Datastructure/Linked List.md",
-    "AWS/Solution Architect/SAP.md",
+    "Algorithm and Datastructure/Dynamic Programming.md",
+    "Algorithm and Datastructure/DFS.md",
+    "Lang/JavaScript/Books/📖開眼！JavaScript/02 オブジェクトとプロパティを扱う.md",
+    "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+    "Lang/Java/IntelliJ ShortCuts.md",
+    "Lang/Java/Lecture/Java Tutorial-Full Course for Beginners/README.md.md",
+    "Lang/Java/Lecture/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
+    "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
+    "Lang/HTML-CSS/CSS/TailwindCSS/Setup.md",
+    "Lang/HTML-CSS/CSS/점선 만들기.md",
+    "Lang/HTML-CSS/CSS/SCSS/Setup.md",
+    "Lang/HTML-CSS/CSS/SCSS/sass - scss.md",
+    "Lang/README.md",
+    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+    "Lang/JavaScript/Tips/Object.md",
+    "Lang/JavaScript/Tips/How to/console.log 활용.md",
+    "Lang/JavaScript/Tips/How to/Axios.md",
+    "Lang/JavaScript/Tips/How to/Array.md",
+    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
+    "General/Network/포트포워딩, VPN, 프록시.md",
+    "General/Network/payload.md",
+    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/20. strict mode.md",
+    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/19. Prototype.md",
+    "src/제목 없는 다이어그램.drawio",
+    "Lang/JavaScript/TypeScript",
     "AWS/Compute",
     "AWS/IAM",
     "Tools/Postman",
@@ -323,8 +234,6 @@
     "General/OS/Linux/CLI",
     "General/OS/Linux",
     "AWS/Developer Tools/CodeBuild/buildspec",
-    "AWS/Developer Tools/CodePipeline",
-    "AWS/Developer Tools/CodeDeploy",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png"
   ]
