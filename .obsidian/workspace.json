@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/단축키.md",
+                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de6ef996b869b192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Design/디렉토리 구조.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06dc7e12ede9faa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Design/Layered Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/단축키.md",
+                "file": "Architecture Design/Layered Architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/단축키.md"
+                "file": "Architecture Design/Layered Architecture.md"
               }
             }
           },
@@ -196,14 +222,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85a7d22d2ccde72c",
+  "active": "06dc7e12ede9faa3",
   "lastOpenFiles": [
-    "Algorithm and Datastructure/Recursion.md",
+    "Architecture Design/디렉토리 구조.md",
+    "Architecture Design/Layered Architecture.md",
+    "Lang/JavaScript/TypeScript/Class.md",
+    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+    "General/Network/SSL, TSL.md",
+    "General/Network/payload.md",
+    "General/Network/curl.md",
+    "Algorithm and Datastructure/DFS.md",
     "Algorithm and Datastructure/단축키.md",
+    "Algorithm and Datastructure/Recursion.md",
     "Tools/VSCode",
     "Algorithm and Datastructure/Linked List.md",
     "Algorithm and Datastructure/Dynamic Programming.md",
-    "Algorithm and Datastructure/DFS.md",
     "Lang/JavaScript/Books/📖開眼！JavaScript/02 オブジェクトとプロパティを扱う.md",
     "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/Java/IntelliJ ShortCuts.md",
@@ -215,16 +248,9 @@
     "Lang/HTML-CSS/CSS/SCSS/Setup.md",
     "Lang/HTML-CSS/CSS/SCSS/sass - scss.md",
     "Lang/README.md",
-    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
     "Lang/JavaScript/Tips/Object.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
-    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
-    "General/Network/포트포워딩, VPN, 프록시.md",
-    "General/Network/payload.md",
-    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/20. strict mode.md",
-    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/19. Prototype.md",
     "src/제목 없는 다이어그램.drawio",
     "Lang/JavaScript/TypeScript",
     "AWS/Compute",
