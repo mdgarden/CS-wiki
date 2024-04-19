@@ -225,6 +225,8 @@
   "active": "06dc7e12ede9faa3",
   "lastOpenFiles": [
     "Architecture Design/디렉토리 구조.md",
+    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "Architecture Design/Layered Architecture.md",
     "Lang/JavaScript/TypeScript/Class.md",
     "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
@@ -249,8 +251,6 @@
     "Lang/HTML-CSS/CSS/SCSS/sass - scss.md",
     "Lang/README.md",
     "Lang/JavaScript/Tips/Object.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/Axios.md",
     "src/제목 없는 다이어그램.drawio",
     "Lang/JavaScript/TypeScript",
     "AWS/Compute",
