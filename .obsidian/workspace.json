@@ -4,141 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "770f5c67796accc9",
+        "id": "16437106aff7faee",
         "type": "tabs",
         "children": [
           {
-            "id": "75b57c3e459f35e9",
+            "id": "83bd7da27b049285",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Network/payload.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b018dd2e1b0b1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Recursion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85a7d22d2ccde72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de6ef996b869b192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/디렉토리 구조.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06dc7e12ede9faa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Linked List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2fd79341a14549f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Hash, Map.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1cbb5253f3ddc18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Algorithm/Back Tracking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1591379e2b2142a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Algorithm/BFS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d86974986d456155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Algorithm/Back Tracking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1942ad4b8ffd74c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm and Datastructure/Algorithm/BFS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Algorithm/BFS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm and Datastructure/Algorithm/BFS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -288,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1942ad4b8ffd74c1",
+  "active": "83bd7da27b049285",
   "lastOpenFiles": [
-    "Algorithm and Datastructure/Datastructure/Queue.md",
     "Algorithm and Datastructure/Algorithm/BFS.md",
+    "Algorithm and Datastructure/Datastructure/Queue.md",
     "Algorithm and Datastructure/Algorithm/Back Tracking.md",
     "Algorithm and Datastructure/Algorithm/DFS.md",
     "Algorithm and Datastructure/Algorithm.md",
