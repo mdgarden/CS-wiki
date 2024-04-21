@@ -60,8 +60,32 @@ function BFS(root: Node, target: Node): number {
   let step: number = 0; // root에서 현재 노드까지 필요한 단계 수
 
   queue.push(root);
+class Node {
+  // 가정으로, Node 클래스는 이웃 노드에 대한 정보를 갖고 있다고 가정합니다.
+  // 실제 구현에서는 이웃 노드들을 저장하는 방식(예: 배열, 연결 리스트 등)을 정의해야 합니다.
+  neighbors: Node[];
 
+  constructor() {
+    this.neighbors = [];
+  }
+}
+
+  while (queue.length > 0) {
+    // 큐에 이미 있는 노드들을 순회
+    let size: number = queue.length;
+    for (let i = 0; i < size; ++i) {
+      let cur: Node = queue.shift()!;
+      if (cur === target) {
+        return step;
+      }
+      // cur의 이웃들을 순회
+      for (let next of cur.neighbors) {
+        queue.push(next);
+      }
+    }
+    step += 1;
+  }
   
-  
+  return -1;  // root에서 target까지의 경로가 없음  
 }
 ```
