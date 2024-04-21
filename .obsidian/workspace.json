@@ -11,11 +11,30 @@
             "id": "83bd7da27b049285",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8c19fcb8f8cee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Design/📖파이브 라인스 오브 코드/후기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -82,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Architecture Design/📖파이브 라인스 오브 코드/후기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Architecture Design/📖파이브 라인스 오브 코드/후기.md"
+              }
             }
           },
           {
@@ -162,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83bd7da27b049285",
+  "active": "4a8c19fcb8f8cee7",
   "lastOpenFiles": [
+    "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/후기.md",
     "Algorithm and Datastructure/Algorithm/BFS.md",
     "Algorithm and Datastructure/Datastructure/Queue.md",
     "Algorithm and Datastructure/Algorithm/Back Tracking.md",
@@ -191,8 +214,6 @@
     "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/Java/IntelliJ ShortCuts.md",
     "Lang/Java/Lecture/Java Tutorial-Full Course for Beginners/README.md.md",
-    "Lang/Java/Lecture/Java Tutorial-Full Course for Beginners/1강 - 15강.md",
-    "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
     "src/제목 없는 다이어그램.drawio",
     "Lang/JavaScript/TypeScript",
     "AWS/Compute",
