@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bd7da27b049285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a8c19fcb8f8cee7",
+            "id": "e1d3bf081f6060c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,230 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e0886f30273318e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ee02f6e37befdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87bd74db24935015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "580a3927b722c16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98f4ba3ffdd669be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/07. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a9bc803383bf3ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/08. 계층형 설계 I.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c02d090b452fb511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/09. 계층형 설계 II.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4bcaba42486374a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/10. 일급 함수 I.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a9ffc1a2e863cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/11. 일급 함수 II.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be9d1aab75c89a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/12. 함수형 반복.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10bc79de4b5b111d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/13. 함수형 도구 체이닝.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b9045693ed11e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/14. 중첩된 데이터에 함수형 도구 사용하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f487a29b56338da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/15. 타임라인 격리하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "861996e129b8ef7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/16. 타임라인 사이에 자원 공유하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "065db5670c02d9c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/17. 타임라인 조율하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c181ec09054c39b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/18. 반응형 아키텍처와 어니언 아키텍처.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d3bf081f6060c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -321,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md"
+                "file": "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md"
               }
             }
           },
@@ -406,6 +172,7 @@
   },
   "active": "e1d3bf081f6060c6",
   "lastOpenFiles": [
+    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Architecture Design/📖함수형 프로그래밍/19. 함수형 프로그래밍 여행에 앞서.md",
     "Architecture Design/📖함수형 프로그래밍/18. 반응형 아키텍처와 어니언 아키텍처.md",
     "Architecture Design/📖함수형 프로그래밍/17. 타임라인 조율하기.md",
@@ -424,7 +191,6 @@
     "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
     "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
     "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Architecture Design/📖파이브 라인스 오브 코드/후기.md",
     "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
     "Algorithm and Datastructure/Algorithm/BFS.md",
