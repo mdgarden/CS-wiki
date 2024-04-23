@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
+                "file": "Algorithm and Datastructure/Recursion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddacb64d54315ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Tips/How to/Axios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
+                "file": "Lang/JavaScript/Tips/How to/Axios.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md"
+                "file": "Lang/JavaScript/Tips/How to/Axios.md"
               }
             }
           },
@@ -182,34 +196,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1d3bf081f6060c6",
+  "active": "ddacb64d54315ebb",
   "lastOpenFiles": [
+    "Lang/JavaScript/Tips/How to/console.log 활용.md",
+    "Lang/JavaScript/Tips/Object.md",
+    "Lang/JavaScript/Tips/How to/Axios.md",
+    "Lang/JavaScript/Tips/How to/Array.md",
+    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
+    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/19. Prototype.md",
+    "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/20. strict mode.md",
+    "Lang/JavaScript/Books/📖開眼！JavaScript/02 オブジェクトとプロパティを扱う.md",
+    "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+    "Architecture Design/UML.md",
+    "Architecture Design/Layered Architecture.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/후기.md",
+    "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
+    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
+    "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
+    "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
+    "Algorithm and Datastructure/프로그래머스 자료구조-알고리즘 레벨 구분.md",
+    "Algorithm and Datastructure/Recursion.md",
     "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
     "Architecture Design/📖함수형 프로그래밍/19. 함수형 프로그래밍 여행에 앞서.md",
     "Architecture Design/📖함수형 프로그래밍/README.md",
     "Lang/JavaScript/wrapper.md",
-    "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
     "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
     "Tools/Obsidian/Callouts.md",
-    "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
-    "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
     "Architecture Design/📖함수형 프로그래밍/18. 반응형 아키텍처와 어니언 아키텍처.md",
     "Architecture Design/📖함수형 프로그래밍/17. 타임라인 조율하기.md",
-    "Architecture Design/📖함수형 프로그래밍/16. 타임라인 사이에 자원 공유하기.md",
-    "Architecture Design/📖함수형 프로그래밍/15. 타임라인 격리하기.md",
-    "Architecture Design/📖함수형 프로그래밍/14. 중첩된 데이터에 함수형 도구 사용하기.md",
-    "Architecture Design/📖함수형 프로그래밍/13. 함수형 도구 체이닝.md",
-    "Architecture Design/📖함수형 프로그래밍/12. 함수형 반복.md",
-    "Architecture Design/📖함수형 프로그래밍/11. 일급 함수 II.md",
-    "Architecture Design/📖함수형 프로그래밍/10. 일급 함수 I.md",
-    "Architecture Design/📖함수형 프로그래밍/09. 계층형 설계 II.md",
-    "Architecture Design/📖함수형 프로그래밍/08. 계층형 설계 I.md",
-    "Architecture Design/📖함수형 프로그래밍/07. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
-    "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/후기.md",
-    "Architecture Design/📖파이브 라인스 오브 코드/06. 데이터 보호.md",
-    "Algorithm and Datastructure/Algorithm/BFS.md",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
     "Tools/VSCode",
