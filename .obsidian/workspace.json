@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/Axios.md",
+                "file": "AWS/Developer Tools/CodeBuild/Q&A.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/Axios.md",
+                "file": "AWS/Developer Tools/CodeBuild/Q&A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/Tips/How to/Axios.md"
+                "file": "AWS/Developer Tools/CodeBuild/Q&A.md"
               }
             }
           },
@@ -198,9 +198,12 @@
   },
   "active": "ddacb64d54315ebb",
   "lastOpenFiles": [
+    "AWS/Developer Tools/CodeBuild/buildspec/discard-paths.md",
+    "AWS/Developer Tools/CodeBuild/buildspec/buildspec.md",
+    "Algorithm and Datastructure/Algorithm/BFS.md",
+    "Lang/JavaScript/Tips/How to/Axios.md",
     "Lang/JavaScript/Tips/How to/console.log 활용.md",
     "Lang/JavaScript/Tips/Object.md",
-    "Lang/JavaScript/Tips/How to/Axios.md",
     "Lang/JavaScript/Tips/How to/Array.md",
     "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
     "Lang/JavaScript/Books/📖Modern JavaScript Deep Dive/19. Prototype.md",
@@ -221,9 +224,6 @@
     "Architecture Design/📖함수형 프로그래밍/README.md",
     "Lang/JavaScript/wrapper.md",
     "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
-    "Tools/Obsidian/Callouts.md",
-    "Architecture Design/📖함수형 프로그래밍/18. 반응형 아키텍처와 어니언 아키텍처.md",
-    "Architecture Design/📖함수형 프로그래밍/17. 타임라인 조율하기.md",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
     "Tools/VSCode",
