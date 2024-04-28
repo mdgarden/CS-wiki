@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16437106aff7faee",
+        "id": "ff75fc84e63de760",
         "type": "tabs",
         "children": [
           {
-            "id": "e1d3bf081f6060c6",
+            "id": "d60048266d6af519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "ddacb64d54315ebb",
+            "id": "5e5dfdc6e7b00c2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Developer Tools/CodeBuild/Q&A.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ab936a45e32ff76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Test/Mock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e212b336c8da7951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Test/Stub.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "101d96072c389ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/wrapper.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -139,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Test/Stub.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Test/Stub.md"
+                "file": "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md"
               }
             }
           },
@@ -216,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,10 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e212b336c8da7951",
+  "active": "5e5dfdc6e7b00c2d",
   "lastOpenFiles": [
-    "General/Test/Mock.md",
+    "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
+    "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
+    "Lang/SQL/SQL 기본 절, 커맨드.md",
     "General/Test/Stub.md",
+    "General/Test/Mock.md",
     "AWS/Developer Tools/CodeBuild/Q&A.md",
     "General/Test",
     "AWS/Developer Tools/CodeBuild/buildspec/discard-paths.md",
@@ -253,11 +219,8 @@
     "Architecture Design/📖파이브 라인스 오브 코드/03. 긴 코드 조각내기.md",
     "Architecture Design/📖함수형 프로그래밍/01. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다.md",
     "Architecture Design/📖함수형 프로그래밍/02. 현실에서의 함수형 사고.md",
-    "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
     "Algorithm and Datastructure/프로그래머스 자료구조-알고리즘 레벨 구분.md",
     "Algorithm and Datastructure/Recursion.md",
-    "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
-    "Architecture Design/📖함수형 프로그래밍/19. 함수형 프로그래밍 여행에 앞서.md",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
     "Tools/VSCode",
