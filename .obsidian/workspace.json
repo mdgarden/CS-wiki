@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md"
+                "file": "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "093597fc7795d928",
   "lastOpenFiles": [
+    "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
+    "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
+    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Draft/XOR 연산.md",
     "README.md",
     "General/Pagination.md",
@@ -203,9 +206,6 @@
     "General/Network/Autentication/인증의 구조와 방법.md",
     "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
     "General/Bluetooth/RN ble-plx & ESP32 앱 개발 기록.md",
-    "General/Bluetooth/BLE.md",
-    "General/Bluetooth/GATT.md",
-    "General/App/Foreground vs Background.md",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
