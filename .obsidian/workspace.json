@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "093597fc7795d928",
   "lastOpenFiles": [
+    "Draft/XOR 연산.md",
+    "README.md",
     "General/Pagination.md",
     "General/License.md",
     "General/i18n.md",
@@ -186,7 +188,6 @@
     "General/Test/Stub.md",
     "General/Network/OGP.md",
     "General/Network/payload.md",
-    "Draft/XOR 연산.md",
     "Draft/아이디어 러프.md",
     "CS/Least Significant Bit, LSB.md",
     "CS/XOR 연산.md",
@@ -205,7 +206,6 @@
     "General/Bluetooth/BLE.md",
     "General/Bluetooth/GATT.md",
     "General/App/Foreground vs Background.md",
-    "Draft/snip 스케치.md",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
