@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e8e8f172fa3e463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/XOR 연산.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e747b41d43eb2f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Least Significant Bit, LSB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/비트 단위 연산(bitwise operation).md",
+                "file": "CS/Least Significant Bit, LSB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/비트 단위 연산(bitwise operation).md"
+                "file": "CS/Least Significant Bit, LSB.md"
               }
             }
           },
@@ -204,10 +230,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c15c8f833ff01bc6",
+  "active": "e747b41d43eb2f4c",
   "lastOpenFiles": [
-    "General/Network/http, https, tcp, ws protocol.md",
+    "CS/XOR 연산.md",
+    "CS/Least Significant Bit, LSB.md",
     "CS/비트 단위 연산(bitwise operation).md",
+    "General/Network/http, https, tcp, ws protocol.md",
     "CS",
     "Draft/README.md",
     "General/Network/SSL, TSL.md",
@@ -231,8 +259,6 @@
     "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
     "General/Test/Stub.md",
-    "General/Test/Mock.md",
-    "AWS/Developer Tools/CodeBuild/Q&A.md",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
