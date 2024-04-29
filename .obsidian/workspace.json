@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/XOR 연산.md",
+                "file": "General/Network/payload.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "000e2d0b1fba0703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Network/OGP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -136,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/XOR 연산.md",
+                "file": "General/Network/OGP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/XOR 연산.md"
+                "file": "General/Network/OGP.md"
               }
             }
           },
@@ -244,10 +256,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dedfdb067c38460",
+  "active": "000e2d0b1fba0703",
   "lastOpenFiles": [
-    "Draft/아이디어 러프.md",
+    "General/Network/payload.md",
+    "General/Network/OGP.md",
     "Draft/XOR 연산.md",
+    "Draft/아이디어 러프.md",
     "CS/Least Significant Bit, LSB.md",
     "CS/XOR 연산.md",
     "CS/비트 단위 연산(bitwise operation).md",
@@ -255,7 +269,6 @@
     "CS",
     "Draft/README.md",
     "General/Network/SSL, TSL.md",
-    "General/Network/payload.md",
     "General/Network/Autentication/Session, Cookie.md",
     "General/Network/Autentication/OAuth 2.0.md",
     "General/Network/Autentication/JWT.md",
@@ -272,7 +285,6 @@
     "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
     "Architecture Design/📖함수형 프로그래밍/03. 액션과 계산, 데이터의 차이를 알기.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
-    "General/Test/Stub.md",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
