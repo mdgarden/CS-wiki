@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Network/curl.md",
+                "file": "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba445496fb15e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/Framework/Nest.js/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Network/curl.md",
+                "file": "Lang/JavaScript/Framework/Nest.js/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Network/curl.md"
+                "file": "Lang/JavaScript/Framework/Nest.js/README.md"
               }
             }
           },
@@ -191,8 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "301d8e20716ec9a1",
+  "active": "fba445496fb15e25",
   "lastOpenFiles": [
+    "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "Lang/JavaScript/Framework/Nest.js/README.md",
+    "General/Network/curl.md",
     "General/Network/포트포워딩, VPN, 프록시.md",
     "General/Network/TTFB.md",
     "General/Network/SSL, TSL.md",
@@ -217,9 +233,6 @@
     "Draft/README.md",
     "General/Network/Autentication/Session, Cookie.md",
     "General/Network/Autentication/OAuth 2.0.md",
-    "General/Network/Autentication/JWT.md",
-    "General/Network/Autentication/iron-session.md",
-    "General/Network/Autentication/인증의 구조와 방법.md",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
