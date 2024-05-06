@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md",
+                "file": "General/Network/OGP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "587a97049bf5d3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Network/Content Negotiation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c1471545d55b78f",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md",
+                "file": "General/Network/Content Negotiation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm and Datastructure/Recursion.md"
+                "file": "General/Network/Content Negotiation.md"
               }
             }
           },
@@ -205,8 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fba445496fb15e25",
+  "active": "587a97049bf5d3bd",
   "lastOpenFiles": [
+    "General/Network/OGP.md",
+    "General/Network/Content Negotiation.md",
+    "Algorithm and Datastructure/Recursion.md",
     "Pasted image 20240506104814.png",
     "Draft/아이디어 러프.md",
     "Draft/API 명세서 예시.md",
@@ -220,7 +235,6 @@
     "General/Network/TTFB.md",
     "General/Network/SSL, TSL.md",
     "General/Network/payload.md",
-    "General/Network/OGP.md",
     "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
     "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
     "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
@@ -233,7 +247,6 @@
     "General/Test/Stub.md",
     "CS/Least Significant Bit, LSB.md",
     "CS/XOR 연산.md",
-    "CS/비트 단위 연산(bitwise operation).md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
