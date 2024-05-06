@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/아이디어 러프.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a647291ce4952a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/API 명세서.md",
+                "file": "Algorithm and Datastructure/Recursion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,26 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "716fe3f9137d67b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95b5bb5e6f850e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/API 명세서 예시.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/API 명세서.md",
+                "file": "Algorithm and Datastructure/Recursion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/API 명세서.md"
+                "file": "Algorithm and Datastructure/Recursion.md"
               }
             }
           },
@@ -237,13 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a647291ce4952a2",
+  "active": "fba445496fb15e25",
   "lastOpenFiles": [
+    "Pasted image 20240506104814.png",
+    "Draft/아이디어 러프.md",
     "Draft/API 명세서 예시.md",
     "Draft/API 명세서.md",
     "Draft/README.md",
     "Untitled",
-    "Draft/아이디어 러프.md",
     "Lang/JavaScript/Framework/Nest.js/README.md",
     "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
     "General/Network/curl.md",
@@ -265,7 +234,6 @@
     "CS/Least Significant Bit, LSB.md",
     "CS/XOR 연산.md",
     "CS/비트 단위 연산(bitwise operation).md",
-    "General/Network/http, https, tcp, ws protocol.md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
