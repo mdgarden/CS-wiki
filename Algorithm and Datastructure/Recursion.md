@@ -27,9 +27,12 @@ console.log(`총 ${totalSteps}계단을 오르는 방법은 ${countWays(totalSte
 ```
 
 1. 주어진 문제에서 가장 간단한 입력을 찾는다.
-	- 많은 경우, 가장 간단한 입력이 Base Case가 된다.
+	- 많은 경우, 가장 간단한 입력이 Base Case(기저 사례, 종료 조건?)가 된다.
 2. 예시와 함께 주어진 문제를 시각화 한다.
 ![[Pasted image 20240506104814.png]]
 3. 어려운 케이스에서 쉬운 케이스로 연관성을 생각한다.
-https://www.youtube.com/watch?v=ngCos392W4w
 4. 패턴을 일반화 한다
+
+https://www.youtube.com/watch?v=ngCos392W4w
+https://www.youtube.com/watch?v=yio6FyP1N2k
+https://www.youtube.com/watch?v=xNzHu82cUrI
