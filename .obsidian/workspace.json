@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Network/Content Negotiation.md",
+                "file": "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Network/Content Negotiation.md",
+                "file": "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Network/Content Negotiation.md"
+                "file": "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "587a97049bf5d3bd",
   "lastOpenFiles": [
-    "General/Network/OGP.md",
     "General/Network/Content Negotiation.md",
+    "General/Network/OGP.md",
     "Algorithm and Datastructure/Recursion.md",
     "Pasted image 20240506104814.png",
     "Draft/아이디어 러프.md",
