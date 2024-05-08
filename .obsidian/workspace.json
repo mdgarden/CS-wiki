@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+                "file": "AWS/Developer Tools/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f87027f289c019dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
+                "file": "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md"
+                "file": "AWS/Developer Tools/내 배포는 뭐가 문제일까.md"
               }
             }
           },
@@ -217,8 +230,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587a97049bf5d3bd",
+  "active": "f87027f289c019dc",
   "lastOpenFiles": [
+    "AWS/Developer Tools/README.md",
+    "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
+    "AWS/Developer Tools/CodeBuild/Q&A.md",
+    "AWS/Developer Tools/CodeBuild/buildspec/buildspec.md",
+    "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "General/Network/Content Negotiation.md",
     "General/Network/OGP.md",
     "Algorithm and Datastructure/Recursion.md",
@@ -242,11 +260,6 @@
     "README.md",
     "General/Pagination.md",
     "General/License.md",
-    "General/i18n.md",
-    "General/Test/Mock.md",
-    "General/Test/Stub.md",
-    "CS/Least Significant Bit, LSB.md",
-    "CS/XOR 연산.md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
