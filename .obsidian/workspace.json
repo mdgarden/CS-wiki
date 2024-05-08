@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
+                "file": "AWS/Developer Tools/CodeDeploy/appspec.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
+                "file": "AWS/Developer Tools/CodeDeploy/appspec.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Developer Tools/내 배포는 뭐가 문제일까.md"
+                "file": "AWS/Developer Tools/CodeDeploy/appspec.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "f87027f289c019dc",
   "lastOpenFiles": [
-    "AWS/Developer Tools/README.md",
     "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
+    "AWS/Developer Tools/README.md",
     "AWS/Developer Tools/CodeBuild/Q&A.md",
     "AWS/Developer Tools/CodeBuild/buildspec/buildspec.md",
     "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
