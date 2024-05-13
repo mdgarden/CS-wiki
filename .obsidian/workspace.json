@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Developer Tools/CodeDeploy/appspec.md",
+                "file": "Lang/JavaScript/ES6/functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a69ee987d90e0bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/ES6/Type vs interface.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Developer Tools/CodeDeploy/appspec.md",
+                "file": "Lang/JavaScript/ES6/Type vs interface.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Developer Tools/CodeDeploy/appspec.md"
+                "file": "Lang/JavaScript/ES6/Type vs interface.md"
               }
             }
           },
@@ -230,8 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87027f289c019dc",
+  "active": "a69ee987d90e0bd6",
   "lastOpenFiles": [
+    "Lang/JavaScript/ES6/functions.md",
+    "Lang/JavaScript/ES6/Type vs interface.md",
+    "AWS/Developer Tools/CodeDeploy/appspec.md",
     "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
     "AWS/Developer Tools/README.md",
     "AWS/Developer Tools/CodeBuild/Q&A.md",
@@ -257,9 +273,6 @@
     "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
     "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
     "Draft/XOR 연산.md",
-    "README.md",
-    "General/Pagination.md",
-    "General/License.md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
