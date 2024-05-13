@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/ES6/Type vs interface.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/JavaScript/ES6/Type vs interface.md",
+                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/JavaScript/ES6/Type vs interface.md"
+                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md"
               }
             }
           },
@@ -245,8 +245,12 @@
   },
   "active": "a69ee987d90e0bd6",
   "lastOpenFiles": [
-    "Lang/JavaScript/ES6/functions.md",
+    "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
+    "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
+    "Architecture Design/📖함수형 프로그래밍/07. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
+    "Architecture Design/📖함수형 프로그래밍/08. 계층형 설계 I.md",
     "Lang/JavaScript/ES6/Type vs interface.md",
+    "Lang/JavaScript/ES6/functions.md",
     "AWS/Developer Tools/CodeDeploy/appspec.md",
     "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
     "AWS/Developer Tools/README.md",
@@ -269,10 +273,6 @@
     "General/Network/TTFB.md",
     "General/Network/SSL, TSL.md",
     "General/Network/payload.md",
-    "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
-    "Architecture Design/📖함수형 프로그래밍/04. 액션에서 계산 빼내기.md",
-    "Draft/뭔가 막혔는데 그게 뭔지 모르겠을 때.md",
-    "Draft/XOR 연산.md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
