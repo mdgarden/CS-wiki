@@ -8,98 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "093597fc7795d928",
+            "id": "5a9af10c06185276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Network/OGP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "301d8e20716ec9a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba445496fb15e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Network/OGP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587a97049bf5d3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Developer Tools/README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87027f289c019dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/ES6/functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a69ee987d90e0bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/JavaScript/wrapper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eec80a7b199287d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
+                "file": "Lang/JavaScript/얇은 복사, 깊은 복사.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
+                "file": "Lang/JavaScript/얇은 복사, 깊은 복사.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md"
+                "file": "Lang/JavaScript/얇은 복사, 깊은 복사.md"
               }
             }
           },
@@ -256,36 +177,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eec80a7b199287d",
+  "active": "5a9af10c06185276",
   "lastOpenFiles": [
-    "Lang/JavaScript/얇은 복사, 깊은 복사.md",
-    "Lang/JavaScript/wrapper.md",
     "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
+    "Lang/JavaScript/wrapper.md",
+    "Lang/JavaScript/ES6/functions.md",
+    "AWS/Developer Tools/README.md",
+    "General/Network/OGP.md",
+    "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
+    "README.md",
+    "Workflow/버전 관리 전략/Trunk-Based-Develop.md",
+    "Workflow",
+    "Pasted image 20240506104814.png",
+    "Tools/Git",
+    "General/i18n.md",
+    "Workflow/버전 관리 전략",
+    "Lang/JavaScript/얇은 복사, 깊은 복사.md",
     "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
     "Architecture Design/📖함수형 프로그래밍/07. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
     "Architecture Design/📖함수형 프로그래밍/08. 계층형 설계 I.md",
     "Lang/JavaScript/ES6/Type vs interface.md",
-    "Lang/JavaScript/ES6/functions.md",
     "AWS/Developer Tools/CodeDeploy/appspec.md",
     "AWS/Developer Tools/내 배포는 뭐가 문제일까.md",
-    "AWS/Developer Tools/README.md",
     "AWS/Developer Tools/CodeBuild/Q&A.md",
     "AWS/Developer Tools/CodeBuild/buildspec/buildspec.md",
     "AWS/Compute/Lambda/깃허브 액션으로 lambda 자동 배포하기.md",
     "General/Network/Content Negotiation.md",
-    "General/Network/OGP.md",
     "Algorithm and Datastructure/Recursion.md",
-    "Pasted image 20240506104814.png",
     "Draft/아이디어 러프.md",
     "Draft/API 명세서 예시.md",
     "Draft/API 명세서.md",
     "Draft/README.md",
-    "Untitled",
     "Lang/JavaScript/Framework/Nest.js/README.md",
-    "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "General/Network/curl.md",
-    "General/Network/포트포워딩, VPN, 프록시.md",
-    "General/Network/TTFB.md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
@@ -293,8 +216,6 @@
     "Tools/VSCode",
     "src/제목 없는 다이어그램.drawio",
     "Lang/JavaScript/TypeScript",
-    "AWS/Compute",
-    "AWS/IAM",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png"
   ]
