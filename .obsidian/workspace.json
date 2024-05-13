@@ -78,6 +78,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lang/JavaScript/wrapper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eec80a7b199287d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
                 "mode": "source",
                 "backlinks": true,
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,10 +256,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a69ee987d90e0bd6",
+  "active": "5eec80a7b199287d",
   "lastOpenFiles": [
-    "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
+    "Lang/JavaScript/얇은 복사, 깊은 복사.md",
+    "Lang/JavaScript/wrapper.md",
     "Architecture Design/📖함수형 프로그래밍/06. 변경 가능한 데이터 구조를 가진 언어에서 불변성을 유지하기.md",
+    "Architecture Design/📖함수형 프로그래밍/05. 더 좋은 액션 만들기.md",
     "Architecture Design/📖함수형 프로그래밍/07. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
     "Architecture Design/📖함수형 프로그래밍/08. 계층형 설계 I.md",
     "Lang/JavaScript/ES6/Type vs interface.md",
@@ -271,8 +286,6 @@
     "General/Network/curl.md",
     "General/Network/포트포워딩, VPN, 프록시.md",
     "General/Network/TTFB.md",
-    "General/Network/SSL, TSL.md",
-    "General/Network/payload.md",
     "CS",
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
