@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cece0858515075f3",
+        "id": "ddd3ed8c391197af",
         "type": "tabs",
         "children": [
           {
-            "id": "4059a9c850a4ce9b",
+            "id": "09e03bed089263c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ng build.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ng build"
             }
           }
         ]
@@ -194,38 +199,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4059a9c850a4ce9b",
+  "active": "09e03bed089263c0",
   "lastOpenFiles": [
+    "ng build.md",
+    "Lang/JavaScript/Framework/Angular",
+    "General/Network/포트포워딩, VPN, 프록시.md",
+    "General/Network/Autentication/Session, Cookie.md",
+    "General/Network/Content Negotiation.md",
+    "General/Network/curl.md",
+    "General/Network/http, https, tcp, ws protocol.md",
+    "General/Network/OGP.md",
+    "General/Network/payload.md",
+    "General/Network/SSL, TSL.md",
+    "General/Network/TTFB.md",
+    "General/Network/User Agent.md",
+    "General/Network/Autentication/인증의 구조와 방법.md",
+    "General/Network/Autentication/OAuth 2.0.md",
+    "General/Network/Autentication/JWT.md",
+    "General/Network/Autentication/iron-session.md",
+    "General/Network/📖Real World HTTP/01.HTTP_1.0의 세계_기본이 되는 4가지 요소.md",
+    "General/Test/Stub.md",
+    "General/Test/Mock.md",
+    "General/Vim/단축키 모음.md",
+    "General/환경 관련 뻘짓 모음.md",
+    "General/Artifact.md",
+    "General/Build, Deployment.md",
     "General/GMT, UTC, Unix Time.md",
-    "General/반응형 메모.md",
+    "General/License.md",
+    "General/Pagination.md",
+    "General/yaml, json, xml.md",
     "Pasted image 20240506104814.png",
-    "General/App/Foreground vs Background.md",
-    "Workflow/버전 관리 전략/Trunk-Based-Develop.md",
-    "CS/비트 단위 연산(bitwise operation).md",
-    "AWS/IAM/IAM 사례.md",
-    "Untitled.md",
     "AWS/IAM",
-    "Lang/SQL/SQL 기본 절, 커맨드.md",
-    "Lang/README.md",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
-    "Tools/Obsidian/Tags and Links.md",
-    "Tools/Obsidian/Callouts.md",
-    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
-    "Lang/JavaScript/TypeScript/Class.md",
-    "Lang/JavaScript/얇은 복사, 깊은 복사.md",
-    "Lang/JavaScript/Tips/Object.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
-    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/Framework/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/Framework/Next.js/Next.js 도토리.md",
-    "Lang/JavaScript/Framework/Nest.js/README.md",
-    "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/README.md",
-    "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/04. 핵심 도메인 로직을 포함하는 프로바이더.md",
-    "Lang/JavaScript/Framework/Nest.js/📖NestJS로 배우는 백엔드 프로그래밍/03. 애플리케이션의 관문 인터페이스.md",
-    "Lang/JavaScript/ES6/variables.md",
     "Workflow",
     "Tools/Git",
     "Workflow/버전 관리 전략",
@@ -233,7 +239,6 @@
     "General/Test",
     "Algorithm and Datastructure/Algorithm",
     "Algorithm and Datastructure/Datastructure",
-    "Tools/VSCode",
-    "src/제목 없는 다이어그램.drawio"
+    "Tools/VSCode"
   ]
 }
