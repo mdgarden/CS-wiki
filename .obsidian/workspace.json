@@ -11,13 +11,52 @@
             "id": "1024033c612d2175",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "타입과 값의 차이"
+            }
+          },
+          {
+            "id": "dd7492bdc573ab7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/JavaScript/TypeScript/enum과 const enum의 차이.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "enum과 const enum의 차이"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1024033c612d2175",
+  "active": "dd7492bdc573ab7f",
   "lastOpenFiles": [
+    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+    "Lang/JavaScript/TypeScript/enum과 const enum의 차이.md",
     "General/환경 관련 뻘짓 모음.md",
     "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/Java/IntelliJ ShortCuts.md",
@@ -227,8 +268,6 @@
     "CS/XOR 연산.md",
     "CS/Least Significant Bit, LSB.md",
     "Lang/SQL/SQL 기본 절, 커맨드.md",
-    "Lang/JavaScript/얇은 복사, 깊은 복사.md",
-    "Lang/JavaScript/wrapper.md",
     "Lang/JavaScript/Framework/Angular",
     "Pasted image 20240506104814.png",
     "AWS/IAM",
