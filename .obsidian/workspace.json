@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49187f9666fd56eb",
+        "id": "2db2608a053b99e7",
         "type": "tabs",
         "children": [
           {
-            "id": "b77818231db202d8",
+            "id": "1024033c612d2175",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Noto Sans와 OTF OFC Super OTC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Noto Sans와 OTF OFC Super OTC"
+              "title": "New tab"
             }
           }
         ]
@@ -209,13 +195,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b77818231db202d8",
+  "active": "1024033c612d2175",
   "lastOpenFiles": [
+    "General/환경 관련 뻘짓 모음.md",
+    "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
+    "Lang/Java/IntelliJ ShortCuts.md",
+    "Lang/Java/Lecture/Java Tutorial-Full Course for Beginners/README.md.md",
+    "Lang/Java/Lecture/Fastcampus-sns/발생한 오류 및 문제 정리.md",
+    "General/yaml, json, xml.md",
+    "General/Pagination.md",
+    "General/Build, Deployment.md",
+    "General/Design",
+    "General/Design/Noto Sans와 OTF OFC Super OTC.md",
+    "Git/Github/Github Actions/워크 플로 구문.md",
+    "Git/Github/Github Actions",
+    "Git/Github",
+    "Git",
     "General/Artifact.md",
     "General/GMT, UTC, Unix Time.md",
     "AWS/Compute/LightSail.md",
     "Lang/HTML-CSS/CSS/점선 만들기.md",
-    "General/Noto Sans와 OTF OFC Super OTC.md",
     "General/Vim/단축키 모음.md",
     "CS/비트 단위 연산(bitwise operation).md",
     "Lang/HTML-CSS/CSS/Hover, focus, and other states.md",
@@ -230,25 +229,12 @@
     "Lang/SQL/SQL 기본 절, 커맨드.md",
     "Lang/JavaScript/얇은 복사, 깊은 복사.md",
     "Lang/JavaScript/wrapper.md",
-    "Lang/JavaScript/TypeScript/Class.md",
-    "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
-    "Lang/JavaScript/Tips/How to/console.log 활용.md",
-    "Lang/JavaScript/Tips/How to/Axios.md",
-    "Lang/JavaScript/Tips/How to/스프레드 연산자, 구조 분해 할당.md",
-    "Lang/JavaScript/Tips/How to/Array.md",
-    "Lang/JavaScript/Framework/리액트 & RN 뻘짓 모음.md",
-    "Lang/JavaScript/Framework/React Native/RN의 flex와 scrollview.md",
-    "Lang/JavaScript/Framework/React Native/stack vs native stack.md",
     "Lang/JavaScript/Framework/Angular",
     "Pasted image 20240506104814.png",
     "AWS/IAM",
     "src/Pasted image 20220929212226.png",
     "src/Pasted image 20220917203120.png",
     "Workflow",
-    "Tools/Git",
-    "Workflow/버전 관리 전략",
-    "CS",
-    "General/Test",
-    "Algorithm and Datastructure/Algorithm"
+    "Tools/Git"
   ]
 }
