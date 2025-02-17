@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Compute/LightSail.md",
+                "file": "General/Noto Sans와 OTF OFC Super OTC.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "LightSail"
+              "title": "Noto Sans와 OTF OFC Super OTC"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,14 +211,15 @@
   },
   "active": "b77818231db202d8",
   "lastOpenFiles": [
-    "Lang/HTML-CSS/CSS/점선 만들기.md",
     "General/Artifact.md",
+    "General/GMT, UTC, Unix Time.md",
+    "AWS/Compute/LightSail.md",
+    "Lang/HTML-CSS/CSS/점선 만들기.md",
     "General/Noto Sans와 OTF OFC Super OTC.md",
     "General/Vim/단축키 모음.md",
     "CS/비트 단위 연산(bitwise operation).md",
     "Lang/HTML-CSS/CSS/Hover, focus, and other states.md",
     "AWS/Networking/CloudFront/캐시 관리.md",
-    "AWS/Compute/LightSail.md",
     "AWS/Networking/CloudFront",
     "AWS/Networking",
     "AWS/Developer Tools/README.md",
@@ -228,7 +239,6 @@
     "Lang/JavaScript/Framework/리액트 & RN 뻘짓 모음.md",
     "Lang/JavaScript/Framework/React Native/RN의 flex와 scrollview.md",
     "Lang/JavaScript/Framework/React Native/stack vs native stack.md",
-    "Lang/JavaScript/Framework/React Native/RN의 라우팅.md",
     "Lang/JavaScript/Framework/Angular",
     "Pasted image 20240506104814.png",
     "AWS/IAM",
