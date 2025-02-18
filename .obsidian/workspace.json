@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Github/Github Actions/워크 플로 구문.md",
+                "file": "Lang/JavaScript/TypeScript/enum과 const enum의 차이.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "워크 플로 구문"
+              "title": "enum과 const enum의 차이"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "dd7492bdc573ab7f",
   "lastOpenFiles": [
+    "Git/Github/Github Actions/워크 플로 구문.md",
     "Lang/JavaScript/TypeScript/enum과 const enum의 차이.md",
     "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
     "General/환경 관련 뻘짓 모음.md",
@@ -248,7 +249,6 @@
     "General/Build, Deployment.md",
     "General/Design",
     "General/Design/Noto Sans와 OTF OFC Super OTC.md",
-    "Git/Github/Github Actions/워크 플로 구문.md",
     "Git/Github/Github Actions",
     "Git/Github",
     "Git",
