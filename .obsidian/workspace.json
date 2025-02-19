@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+                "file": "Lang/JavaScript/얇은 복사, 깊은 복사.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "타입과 값의 차이"
+              "title": "얇은 복사, 깊은 복사"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "enum과 const enum의 차이"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,11 +233,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd7492bdc573ab7f",
+  "active": "1024033c612d2175",
   "lastOpenFiles": [
-    "Git/Github/Github Actions/워크 플로 구문.md",
-    "Lang/JavaScript/TypeScript/enum과 const enum의 차이.md",
     "Lang/JavaScript/TypeScript/타입과 값의 차이.md",
+    "Lang/JavaScript/TypeScript/enum과 const enum의 차이.md",
+    "Git/Github/Github Actions/워크 플로 구문.md",
     "General/환경 관련 뻘짓 모음.md",
     "Lang/JavaScript/Books/📖開眼！JavaScript/01 JavaScript オブジェクト.md",
     "Lang/Java/IntelliJ ShortCuts.md",
